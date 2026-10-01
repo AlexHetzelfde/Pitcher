@@ -1,0 +1,194 @@
+:root {
+  --kleur-achtergrond: #f7f5f0;
+  --kleur-tekst: #1f2321;
+  --kleur-accent: #2f6b4f;
+  --kleur-accent-licht: #e4efe8;
+  --kleur-rand: #d8d3c8;
+  --kleur-lokaal: #2f6b4f;
+  --kleur-landelijk: #4a5b8c;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--kleur-achtergrond);
+  color: var(--kleur-tekst);
+  line-height: 1.5;
+}
+
+.site-header {
+  padding: 2rem 1.5rem 1.5rem;
+  background: var(--kleur-accent);
+  color: white;
+  text-align: center;
+}
+
+.site-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.6rem;
+}
+
+.subtitel {
+  margin: 0;
+  opacity: 0.9;
+  font-size: 0.95rem;
+}
+
+.laatste-update {
+  margin: 0.5rem 0 0;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  border-bottom: 2px solid var(--kleur-rand);
+  padding-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.uitleg {
+  color: #555;
+  font-size: 0.9rem;
+  margin-top: -0.5rem;
+}
+
+.kaarten-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.pitch-kaart {
+  background: white;
+  border: 1px solid var(--kleur-rand);
+  border-left: 4px solid var(--kleur-accent);
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.pitch-kaart h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+}
+
+.pitch-kaart a {
+  color: var(--kleur-tekst);
+  text-decoration: none;
+}
+
+.pitch-kaart a:hover {
+  text-decoration: underline;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  margin-bottom: 0.5rem;
+}
+
+.badge.lokaal {
+  background: var(--kleur-accent-licht);
+  color: var(--kleur-lokaal);
+}
+
+.badge.landelijk {
+  background: #e7eaf5;
+  color: var(--kleur-landelijk);
+}
+
+.invalshoek {
+  font-size: 0.85rem;
+  color: #333;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.bron-titel {
+  font-size: 0.8rem;
+  color: #777;
+  margin: -0.25rem 0 0.5rem;
+}
+
+.bron-titel a {
+  color: inherit;
+}
+
+.vervolgstappen {
+  margin: 0.5rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.8rem;
+  color: #444;
+}
+
+.vervolgstappen li {
+  margin-bottom: 0.2rem;
+}
+
+.score {
+  font-size: 0.75rem;
+  color: #777;
+  margin-top: 0.5rem;
+}
+
+.berichten-lijst {
+  margin-top: 1rem;
+}
+
+.bericht-rij {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--kleur-rand);
+  font-size: 0.9rem;
+}
+
+.bericht-rij a {
+  color: var(--kleur-tekst);
+}
+
+.bericht-meta {
+  color: #777;
+  white-space: nowrap;
+  font-size: 0.8rem;
+}
+
+.laden,
+.leeg,
+.foutmelding {
+  color: #777;
+  font-style: italic;
+}
+
+.foutmelding {
+  color: #a33;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  font-size: 0.8rem;
+  color: #777;
+  border-top: 1px solid var(--kleur-rand);
+}

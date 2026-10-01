@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nieuwsaggregator Zaanstreek-Waterland</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Nieuwsaggregator Zaanstreek-Waterland</h1>
+    <p class="subtitel">Dagelijkse pitchmachine voor lokale journalistiek — bijgewerkt elke avond om 18:00</p>
+    <p id="laatste-update" class="laatste-update"></p>
+  </header>
+
+  <main>
+    <section id="pitches-sectie">
+      <h2>Top 10 pitches van vandaag</h2>
+      <p class="uitleg">Berichten die de AI als "oppakbaar" (lokaal nieuws) of met een "lokale invalshoek" (landelijk nieuws) heeft beoordeeld, gesorteerd op nieuwswaarde-score.</p>
+      <div id="pitches-lijst" class="kaarten-grid">
+        <p class="laden">Pitches laden…</p>
+      </div>
+    </section>
+
+    <section id="lokaal-sectie">
+      <h2>Alle lokale berichten</h2>
+      <div id="lokaal-lijst" class="berichten-lijst">
+        <p class="laden">Berichten laden…</p>
+      </div>
+    </section>
+
+    <section id="landelijk-sectie">
+      <h2>Alle landelijke berichten</h2>
+      <div id="landelijk-lijst" class="berichten-lijst">
+        <p class="laden">Berichten laden…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Gebouwd voor lokale journalistiek in Zaanstreek-Waterland. Scoresysteem en AI-prompts gebaseerd op <em>Basisboek journalistiek schrijven</em> (5e druk, Noordhoff).</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
