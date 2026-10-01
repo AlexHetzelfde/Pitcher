@@ -136,13 +136,6 @@ module.exports = [
     url: "https://zaanscultuurhuis.nl/agenda",
   },
   {
-    id: "orkaan",
-    naam: "orkaan",
-    categorie: "lokaal",
-    type: "wordpress-html",
-    url: "https://waarheen.deorkaan.nl/agenda/",
-  },
-  {
     id: "WaarheenAgenda",
     naam: "WaarheenAgenda",
     categorie: "lokaal",
