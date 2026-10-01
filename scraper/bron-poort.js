@@ -24,6 +24,7 @@
 // waar twee weken niets is geplaatst, is geen kapotte bron.
 
 const { scraperVoorType } = require("./scraper-register");
+const { isNetwerkFout, oorzaakTekst } = require("./hulpmiddelen");
 
 // Recept-typen die op HTML-selectors leunen. Daar kan "1 match" toeval zijn,
 // dus zonder referentielijst van Gemini eisen we minstens 3 berichten.
@@ -151,7 +152,7 @@ function beoordeelResultaat(bron, berichten, opties = {}) {
   statistieken.metDatum = metDatum.length;
   if (datumDekking < MIN_DATUMDEKKING) {
     redenen.push(
-      `Slechts ${metDatum.length} van ${aantal} berichten hebben een leesbare datum. De dagelijkse run weert berichten zonder datum als "te oud", dus deze bron zou vrijwel niets opleveren.`
+      `Slechts ${metDatum.length} van ${aantal} berichten hebben een leesbare datum. De dagelijkse run weert berichten zonder datum als "te oud", dus deze bron zou vrijwel niets opleveren. Staan de datums zonder jaar (zoals "30 sep")? Kies dan soort "agenda" in plaats van "nieuws".`
     );
   } else if (metDatum.length < aantal) {
     waarschuwingen.push(`${aantal - metDatum.length} van ${aantal} berichten hebben geen leesbare datum; die worden 's nachts als "te oud" geweerd.`);
@@ -225,12 +226,20 @@ async function testBron(bron, opties = {}) {
   try {
     berichten = await draaiScraper(bron);
   } catch (fout) {
+    // Een netwerkfout zegt niets over het recept. Zo markeren dat de aanroeper niet de
+    // schuld bij het recept legt (en Gemini er geen misleidende feedback over krijgt).
+    const infra = isNetwerkFout(fout);
     return {
       geslaagd: false,
+      infra,
       twijfel: false,
       rustig: false,
       aantal: 0,
-      redenen: [`De scraper zelf gaf een fout: ${fout.message}`],
+      redenen: [
+        infra
+          ? `De pagina was tijdens het testen niet bereikbaar (${fout.message}${oorzaakTekst(fout)}). Dit zegt niets over het recept zelf.`
+          : `De scraper zelf gaf een fout: ${fout.message}`,
+      ],
       waarschuwingen: [],
       dekking: null,
       ontbrekend: [],
