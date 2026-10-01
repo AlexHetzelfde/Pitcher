@@ -26,13 +26,6 @@ module.exports = [
     url: "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Details/58e397b1-0b36-49e2-90ed-325405f27f72",
   },
   {
-    id: "nos-binnenland",
-    naam: "NOS — Binnenland",
-    categorie: "landelijk",
-    type: "rss",
-    url: "https://feeds.nos.nl/nosnieuwsbinnenland",
-  },
-  {
     id: "ovo-zaanstad",
     naam: "OVO Zaanstad (koepel 7 vo-scholen)",
     categorie: "lokaal",
