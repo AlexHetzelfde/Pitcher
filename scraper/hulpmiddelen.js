@@ -356,7 +356,7 @@ function parseerDatumTekst(tekst, opties = {}) {
  * kunnen aanpassen. Met { stil: true } als derde argument blijven de
  * waarschuwingen per mislukte poging achterwege.
  */
-async function haalOp(url, pogingen = 3, opties = {}) {
+async function haalOpEcht(url, pogingen = 3, opties = {}) {
   let laatsteFout;
   let dispatcher; // blijft gezet zodra een reparatie eenmaal gelukt is voor deze host
   for (let poging = 1; poging <= pogingen; poging++) {
@@ -411,6 +411,51 @@ async function haalOp(url, pogingen = 3, opties = {}) {
   throw laatsteFout;
 }
 
+/**
+ * Responscache voor één ontdekkingsrun (bron-ontdekking.js). Bij het uitzoeken
+ * van een bron wordt dezelfde pagina door veel tests gebruikt: de ontdekking
+ * zelf, de JSON-LD-test, en elke Gemini-poging (soms twee keer). Zonder cache
+ * waren dat tientallen verzoeken op één url binnen een minuut; sommige sites
+ * (of hun firewall) laten de verbinding dan verlopen, waarna een goed recept
+ * ten onrechte als fout werd beoordeeld. Met de cache gaat elke url één keer
+ * over het netwerk, en testen alle methodes op precies dezelfde HTML.
+ *
+ * Alleen aan tijdens een ontdekkingsrun. De dagelijkse run gebruikt hem niet,
+ * want daar wil je elke nacht verse pagina's. Met RESPONSCACHE=uit staat hij
+ * ook tijdens ontdekking uit (alleen voor het zoeken naar fouten).
+ */
+let responsCache = null;
+
+function startResponsCache() {
+  responsCache = process.env.RESPONSCACHE === "uit" ? null : new Map();
+}
+
+function stopResponsCache() {
+  responsCache = null;
+}
+
+async function haalOp(url, pogingen = 3, opties = {}) {
+  if (responsCache && responsCache.has(url)) return responsCache.get(url);
+  const tekst = await haalOpEcht(url, pogingen, opties);
+  if (responsCache) responsCache.set(url, tekst);
+  return tekst;
+}
+
+/**
+ * Is dit een fout van het netwerk of de server (time-out, verbinding verbroken,
+ * 429, 5xx, 403) in plaats van een fout in wat we ermee doen? Dan zegt een
+ * mislukte test niets over de kwaliteit van een recept, en moeten we dat ook
+ * niet als zodanig behandelen.
+ */
+function isNetwerkFout(fout) {
+  if (!fout) return false;
+  const codes = ["ETIMEDOUT", "ECONNRESET", "ECONNREFUSED", "ENOTFOUND", "EAI_AGAIN", "EPIPE", "UND_ERR_CONNECT_TIMEOUT", "UND_ERR_SOCKET", "UND_ERR_HEADERS_TIMEOUT"];
+  const cause = fout.cause;
+  const gevonden = [fout.code, cause && cause.code, ...((cause && cause.errors) || []).map((e) => e && e.code)];
+  if (gevonden.some((c) => codes.includes(c))) return true;
+  return /fetch failed|aborted|timed out|timeout|HTTP (403|429|5\d\d)\b/i.test(String(fout.message));
+}
+
 function nieuweWacht(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -441,6 +486,9 @@ function schoonmakenSamenvatting(tekst) {
 
 module.exports = {
   haalOp,
+  startResponsCache,
+  stopResponsCache,
+  isNetwerkFout,
   parseerRssTekst,
   oorzaakTekst,
   probeerKetenTeRepareren,
