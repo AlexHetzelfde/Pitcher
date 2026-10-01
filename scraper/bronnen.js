@@ -142,4 +142,19 @@ module.exports = [
     type: "wordpress-html",
     url: "https://waarheen.deorkaan.nl/agenda/",
   },
+  {
+    id: "WaarheenAgenda",
+    naam: "WaarheenAgenda",
+    categorie: "lokaal",
+    type: "gemini-recept",
+    url: "https://waarheen.deorkaan.nl/agenda/",
+    soort: "agenda",
+    selectors: {
+      itemSelector: "a.event-card",
+      titelSelector: "h2",
+      linkSelector: "self",
+      datumSelector: ".date",
+      datumAttribuut: null,
+    },
+  },
 ];
