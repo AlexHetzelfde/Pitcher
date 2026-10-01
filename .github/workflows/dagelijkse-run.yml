@@ -1,0 +1,72 @@
+name: Dagelijkse nieuwsrun
+
+# Draait automatisch elke avond via GitHub's eigen schedule (zie 'cron'
+# hieronder) — geen externe cron-service meer nodig. Cron-tijden in GitHub
+# Actions zijn ALTIJD in UTC; 21:00 UTC komt overeen met 23:00 in Nederland
+# in de winter (CET, UTC+1). In de zomer (CEST, UTC+2, van eind maart tot
+# eind oktober) is 21:00 UTC dus 23:00 - 1 = 22:00 uur Nederlandse tijd — een
+# uur eerder dan bedoeld. Dat is de prijs van één vaste cron-tijd; wil je het
+# hele jaar door precies 23:00 Nederlandse tijd, dan zijn er twee cron-regels
+# nodig (één voor winter, één voor zomer, elk actief op de juiste maanden).
+#
+# Je kunt 'm ook nog altijd gewoon handmatig starten via de Actions-tab
+# ("Run workflow") — handig om te testen.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 21 * * *"
+
+permissions:
+  contents: write # nodig om de data/*.json bestanden terug te committen
+  pull-requests: write # zelfherstel: een kapotte bron als pull request voorstellen
+  issues: write # zelfherstel: een issue openen als er niets werkends te vinden is
+
+jobs:
+  scrape-en-beoordeel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Node.js instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          # Geen 'cache: npm' — daarvoor is een package-lock.json nodig,
+          # en die leveren we bewust niet mee (zie scraper/package.json).
+
+      - name: Dependencies installeren
+        working-directory: scraper
+        run: npm install
+
+      - name: bronnen.js valideren
+        working-directory: scraper
+        run: node valideer-bronnen.js
+
+      - name: Scraper draaien
+        working-directory: scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm start
+
+      - name: Resultaten committen
+        run: |
+          git config user.name "nieuwsaggregator-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json
+          git diff --quiet --cached || git commit -m "Dagelijkse update: $(TZ='Europe/Amsterdam' date '+%Y-%m-%d %H:%M')"
+          git push
+
+      # Zelfherstel: bronnen die twee runs achter elkaar niets opleverden worden
+      # opnieuw uitgezocht. Het resultaat komt NOOIT direct op main, maar als pull
+      # request (gelukt) of issue (mislukt), zodat jij met één klik beslist.
+      # continue-on-error: dit is een extra. Als het faalt (bijvoorbeeld door een
+      # tijdelijke GitHub- of Gemini-storing) mag de dagelijkse run daar niet rood
+      # van worden, want de data is hierboven al veilig gecommit.
+      - name: Bronnen die niets opleveren zelf laten herstellen
+        continue-on-error: true
+        working-directory: scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: node herstel-bronnen.js

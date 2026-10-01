@@ -1,0 +1,97 @@
+name: Bron toevoegen
+
+# Handmatig te starten vanuit de Actions-tab, met invulvelden voor de URL,
+# een zelfgekozen bron-id en de categorie. Draait volledig op GitHub,
+# geen lokale computer, Terminal of git-kennis nodig.
+#
+# De bron wordt pas toegevoegd als is BEWEZEN dat hij werkt: de echte scraper
+# moet berichten ophalen die aan de kwaliteitseisen voldoen (zie
+# scraper/bron-poort.js). Lukt dat niet, dan wordt deze workflow rood en
+# verandert er niets aan bronnen.js. In de samenvatting bovenaan de run staat
+# wat er geprobeerd is en waarom het niet werkte.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL van de nieuwe nieuwspagina (of agenda)"
+        required: true
+        type: string
+      bron_id:
+        description: "Korte naam voor deze bron, geen spaties (bv. voorbeeld-nieuws)"
+        required: true
+        type: string
+      categorie:
+        description: "Categorie"
+        required: true
+        type: choice
+        options:
+          - lokaal
+          - landelijk
+        default: lokaal
+      soort:
+        description: "Soort bron. Auto herkent agenda's zelf; kies agenda als de datums de datum van het evenement zijn"
+        required: true
+        type: choice
+        options:
+          - auto
+          - nieuws
+          - agenda
+        default: auto
+      vervang:
+        description: "Een bestaande bron met dit id vervangen, ook als die nog werkt (een kapotte bron wordt altijd vervangen)"
+        required: true
+        type: boolean
+        default: false
+      accepteer_twijfel:
+        description: "Ook een kandidaat accepteren die slaagt maar niet als link op de pagina staat (alleen na het controleren van de voorbeelden)"
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # nodig om bronnen.js terug te committen
+
+jobs:
+  voeg-bron-toe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Node.js instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Dependencies installeren
+        working-directory: scraper
+        run: npm install
+
+      # De invoer gaat via omgevingsvariabelen en niet rechtstreeks in het
+      # commando, zodat een vreemd teken in een url of id nooit als
+      # shell-commando kan worden uitgevoerd.
+      - name: Bron ophalen, analyseren en testen
+        working-directory: scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BRON_URL: ${{ inputs.url }}
+          BRON_ID: ${{ inputs.bron_id }}
+          BRON_CATEGORIE: ${{ inputs.categorie }}
+          SOORT: ${{ inputs.soort }}
+          VERVANG: ${{ inputs.vervang }}
+          ACCEPTEER_TWIJFEL: ${{ inputs.accepteer_twijfel }}
+        run: node voeg-bron-toe.js "$BRON_URL" "$BRON_ID" "$BRON_CATEGORIE"
+
+      - name: bronnen.js valideren (laatste check vóór commit)
+        working-directory: scraper
+        run: node valideer-bronnen.js
+
+      - name: bronnen.js committen
+        env:
+          BRON_ID: ${{ inputs.bron_id }}
+        run: |
+          git config user.name "nieuwsaggregator-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add scraper/bronnen.js
+          git diff --quiet --cached || git commit -m "Bron toegevoegd of hersteld via workflow: $BRON_ID"
+          git push
