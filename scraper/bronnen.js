@@ -143,4 +143,11 @@ module.exports = [
       datumAttribuut: null,
     },
   },
+  {
+    id: "hhnk",
+    naam: "hhnk",
+    categorie: "lokaal",
+    type: "generieke-lijst",
+    url: "https://www.hhnk.nl/nieuws",
+  },
 ];
