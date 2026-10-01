@@ -27,7 +27,7 @@
 // Er is dus één ontdekkingslogica, geen twee die uit elkaar kunnen lopen.
 
 const cheerio = require("cheerio");
-const { haalOp, oorzaakTekst } = require("./hulpmiddelen");
+const { haalOp, oorzaakTekst, startResponsCache, stopResponsCache } = require("./hulpmiddelen");
 const { testBron, normaliseerUrl, voorbeeldRegels, SELECTOR_TYPES } = require("./bron-poort");
 const { probeerGeneriekePatronen } = require("./scrapers/generieke-lijst");
 
@@ -104,7 +104,12 @@ function feedKandidaten($, url) {
   return [...new Set(uit)];
 }
 
+const pauze = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 async function probeerTekst(url) {
+  // Een korte pauze tussen proefverzoeken: ruim tien gokjes op feed-paden achter elkaar
+  // lijkt voor een firewall al snel op een aanval.
+  await pauze(300);
   try {
     return await haalOp(url, 1, { stil: true });
   } catch {
@@ -187,6 +192,16 @@ function kiesSoort(soortKeuze, gebruiktSoort, url, oordeel) {
  *   alleen een kandidaat is die slaagde maar mogelijk niet bij de pagina hoort.
  */
 async function ontdekBron(opties) {
+  // Elke url gaat in deze run maar één keer over het netwerk (zie startResponsCache in hulpmiddelen.js).
+  startResponsCache();
+  try {
+    return await ontdekBronIntern(opties);
+  } finally {
+    stopResponsCache();
+  }
+}
+
+async function ontdekBronIntern(opties) {
   const { url, id, categorie = "lokaal", soort: soortKeuze = "auto", apiKey, vraagGemini, log = console } = opties;
   const naam = opties.naam || id;
   const basis = { id, naam, categorie };
@@ -202,6 +217,7 @@ async function ontdekBron(opties) {
   const $ = cheerio.load(html);
   const paginaLinks = verzamelPaginaLinks($, url);
 
+  let infraGezien = false; // minstens één test mislukte door het netwerk, niet door het recept
   let reserve = null; // geslaagde maar twijfelachtige kandidaat, alleen te gebruiken als niets anders lukt
   const agendaVoorkeur = soortKeuze === "agenda" || (soortKeuze === "auto" && agendaAchtig(url));
 
@@ -229,6 +245,7 @@ async function ontdekBron(opties) {
    */
   function verwerk(stap, resultaat, datumSoort = "gebeurtenis") {
     noteer(verslag, log, stap, resultaat.kandidaat, resultaat.oordeel);
+    if (resultaat.oordeel.infra) infraGezien = true;
     if (!resultaat.oordeel.geslaagd) return null;
     let soort;
     if (datumSoort === "publicatie") {
@@ -327,6 +344,14 @@ async function ontdekBron(opties) {
     return { bron: reserve.bron, oordeel: reserve.oordeel, verslag, twijfelachtig: true };
   }
 
+  if (infraGezien) {
+    return {
+      bron: null,
+      oordeel: null,
+      verslag,
+      fout: "De site was tijdens het testen (deels) niet bereikbaar vanaf GitHub, dus niet alle methodes konden eerlijk worden beoordeeld. Probeer het over een paar minuten opnieuw.",
+    };
+  }
   return { bron: null, oordeel: null, verslag, fout: "Geen enkele methode haalde de poort." };
 }
 
