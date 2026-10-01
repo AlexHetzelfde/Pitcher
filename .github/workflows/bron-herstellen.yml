@@ -1,0 +1,54 @@
+name: Bron herstellen
+
+# Handmatig een bron laten herstellen die niets meer oplevert, zonder te
+# wachten tot de dagelijkse run dat na twee lege runs zelf doet. Er wordt
+# opnieuw uitgezocht hoe de bron op te halen is (dezelfde ontdekking en
+# poort als bij "Bron toevoegen"). Het resultaat komt als pull request, of als
+# issue als er niets werkends te vinden is. Er wordt nooit iets rechtstreeks
+# op main gezet.
+#
+# Eenmalige repo-instelling voor de pull requests: Settings > Actions >
+# General > "Allow GitHub Actions to create and approve pull requests". Staat
+# die uit, dan valt het script terug op een issue en staat de oplossing klaar
+# op de branch herstel/<bron-id>.
+on:
+  workflow_dispatch:
+    inputs:
+      bron_id:
+        description: "Bron-id uit bronnen.js, of 'alle' voor alle bronnen die de laatste run leeg waren"
+        required: true
+        type: string
+
+permissions:
+  contents: write # de herstel-branch pushen
+  pull-requests: write # de pull request openen
+  issues: write # een issue openen als er niets werkt
+
+jobs:
+  herstel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Node.js instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Dependencies installeren
+        working-directory: scraper
+        run: npm install
+
+      - name: Git-identiteit instellen
+        run: |
+          git config user.name "nieuwsaggregator-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Bron herstellen
+        working-directory: scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          HERSTEL_BRON: ${{ inputs.bron_id }}
+        run: node herstel-bronnen.js
