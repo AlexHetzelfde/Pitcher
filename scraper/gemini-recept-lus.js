@@ -583,6 +583,12 @@ async function geminiPad(ctx) {
     const klaar = verwerk(`gemini-poging-${poging}`, resultaat);
     if (klaar) return { klaar };
 
+    // Een netwerkfout zegt niets over het recept: geen feedback geven en geen pogingen verspillen.
+    if (resultaat.oordeel.infra) {
+      log.log("  De pagina was tijdens het testen niet bereikbaar. Dat ligt niet aan het recept; verdere pogingen stoppen.");
+      break;
+    }
+
     geschiedenis.push(bouwFeedback({ poging, model, v, resultaat, $, url, verwacht: v.gezien, padKandidaten }));
   }
   return { klaar: null };
