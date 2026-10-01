@@ -1,83 +1,50 @@
 [
   {
-    "bronId": "zaanstad-hoorzittingen",
-    "bronNaam": "zaanstad-hoorzittingen",
-    "categorie": "lokaal",
-    "titel": "2026-10-28 Woensdag 28 oktober 2026 om 18:45 uur - Aanwijsbesluit plaatsen camera locatie Perim 151C te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
-    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366225",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
-    "opgehaaldOp": "2026-09-30T00:05:46.628Z",
-    "score": 48,
-    "scoreToelichting": [
-      "belang (+4)",
-      "nabijheid (+4)",
-      "recency (+40, -28.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaandam) en directe gevolgen voor de leefomgeving door een maatregel (belang), maar de inhoud is erg summier en vermeldt geen specifieke reden voor de camerabewaking. Hierdoor is de actualiteit en afwijking onvoldoende te duiden voor een volledig nieuwsartikel.",
-      "invalshoek": "Gemeente Zaanstad plaatst tijdelijk of permanent een camera bij Perim 151C in Zaandam.",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Lokale politie Zaanstreek-Waterland"
-      ]
-    },
-    "aiFout": null
-  },
-  {
     "bronId": "ibabs-collegeberichten",
     "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Besluitenlijst BW Zaanstad 22-9-26",
-    "itemId": "3e27d751-9162-414d-99b8-3a2949a8248e",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/af870e9e-4254-45cc-99ca-f452a20c431c",
-    "samenvatting": "Besluitenlijst B&W — Ter kennisname — Besluitenlijst B&W Zaanstad Datum 22-09-2026 Voorzitter Hamming, Jan Aanwezigen J. van 't Veer, M. Doeves – de Boer, L. Graaff, S. Groenewoud, J. Hamming, R. Karst, H. van der Laan en S. Onclin Afwezig E. Sahin 5.1 Controleprotocol en normenkader controle jaarrekening 2026 Bijlagen: Besluitnota BenW controleprotocol en normenkader jaarrekening 2026 - 10658866 Aanbiedingsbrief raad controleprotocol en normenkader controle jaarrekening 2026 - 10658866 Raadsvoorstel controleprotocol en normenkader controle jaarrekening 2026 - 10658866 Bijlage 1 Normenkader 2026 - 10658866 Bijlage 2 Was-wordt-lijst Normenkader 2026 ten opzichte van 2025 - 10658866 Besluit: 1. In te stemmen met het raadsvoorstel Controleprotocol en normenkader controle jaarrekening 2026. 2. Het raadsvoorstel Controleprotocol en normenkader controle jaarrekening 2026 ter vaststelling aan te bieden aan de raad. 3. Tekstueel mandaat te verlenen aan de wethouder Financiën om eventuele voorgestelde technische aanpassingen vanuit de auditcommissie van 1 oktober 2026 nog te verwerken in de stukken voor de raad. 5.2 Tarievenbesluit rioolaansluitingen Zaanstad 2027 Bijlagen: BenW Besluitnota Tarievenbesluit rioolaansluitingen Zaanstad 2027 10320409 Tarievenbesluit rioolaansluitingen Zaanstad 2027 10320409 Pagina 2 Besluit: 1. Akkoord te gaan met het Tarievenbesluit rioolaansluitingen Zaanstad 2027. 2. Akkoord te gaan met het intrekken van het Tarievenbesluit rioolaansluitingen Zaanstad 2026. 5.7 Ontwerp omgevingsvergunning Peperstraat fase 2 bouw 216 woningen met commerciële ruimten en horeca Bijlagen: BenW Besluitnota Ontwerp omgevingsvergunning Peperstraat fase 2 bouw 216 woningen met commerciële ruimten en horeca 10577677 Raad Aanbiedingsbrief Ontwerp omgevingsvergunning Peperstraat fase 2 bouw 216 woningen met commerciële ruimten en horeca 10577677 Ontwerpbesluit op aanvraag omgevingsvergunning 10577677 Besluit: 1. Akkoord te gaan met het ontwerpbesluit op de aanvraag omgevingsvergunning voor Peperstraat fase 2, bouw van 216 woningen met commerciële ruimten en horeca met CLO kenmerk O2024028012; 2. Akkoord te gaan met het verlenen van mandaat aan het afdelingshoofd van afdeling Omgevingsvergunning voor het nemen, ondertekenen en bekendmaken van het definitieve besluit, indien geen zienswijzen zijn ingediend dan wel indien de ingediende zienswijzen geen betrekking hebben op de in het ontwerpbesluit opgenomen afwijking van de goothoogte; 3. Dit besluit ter kennisname aan te bieden aan de raad. 5.8 Oplossing parkeerproblematiek Gouwpark Bijlagen: BenW Besluitnota Oplossing parkeerproblematiek Gouwpark 10340527 Raadsinformatiebrief Oplossing parkeerproblematiek Gouwpark 10340527 Bijlage 1 Wijzigingsbesluit Uitvoeringsbesluit bij de Verordening Parkeerbelastingen Zaanstad 10340527 Bijlage 2 Wijzigingsbesluit Aanwijsbesluit bij Parkeerverordening Zaanstad 10340527 Bijlage 3- Gouwpark draagvlakonderzoek betaald parkeren 10340527 Pagina 3 Besluit: 1. Akkoord te gaan met invoeren van betaald parker",
-    "gepubliceerdOp": "2026-09-29T00:00:00.000Z",
-    "opgehaaldOp": "2026-09-30T00:04:56.870Z",
+    "titel": "Erratum raadsvoorstel Zienswijze op  voorgenomen besluit tot bestuurlijk juridische  fusie GGDZW en VrZW",
+    "itemId": "b406722d-a4a6-467b-8a25-38f64c60513f",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/af0c43c1-a229-46dd-9808-d59fda185b39",
+    "samenvatting": "Memo — Onclin, S. — Ter kennisname — gemeente Zaanstad wethouder S. Onclin Memo AAN De gemeenteraad KOPIE AAN VAN Stephanie Onclin DOORKIESNUMMER DATUM 29 september 2026 AANTAL PAGINA’S ONDERWERP Erratum raadsvoorstel Zienswijze op voorgenomen besluit tot bestuurlijk juridische fusie GGDZW en VrZW 10509756 Geachte raadsleden, Aanleiding Op 1 oktober 2026 behandelt u het raadsvoorstel Zienswijze op voorgenomen besluit tot bestuurlijk juridische fusie GGDZW en VrZW. Inhoud aanpassing Helaas is in bijlage 3 een fout geslopen, waarvoor mijn excuus. In de kopregel vervolgpagina’s (op pagina 2 en 3) staat het onderwerp “Zienswijze op ontwerpbegroting 2026 en bezuinigingsopties GGD Zaanstreek- Waterland”. Dit moet uiteraard “Zienswijze op voorgenomen besluit tot bestuurlijk juridische fusie GGDZW en VrZW” zijn. Dit wil ik graag herstellen met dit erratum. Vervolg Hierbij ontvangt u de gecorrigeerde bijlage 3 voor de raadsvergadering van 1 oktober 2026. Bijlage DEFINITIEF Bijlage 3 Concept zienswijzebrief gemeente Zaanstad 10509756",
+    "gepubliceerdOp": "2026-09-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:15:17.774Z",
     "documentInhoudOpgehaald": true,
     "score": 18,
     "scoreToelichting": [
       "belang (+4)",
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+7, 1.3 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht behandelt recente besluiten van het college van B&W in Zaanstad over onder andere de bouw van 216 woningen in de Peperstraat en het invoeren van betaald parkeren in het Gouwpark. Dit raakt de criteria actualiteit, nabijheid, belang en omvang direct, en draagt bij aan concrete gevolgen voor het dagelijks leven en inzicht in de eigen omgeving.",
-      "invalshoek": "Wat betekenen de nieuwe besluiten van B&W over betaald parkeren in het Gouwpark en de bouwplannen voor 216 woningen in de Peperstraat voor omwonenden?",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad - Besluitenlijst B&W 22-09-2026",
-        "Bijlagen behorend bij de besluiten over Gouwpark en Peperstraat"
-      ]
+      "oppakbaar": "nee",
+      "onderbouwing": "Dit bericht betreft een simpele administratieve correctie (erratum) in de kopregel van een bijlage voor een raadsvoorstel, wat geen concreet gevolg heeft voor het dagelijks leven van inwoners. Het raadsvoorstel over de fusie zelf is het eigenlijke nieuws, maar dit document herstelt slechts een typfout in een conceptbrief. Er is hierdoor geen sprake van voldoende nieuwswaarde of een maatschappelijk probleem.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
     },
     "aiFout": null
   },
   {
-    "bronId": "ibabs-ingekomen-stukken",
-    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Verzoek om aandacht, ondersteuning en duidelijkheid over positie als lid van volkstuinvereniging op gemeentegrond",
-    "itemId": "b62421ae-8601-499d-a566-94c0b7595b15",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/8662eded-c0c8-44c8-9554-294e08b43edd",
-    "samenvatting": "Onderwerp: Verzoek om aandacht, ondersteuning en duidelijkheid over mijn positie als lid van een volkstuinvereniging op gemeentegrond Geachte leden van de gemeenteraad van Zaanstad, Met deze brief wend ik mij als inwoner van Zaanstad tot u, omdat ik inmiddels al geruime tijd verwikkeld ben in een geschil met het bestuur van Volkstuinvereniging Ons Ideaal in Zaandam en ik, ondanks vele pogingen van mijn kant, tot op heden geen redelijke oplossing heb kunnen bereiken. Ik ben al enkele jaren lid van deze volkstuinvereniging. Mijn bedoeling is altijd geweest om mijn tuin op een rustige en plezierige manier te gebruiken en mij daarbij aan duidelijke en voor iedereen geldende regels te houden. De afgelopen maanden is echter een steeds ernstiger verschil van mening ontstaan tussen mij en het bestuur over verschillende eisen die met betrekking tot mijn tuin aan mij worden gesteld. Ik wil nadrukkelijk aangeven dat ik mij niet tegen regels verzet. Ik begrijp heel goed dat een volkstuinvereniging regels en afspraken nodig heeft en dat leden zich daaraan moeten houden. Mijn bezwaar betreft vooral de wijze waarop bepaalde regels in mijn situatie worden uitgelegd en toegepast, de onderbouwing van de eisen die aan mij worden gesteld en de vraag of vergelijkbare situaties bij verschillende tuinleden op dezelfde wijze worden behandeld. Zo zijn er direct naast en tegenover mijn tuin vergelijkbare bouwwerken en situaties aanwezig. Ik vraag niet dat tegen deze tuinleden wordt opgetreden. Integendeel, ik gun ieder lid het rustige gebruik van zijn of haar tuin. Ik wil uitsluitend begrijpen waarom bepaalde situaties bij andere tuinen kennelijk wel worden geaccepteerd, terwijl ten aanzien van mijn tuin verwijdering of aanpassing wordt verlangd. Ik heb het bestuur daarom herhaaldelijk gevraagd om mij duidelijk aan te geven op welke concrete artikelen van de geldende reglementen bepaalde eisen zijn gebaseerd en hoe deze regels in vergelijkbare situaties worden toegepast. Ondanks mijn herhaalde en oprechte pogingen om met het bestuur in gesprek te komen, ervaar ik dat het bestuur niet bereid is om mijn vragen, bezwaren en verzoeken daadwerkelijk inhoudelijk te bespreken. Ik heb meerdere brieven en e-mails gestuurd, om uitleg gevraagd en geprobeerd om door middel van overleg tot een redelijke oplossing te komen. Op belangrijke vragen krijg ik naar mijn mening echter geen duidelijk inhoudelijk antwoord. Daardoor heb ik steeds sterker het gevoel gekregen dat er geen sprake meer is van een gelijkwaardig gesprek, maar dat besluiten en eisen aan mij worden opgelegd zonder dat mijn argumenten en bezwaren daadwerkelijk worden gehoord en meegewogen. Dat baart mij ernstige zorgen. Ik vraag niet om een uitzonderingspositie en ik vraag ook niet dat regels voor mij niet zouden gelden. Ik vraag juist om een eerlijke behandeling, duidelijke en controleerbare regels, een behoorlijke motivering van beslissingen en een gelijke en consequente toepassing daarvan. Een concreet voorbeeld betref",
-    "gepubliceerdOp": "2026-09-29T00:00:00.000Z",
-    "opgehaaldOp": "2026-09-30T00:05:06.674Z",
-    "documentInhoudOpgehaald": true,
-    "score": 18,
+    "titel": "Kermis Assendelft Vrijdag",
+    "url": "https://waarheen.deorkaan.nl/agenda/kermis-bedrijvenborrel-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.109Z",
+    "score": 12,
     "scoreToelichting": [
-      "belang (+4)",
-      "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+8, evenement over 0.7 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Dit betreft een individueel en intern geschil tussen een lid en het bestuur van een volkstuinvereniging, wat niet voldoet aan de criteria voor maatschappelijk belang, omvang of een concreet besluit van de gemeente. Het is een ingekomen stuk met een eenzijdig verhaal waarin de gemeente pas wordt ingeschakeld, waardoor het onvoldoende nieuwswaardig is voor brede journalistieke opvolging.",
+      "onderbouwing": "Het bericht bevat alleen een titel zonder verdere inhoudelijke details of context over de kermis. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria en valt niet te beoordelen wat de concrete gevolgen of betrokkenen zijn.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Volkstuinvereniging Ons Ideaal",
+        "WaarheenAgenda",
         "Gemeente Zaanstad"
       ]
     },
@@ -87,24 +54,330 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Inloopbijeenkomst over nieuwe ovondes bij Beets en Oudendijk",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/September_2026/Inloopbijeenkomst_over_nieuwe_ovondes_bij_Beets_en_Oudendijk",
-    "samenvatting": "De provincie Noord-Holland organiseert op donderdag 1 oktober 2026 een inloopbijeenkomst over de plannen voor nieuwe ovondes bij de kruispunten van Beets en Oudendijk aan de N247. De plannen moeten de kruispunten veiliger maken. Ook worden de bruggen bij beide locaties vervangen.",
-    "gepubliceerdOp": "2026-09-28T10:28:44.000Z",
-    "opgehaaldOp": "2026-09-30T00:05:38.510Z",
-    "score": 8,
+    "titel": "Start aanleg fietsbrug over Leidsevaart (N208)",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/September_2026/Start_aanleg_fietsbrug_over_Leidsevaart_N208",
+    "samenvatting": "Provincie Noord-Holland start op maandag 5 oktober 2026 met de voorbereidingen voor een nieuwe fietsbrug en een fietspad over de Leidsevaart bij de N208.",
+    "gepubliceerdOp": "2026-09-30T10:20:55.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:06.605Z",
+    "score": 9,
     "scoreToelichting": [
       "voor het eerst (+2)",
+      "recency (+7, 0.9 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist de factor nabijheid, aangezien de Leidsevaart bij de N208 niet in de regio Zaanstreek-Waterland ligt. Wel scoort het goed op actualiteit, belang en nieuws van morgen, maar door de geografische ligging is het niet relevant voor lokale inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-04 Woensdag 4 november 2026 om 17:15 uur - Weweigerde omgevingsvergunning voor een uitweg locatie Waterbies 35 te Assendelft - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366235",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:14.829Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht betreft een standaard ambtelijke bekendmaking over een geweigerde omgevingsvergunning zonder verdere context over maatschappelijk belang, omvang of uitzonderlijke afwijking. Het voldoet daarmee onvoldoende aan de journalistieke criteria voor nabijheid en impact om nu op te pakken.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Omgevingsloket"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-17 Dinsdag 17 november 2026 om 17:45 uur - Geweigerde huisvestingsvergunning Klipperstraat 37 te Zaandam - Microsoft Teams",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366233",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:14.829Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft grote nabijheid (Zaandam) en directe gevolgen voor betrokkenen, maar het is slechts een kale vermelding van een geweigerde huisvestingsvergunning zonder toelichting over de context of schaal. Hierdoor is de omvang en het bredere maatschappelijke belang op basis van dit bericht niet te bepalen.",
+      "invalshoek": "Waarom is de huisvestingsvergunning aan de Klipperstraat 37 in Zaandam geweigerd?",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Betrokken aanvrager vergunning"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Excursie vaartocht: Herfst in het veld",
+    "url": "https://waarheen.deorkaan.nl/agenda/excursie-vaartocht-herfst-in-het-veld/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-01T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.108Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.3 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht is een agenda-vermelding voor een recreatieve vaartocht zonder concreet nieuws- of maatschappelijk belang. Er is geen sprake van een beleidsbesluit, groot evenement of maatschappelijk probleem dat inwoners raakt. Het mist hiermee de journalistieke criteria zoals afwijking, belang en omvang.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Stiltewandeling Twiske",
+    "url": "https://waarheen.deorkaan.nl/agenda/stiltewandeling-twiske-13/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-01T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.108Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.3 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over de stiltewandeling. Hierdoor ontbreken concrete feiten over actualiteit, belang, omvang en nabijheid om een redactionele beoordeling te maken.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Creatief schrijven met oude boeken",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-01-creatief-schrijven-met-oude-boeken/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-01T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.109Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.3 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agendatitel zonder verdere inhoudelijke informatie over locatie, organisator of omvang. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria en draagt het niet bij aan maatschappelijk begrip of de dagelijkse gevolgen voor inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de workshop"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Kermis Bedrijvenborrel",
+    "url": "https://waarheen.deorkaan.nl/agenda/kermis-bedrijvenborrel/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.109Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Kermis Bedrijvenborrel') en een bronvermelding, maar mist nagenoeg alle feitelijke informatie over actualiteit, belang, omvang of locatie. Hierdoor kan niet worden beoordeeld of het voldoet aan de journalistieke criteria of bijdraagt aan het dagelijks leven van inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisatie van de kermis"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Op de kiek in Zaans kostuum",
+    "url": "https://waarheen.deorkaan.nl/agenda/op-de-kiek-in-zaans-kostuum/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.110Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agendatitel zonder verdere inhoudelijke feiten over actualiteit, belang of omvang. Hierdoor is er onvoldoende nieuwswaarde om op basis van de criteria een journalistiek artikel aan te wijden.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Fabriek Filmclub",
+    "url": "https://waarheen.deorkaan.nl/agenda/fabriek-filmclub/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.110Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de titel van een evenement ('Fabriek Filmclub') zonder verdere context, datum, locatie of toelichting. Hierdoor kan niet worden beoordeeld of aan de nieuwscriteria wordt voldaan.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Seniorenbingo De Vuister",
+    "url": "https://waarheen.deorkaan.nl/agenda/seniorenbingo-de-vuister-4/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.110Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist nieuwswaarde omdat het slechts een agenda-vermelding betreft zonder afwijking, groot belang of maatschappelijke impact. Er zijn geen concrete gevolgen, bekende personen of unieke aspecten vermeld behalve een standaard activiteit in Zaanstreek-Waterland.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "De Vuister"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Seniorenmarkt De Vuister",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-02-seniorenmarkt-de-vuister/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.111Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en is actueel, maar mist inhoudelijke details over de omvang en het concrete belang voor inwoners. Het betreft slechts een agenda-vermelding zonder toelichting over wat er precies te doen is. Hierdoor is het onduidelijk of het bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
+      "invalshoek": "Wat is er te beleven op de seniorenmarkt in De Vuister en voor wie is deze bedoeld?",
+      "teCheckenBronnen": [
+        "Organisatie Seniorenmarkt De Vuister",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Koppie Kermis Feestweek",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-02-koppie-kermis-feestweek/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:23.111Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, evenement over 0.7 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht is een summiere agendapunmelding zonder inhoudelijke informatie over actualiteit, omvang of concrete gevolgen. Het voldoet daardoor niet aan de journalistieke criteria voor nieuwswaarde.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisatie Koppie Kermis"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Metingen bij Brug Ouderkerk",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/September_2026/Metingen_bij_Brug_Ouderkerk",
+    "samenvatting": "De provincie Noord-Holland voert in de avond en nacht van maandag 5 op dinsdag 6 oktober geluidsmetingen uit bij Brug Ouderkerk.",
+    "gepubliceerdOp": "2026-09-29T16:44:13.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:06.605Z",
+    "score": 6,
+    "scoreToelichting": [
       "recency (+6, 1.6 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht heeft hoge nabijheid omdat het in Waterland (Beets en Oudendijk aan de N247) speelt en direct concrete gevolgen heeft voor het dagelijks leven van inwoners door aanpassingen aan kruispunten en bruggen. Het is actueel vanwege de aangekondigde inloopbijeenkomst en dient als nieuws van morgen als vooraankondiging voor verkeersmaatregelen.",
-      "invalshoek": "Wat gaan de plannen van de provincie voor nieuwe ovondes en vervanging van bruggen bij Beets en Oudendijk concreet betekenen voor de verkeersveiligheid en doorstroming op de N247?",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in de regio en is actueel door de specifieke datum van aanstaande maandag. Echter, het betreft een routinematige handeling (geluidsmetingen) zonder direct vermelde maatschappelijke impact of grote omvang, waardoor het belang voor de dagelijkse praktijk beperkt blijft.",
+      "invalshoek": "Wat voor overlast leveren de nachtelijke geluidsmetingen bij Brug Ouderkerk op voor omwonenden?",
       "teCheckenBronnen": [
         "Provincie Noord-Holland",
-        "Gemeente Edam-Volendam",
-        "Omwonenden Beets en Oudendijk"
+        "Gemeente Amstelveen/Ouder-Amstel"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-17 Dinsdag 17 november 2026 om 17:15 uur - Bestuurlijke boete kamerverhuur Klipperstraat 37 te Zaandam - Microsoft Teams",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366232",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-01T07:16:14.829Z",
+    "score": 4,
+    "scoreToelichting": [
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaandam) en relevantie door een bestuurlijke maatregel (belang), maar de inhoud is zeer summier en vermeldt alleen een datum en locatienaam zonder dat de daadwerkelijke beslissing of context bekend is. Daardoor valt niet te beoordelen wat de omvang of de concrete gevolgen zijn.",
+      "invalshoek": "Gemeente Zaanstad behandelt een bestuurlijke boete voor kamerverhuur aan de Klipperstraat in Zaandam.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Hoorzittingencommissie Zaanstad"
       ]
     },
     "aiFout": null
