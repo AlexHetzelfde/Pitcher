@@ -28,6 +28,7 @@
 
 const cheerio = require("cheerio");
 const { normaliseerUrl } = require("./bron-poort");
+const { leesItem } = require("./scrapers/gemini-recept");
 
 const MAX_HTML_TEKENS = Number(process.env.MAX_HTML_TEKENS_VOOR_GEMINI || 400_000);
 const MAX_POGINGEN = Number(process.env.MAX_GEMINI_POGINGEN || 4);
@@ -177,7 +178,7 @@ Geef daarnaast ALTIJD "gezienBerichten": alle berichten die je in de HTML ziet s
 
 Regels voor selectors:
 - titelSelector: relatief aan het item-blok. Leeg-string alleen als het hele blok de titel is.
-- linkSelector: relatief aan het item-blok, of het woord self als de titel zelf (of een omvattend element) de link is.
+- linkSelector: relatief aan het item-blok. Is het item-blok zelf een <a>-element (de hele kaart is aanklikbaar, dat komt vaak voor), of zit de titel in een link, gebruik dan het woord self. Dat is ook prima: dan mag itemSelector gewoon dat <a>-element zijn.
 - datumSelector: relatief aan het item-blok, of null als er geen apart datum-element is. Staat de datum in de titeltekst (bijvoorbeeld "2026-09-22 Dinsdag 22 september 2026 om 17.15 uur - ..."), zet datumSelector dan op null: de titeltekst wordt daarna automatisch op een datum doorzocht. Staat de datum zonder jaar ("30 sep"), laat die dan gewoon zo staan; het jaar wordt door de code aangevuld.
 - datumAttribuut: naam van het attribuut waar de datum in staat (bijvoorbeeld datetime), of null om de zichtbare tekst te gebruiken.
 - Kies selectors die specifiek genoeg zijn om geen menu-items mee te nemen, maar breed genoeg om alle berichten te vangen.
@@ -205,7 +206,9 @@ function wacht(ms) {
 }
 
 async function roepGeminiAan(model, prompt, apiKey) {
-  for (let poging = 1; poging <= 2; poging++) {
+  // Tijdelijke fouten krijgen nieuwe kansen: 503/500 (overbelast) tot twee keer opnieuw met
+  // oplopende wachttijd, 429 (limiet bereikt) eenmaal. Daarna valt de aanroeper terug op een lichter model.
+  for (let poging = 1; poging <= 3; poging++) {
     let response;
     try {
       response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
@@ -221,16 +224,14 @@ async function roepGeminiAan(model, prompt, apiKey) {
     }
     if (response.ok) {
       const data = await response.json();
-      const delen = data?.candidates?.[0]?.content?.parts || [];
+      const kandidaat = data?.candidates?.[0];
+      const delen = kandidaat?.content?.parts || [];
       const tekst = delen.filter((d) => !d.thought && typeof d.text === "string").map((d) => d.text).join("");
-      return tekst ? { tekst } : { fout: "leeg antwoord" };
+      return tekst ? { tekst, finishReason: kandidaat?.finishReason } : { fout: `leeg antwoord (finishReason: ${kandidaat?.finishReason || "onbekend"})` };
     }
-    // Tijdelijke fouten (limiet, overbelasting) krijgen één nieuwe kans.
-    if ([429, 500, 503].includes(response.status) && poging === 1) {
-      await wacht(5000);
-      continue;
-    }
-    return { fout: `HTTP ${response.status}` };
+    const wachttijd = [500, 503].includes(response.status) && poging < 3 ? (poging === 1 ? 5000 : 15000) : response.status === 429 && poging === 1 ? 10000 : null;
+    if (wachttijd === null) return { fout: `HTTP ${response.status}` };
+    await wacht(wachttijd);
   }
   return { fout: "onbekende fout" };
 }
@@ -240,8 +241,11 @@ function maakStandaardVraag(apiKey, log) {
   return async ({ modelIndex, prompt }) => {
     for (let i = modelIndex; i >= 0; i--) {
       const uit = await roepGeminiAan(MODELLEN[i], prompt, apiKey);
-      if (uit.tekst) return uit.tekst;
-      log.log(`  Gemini (${MODELLEN[i]}) mislukte: ${uit.fout}${i > 0 ? `; terugvallen op ${MODELLEN[i - 1]}` : ""}`);
+      if (uit.tekst && leesAntwoord(uit.tekst)) return uit.tekst;
+      const reden = uit.tekst
+        ? `antwoord is geen geldige JSON (finishReason: ${uit.finishReason || "onbekend"}, ${uit.tekst.length} tekens, begint met: ${JSON.stringify(uit.tekst.slice(0, 120))})`
+        : uit.fout;
+      log.log(`  Gemini (${MODELLEN[i]}) mislukte: ${reden}${i > 0 ? `; terugvallen op ${MODELLEN[i - 1]}` : ""}`);
     }
     return null;
   };
@@ -251,9 +255,20 @@ function maakStandaardVraag(apiKey, log) {
 function leesAntwoord(ruw) {
   if (ruw && typeof ruw === "object") return ruw;
   if (typeof ruw !== "string") return null;
+  const schoon = ruw.trim().replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "");
   try {
-    return JSON.parse(ruw.trim().replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, ""));
+    return JSON.parse(schoon);
   } catch {
+    // Soms staat er tekst voor of na de JSON; pak dan alles tussen de eerste { en de laatste }.
+    const begin = schoon.indexOf("{");
+    const eind = schoon.lastIndexOf("}");
+    if (begin !== -1 && eind > begin) {
+      try {
+        return JSON.parse(schoon.slice(begin, eind + 1));
+      } catch {
+        /* echt geen JSON */
+      }
+    }
     return null;
   }
 }
@@ -369,14 +384,18 @@ function valideerAntwoord(antwoord, { url, paginaLinks }) {
 // 5. Feedback voor een volgende poging
 // ---------------------------------------------------------------------------
 
-/** Diagnose van een selector-recept op de echte pagina: hoeveel elementen, en waar het misgaat. */
+/**
+ * Diagnose van een selector-recept op de echte pagina: hoeveel elementen de
+ * itemSelector matcht en hoeveel daarvan een titel en een link opleveren.
+ * Gebruikt leesItem uit de scraper zelf, dus de uitkomst is gegarandeerd
+ * hetzelfde als wat de dagelijkse run met dit recept zou zien.
+ */
 function analyseerSelectors($, selectors) {
   const stats = { matches: 0, metTitel: 0, metLink: 0 };
   $(selectors.itemSelector).each((_, el) => {
     stats.matches++;
-    const titelEl = selectors.titelSelector ? $(el).find(selectors.titelSelector).first() : $(el);
-    if (titelEl.text().trim()) stats.metTitel++;
-    const link = selectors.linkSelector === "self" ? (titelEl.is("a") ? titelEl.attr("href") : titelEl.find("a").attr("href")) : $(el).find(selectors.linkSelector).attr("href");
+    const { titel, link } = leesItem($, el, selectors);
+    if (titel) stats.metTitel++;
     if (link) stats.metLink++;
   });
   return stats;
@@ -548,6 +567,14 @@ async function geminiPad(ctx) {
         break;
       }
       continue;
+    }
+
+    if (v.kandidaat.selectors) {
+      const st = analyseerSelectors($, v.kandidaat.selectors);
+      log.log(`  Recept: ${JSON.stringify(v.kandidaat.selectors)}`);
+      log.log(`  De itemSelector matcht ${st.matches} element(en) op de pagina: ${st.metTitel} met titel, ${st.metLink} met link.`);
+    } else {
+      log.log(`  Voorgesteld: ${v.kandidaat.type} ${v.kandidaat.url}${v.kandidaat.json ? ` ${JSON.stringify(v.kandidaat.json)}` : ""}`);
     }
 
     // Selectors worden gecontroleerd op volledigheid tegen Gemini's eigen lijst; feed en API tegen de pagina zelf.
