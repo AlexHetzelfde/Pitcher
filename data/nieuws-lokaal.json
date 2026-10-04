@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Rondleiding over het Hembrugterrein",
+    "url": "https://waarheen.deorkaan.nl/agenda/rondleiding-over-het-hembrugterrein-14/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-04T23:50:56.085Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht is een agenda-vermelding voor een rondleiding en mist concrete nieuwswaarde op het gebied van belang, omvang of een maatschappelijk probleem. Het voldoet wel aan de nabijheid (Zaanstreek-Waterland), maar het is een routine-activiteit zonder urgentie of beleidswijziging.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de rondleiding op het Hembrugterrein"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Jazz Inverdan: Blue Lines Trio featuring Mary Oliver",
+    "url": "https://waarheen.deorkaan.nl/agenda/jazz-inverdan-blue-lines-trio-featuring-mary-oliver/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-04T23:50:56.086Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht is een summiere agenda-uittreksel over een jazzoptreden zonder verdere feitelijke context over actualiteit, impact of betrokken personen. Hierdoor ontbreekt het aan voldoende nieuwswaarde en concrete gevolgen voor het dagelijks leven van inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Jazz Inverdan"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Voorlezen, poppendokter Leny en koffie & taart",
+    "url": "https://waarheen.deorkaan.nl/agenda/voorlezen-poppendokter-leny-en-koffie-taart-8/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-04T23:50:56.086Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding zonder concrete feiten over omvang, belang of een maatschappelijk probleem. Daarmee ontbreken voldoende criteria voor een redactioneel artikel.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  }
+]
