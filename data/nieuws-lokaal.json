@@ -1,24 +1,113 @@
 [
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Rondleiding over het Hembrugterrein",
-    "url": "https://waarheen.deorkaan.nl/agenda/rondleiding-over-het-hembrugterrein-14/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-04T23:50:56.085Z",
-    "score": 7,
+    "titel": "Nadere reactie in aanloop naar raadsvergadering 8-10-26",
+    "itemId": "b3749aac-8a6b-40f8-92fb-0f0ec1e3cf77",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3eb0449d-a981-4d5f-8624-6320d8b5bbdd",
+    "samenvatting": "PLUS ONE LEGAL B.V. A Lab (Lab 104) Overhoeksplein 2 1031 KS Amsterdam administratie@plusonelegal.nl plusonelegal.nl 1 Datum: 5 oktober 2026 Aan: Gemeente Zaanstad t.a.v. de Raad Postbus 2000 1500 GA Zaandam raadsgriffie@zaanstad.nl Van: Advocaat Plus One Legal B.V. @plusonelegal.nl Betreft: nadere reactie in aanloop naar de raadsvergadering op 8 oktober 2026 Geachte leden van de gemeenteraad, Namens cliënt, , woonachtig aan het adres , vraag ik uw aandacht voor het volgende. Cliënt heeft kennisgenomen van de Nota van beantwoording en het voornemen om over te gaan tot vaststelling van het TAM-Omgevingsplan Krommeniedijk 75. In aanloop naar de raadsvergadering van 8 oktober 2026 wenst cliënt daarom graag nog twee punten voor het voetlicht te brengen. In de Nota van beantwoording wordt niet betwist dat voorafgaand aan het ontwerpplan geen enkele vorm van participatie heeft plaatsgevonden. Zoals ook aangegeven in de zienswijze, is dit in strijd met het Zaans Participatieprotocol. Het eventueel later alsnog informeren van buren middels een briefje in de bus, kan dit gebrek niet herstellen. Uit recente jurisprudentie volgt dat het nemen van een besluit in strijd met de eigen participatieregels als onrechtmatig moet worden aangemerkt (zie uitspraak van Rb. Noord-Nederland van 19 januari 2026, ECLI:NL:RBNNE:2026:94). Dit betekent dat uw raad op 8 oktober 2026 niet kan overgaan tot vaststelling van het TAM-Omgevingsplan. Verder loopt er – zoals ook genoemd in de zienswijze – op dit moment een beroepsprocedure bij de rechtbank Noord-Holland tegen de eerder verleende omgevingsvergunning voor hetzelfde perceel. Op 17 september jl. heeft de zitting plaatsgevonden. Naar verwachting zal eind oktober uitspraak worden gedaan. De inhoud van die uitspraak is hoe dan ook van belang voor de verdere beoordeling van het voorliggende omgevingsplan, ongeacht of het beroep gegrond of ongegrond wordt verklaard. Vaststelling van het omgevingsplan vóórdat deze uitspraak bekend is, zou betekenen dat de raad beslist zonder over het volledige feiten- en beoordelingskader te beschikken. Het overgaan tot definitieve PLUS ONE LEGAL B.V. A Lab (Lab 104) Overhoeksplein 2 1031 KS Amsterdam administratie@plusonelegal.nl plusonelegal.nl 2 vaststelling van het TAM-Omgevingsplan zou gelet hierop in strijd zijn met het zorgvuldigheidsbeginsel. Gelet op het voorgaande verzoekt cliënt de gemeenteraad de eerder ingediende zienswijze integraal bij de besluitvorming te betrekken, de uitkomst van de lopende beroepsprocedure af te wachten en op 8 oktober 2026 niet over te gaan tot vaststelling van het TAM- Omgevingsplan. Met vriendelijke groet, Advocaat",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": true,
+    "score": 18,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agenda-vermelding voor een rondleiding en mist concrete nieuwswaarde op het gebied van belang, omvang of een maatschappelijk probleem. Het voldoet wel aan de nabijheid (Zaanstreek-Waterland), maar het is een routine-activiteit zonder urgentie of beleidswijziging.",
-      "invalshoek": "",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft hoge nabijheid (Krommeniedijk, Zaanstad) en actualiteit voorafgaand aan de raadsvergadering van 8 oktober 2026, en raakt aan het belang van omwonenden door een juridische betwisting van het omgevingsplan. Het is echter een eenzijdig ingekomen brief van een advocaat en bevat geen wederhoor of reactie van de gemeente Zaanstad.",
+      "invalshoek": "Advocaat roept gemeenteraad Zaanstad op vaststelling TAM-Omgevingsplan Krommeniedijk 75 uit te stellen vanwege ontbrekende participatie en lopende rechtbankprocedure.",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van de rondleiding op het Hembrugterrein"
+        "Gemeente Zaanstad (raadsgriffie)",
+        "Nota van beantwoording TAM-Omgevingsplan Krommeniedijk 75",
+        "Rechtbank Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Mail Guisweg project - Zaanvisie",
+    "itemId": "fea46869-afd5-4f28-bf8a-aad8b8c3a504",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/e0973672-3018-4af2-8a88-7b98358f7523",
+    "samenvatting": "Van: info@zaanvisie.nl <info@zaanvisie.nl> Verzonden: maandag 5 oktober 2026 14:37 Aan: Mailbox Raadsgriffie <raadsgriffie@zaanstad.nl> Onderwerp: Guisweg project - Zaanvisie Geachte leden Raadsgriffie, Wij verzoeken u onderstaand artikel in RIS op te nemen. Met dank bij voorbaat. Met vriendelijke groet, namens werkgroep Zaanvisie Standpunten verkiezingen Spoor verdiept: \"Enkele partijen geven er de voorkeur aan het spoor verdiept aan te leggen, waar dat op de Zaanlijn kan. Is veiliger voor auto, fiets en voetganger: (geen gevaarlijke tunnel(tjes)\". De meeste partijen pleiten voor \"veilige, doorlopende fietspaden en fietsbruggen\". Dit is in huidig Guisweg project ver te zoeken. Voorgeschiedenis Op basis van de Movares analyses nam de raad op 25 januari 2018 het prima besluit om te werken aan verdiept spoor tussen de twee stations. Helaas nam VRA kort daarna het initiatief van B&W Zaanstad over. Begin maart 2018 al kwam VRA tot verbazing van iedereen in Zaanstad met het rampzalige besluit om uitsluitend aan verdieping van de weg ipv \"Verdiept spoor\" te werken. Als gevolg zijn dus nu 8 jaren verloren gegaan, dit nog afgezien van de zeer hoge kosten voor een lawine van rapporten. De oplossing verdiept spoor tussen de twee stations is daarbij nooit serieus onderzocht. Voortgang: 1e Snelkookpan Movares, waar destijds veel contact mee was, heeft ons in vertrouwen laten weten dat het de opdracht van VRA dhr. (=======) was om zoveel mogelijk items op te nemen die verdiept spoor kostbaar maakten. En in de praktijk blijkt dat ook. Zie overzicht snelkookpan \"Notities VRA oplossing\" in bijlage. 2e Er is een MKBA van Decisio dd. 16 nov. 2018 dat een afstand van 2300 meter betreft vanaf station Zaandam tot voorbij station Zaandijk. (Interessant! Als hieraan toch aandacht wordt besteed komt ontsluiting Westerwatering via V.v. Goghweg ter sprake en kan de kostbare verbetering rondweg Westerkoog weg blijven). 3e Verder is er het KODOS 2nd opinie rapport dd. 20 mei 2022 dat voortborduurt op de gegevens vanuit de snelkookpan - en we weten hoe dat tot stand is gekomen. Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent. Gevolgen Guisweg project Algemeen Als we niet oppassen gaan we weer een groot aantal jaren en veel kosten verliezen (bij DVA Guisweg. was dat 8 jaren) omdat nagelaten is serieus verder onderzoek te doen naar aanleiding van het raadsbesluit dd. 25 jan. 2018. hogere treinfrequentie; PHS is voorlopig van de baan voor het betreffende traject. Detaillering 1. De bodemopbouw in de Zaanstreek is uniek en staat bekend om een van de dikste veen- en kleipakketten van Nederland (18 tot 20 meter dik tot 2e zandlaag). Dit heeft grote invloed op funderingen. Omdat de spoor/wegtunnel deels ruim onder de grondwaterspiegel ligt, werkt de solide tunnelconstructie als een soort drijvende boot. Het grondwater duwt de tunnelbak met enorme kracht omhoog (opwaartse druk)",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": true,
+    "score": 15,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaanstreek-Waterland) en raakt direct aan een belangrijk lokaal project (Guisweg) met gevolgen voor de leefomgeving en kosten. Het is echter een ingekomen brief van een externe werkgroep (Zaanvisie) met meningen en beschuldigingen over processen uit het verleden, waardoor hoor en wederhoor en extra verificatie noodzakelijk zijn.",
+      "invalshoek": "Werkgroep Zaanvisie stelt in brief aan de raad dat er jaren verloren zijn gegaan in het Guisweg-project en pleit opnieuw voor een verdiept spoor.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad (Raadsgriffie / verantwoordelijk wethouder)",
+        "Werkgroep Zaanvisie",
+        "Betrokken partijen zoals VRA en Movares"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Student krijgt meer ruimte voor een opleiding die past dankzij nieuwe wet VABA",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Student_krijgt_meer_ruimte_voor_een_opleiding_die_past_dankzij_nieuwe_wet_VABA",
+    "samenvatting": "Deze zomer is de wet VABA (Verbetering Aansluiting Beroepsonderwijs–Arbeidsmarkt) in werking getreden. Met deze wet wordt het voor MBO-studenten mogelijk om hun opleiding flexibel en meer op de beroepspraktijk in te richten.",
+    "gepubliceerdOp": "2026-10-05T14:58:21.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:53.558Z",
+    "score": 13,
+    "scoreToelichting": [
+      "belang (+4)",
+      "voor het eerst (+2)",
+      "recency (+7, 0.4 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op een landelijke wet (nabijheid is breed) en mist concrete lokale cijfers of personen uit Zaanstreek-Waterland om de omvang en het belang lokaal hard te maken. Wel raakt het het dagelijks leven van inwoners (studenten) door mogelijke gevolgen voor de opleiding.",
+      "invalshoek": "Wat betekent de nieuwe wet VABA concreet voor MBO-studenten en ROC's in de Zaanstreek?",
+      "teCheckenBronnen": [
+        "ROC Nova College / Regio College",
+        "Provincie Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Start Instituut van de Mens en publicatie Van speelbal naar mens – uitnodiging tot gesprek over de jeugdzorg",
+    "itemId": "a658c537-3f32-4ccb-8b4e-46b2c7f8e01e",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/56e27010-ebe2-4981-88d8-7a740329a5cc",
+    "samenvatting": "Van: @numberfive.community> Verzonden: maandag 5 oktober 2026 13:04 Aan: @numberfive.community> Onderwerp: Start Instituut van de Mens en publicatie \"Van speelbal naar mens\" – uitnodiging tot gesprek over de jeugdzorg Geachte wethouder belast met de portefeuille jeugd(zorg), geachte raadsleden, geachte griffiers, Op 2 oktober is het Instituut van de Mens, een programma binnen number 5 foundation, zichtbaar van start gegaan. Tegelijkertijd verscheen onze eerste publicatie: Van speelbal naar mens, een patroonanalyse over de jeugdzorg en jeugdbescherming. Met deze mail bieden wij u deze publicatie graag aan. Via onderstaande links vindt u het volledige rapport en de samenvatting: • Rapport • Samenvatting Aan deze publicatie gingen bijna vier jaar van gesprekken, dialogen en onderzoek vooraf. Kinderen, jongeren en ouders deelden hun ervaringen, maar ook professionals, jeugdbeschermers, bestuurders, wetenschappers, rechters, advocaten, beleidsmakers en vele anderen. Daarnaast hebben bewindspersonen, Kamerleden, wethouders, raadsleden en beleidsmakers bij Rijk en gemeenten hebben vanuit hun eigen perspectief aan de totstandkoming bijgedragen. Niet iedereen kijkt hetzelfde naar de jeugdzorg. Gelukkig maar. Juist waar perspectieven verschillen en soms schuren, worden patronen zichtbaar die vanuit één positie gemakkelijk buiten beeld blijven. Van speelbal naar mens is daarom geen blauwdruk voor weer een nieuw jeugdzorgstelsel. We leggen het nadrukkelijk neer als een denkkader voor de keuzes die de komende jaren gemaakt moeten worden. Die keuzes spelen op drie niveaus: • In de dagelijkse praktijk: wat gebeurt er tussen kinderen, jongeren en ouders enerzijds en professionals anderzijds? Wie luistert? Wie beslist? Wie legt informatie vast? Is duidelijk wie helpt en wie beoordeelt? En blijft iemand zoveel mogelijk eigenaar van het eigen leven? • Lokaal: welke politieke en bestuurlijke keuzes worden gemaakt over toegang, ondersteuning, samenwerking, lokale teams, opdrachtgeverschap en de vraag waar een probleem daadwerkelijk thuishoort? Niet ieder probleem dat bij een kind zichtbaar wordt, is immers automatisch een jeugdzorgprobleem. • Landelijk: welke vraagstukken kunnen gemeenten niet zelfstandig oplossen en vragen om keuzes over wetgeving, rechtsbescherming, het gedwongen kader, toezicht en de inrichting van het stelsel? Juist daarom willen we Van speelbal naar mens niet alleen verspreiden, maar er vooral over in gesprek. Niet om vanaf één kant van de tafel uit te leggen hoe het volgens ons moet. Wel om het denkkader naast uw eigen lokale werkelijkheid te leggen: Waar herkent u de beschreven patronen? Wat gaat in uw gemeente al anders? Waar lopen kinderen, ouders én professionals nog tegenaan? Welke keuzes kunt u lokaal maken? En welke vraagstukken zouden gemeenten juist gezamenlijk richting het Rijk moeten brengen? De jeugdzorg is een gedecentraliseerd stelsel. Daardoor staat iedere regio en iedere gemeente op een ander punt. Dat weten we. Daarom komen we ",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": true,
+    "score": 12,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht betreft een actuele uitnodiging en publicatie over de jeugdzorg die lokaal is binnengekomen bij de gemeente Zaanstad. Hoewel het voldoet aan actualiteit en nabijheid, is het primair een lobby- en gespreksvoorzet van een externe stichting zonder direct concreet besluit of maatregel. Het draagt wel bij aan beter inzicht in het maatschappelijk probleem van de jeugdzorg, maar het is een algemeen ingekomen stuk in plaats van specifiek lokaal nieuws.",
+      "invalshoek": "Stichting biedt landelijk rapport over jeugdzorg aan als denkkader voor de gemeente Zaanstad.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad (reactie op het ingekomen stuk)",
+        "Number 5 Foundation / Instituut van de Mens"
       ]
     },
     "aiFout": null
@@ -27,22 +116,72 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Jazz Inverdan: Blue Lines Trio featuring Mary Oliver",
-    "url": "https://waarheen.deorkaan.nl/agenda/jazz-inverdan-blue-lines-trio-featuring-mary-oliver/",
+    "titel": "Kermis Assendelft Dinsdag",
+    "url": "https://waarheen.deorkaan.nl/agenda/kermis-assendelft-dinsdag/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-04T23:50:56.086Z",
-    "score": 7,
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.132Z",
+    "score": 12,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+8, 0.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een summiere agenda-uittreksel over een jazzoptreden zonder verdere feitelijke context over actualiteit, impact of betrokken personen. Hierdoor ontbreekt het aan voldoende nieuwswaarde en concrete gevolgen voor het dagelijks leven van inwoners.",
+      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding over de kermis in Assendelft zonder inhoudelijke nieuwswaarde, afwijking of details over impact. Door het ontbreken van feitelijke informatie over een specifiek besluit, incident of vernieuwing scoort het laag op nabijheid, belang en omvang.",
       "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Mail Toekomstige padelbaan overlast",
+    "itemId": "6baf555d-0bc3-4cb8-8742-30bb21027016",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/da99e88d-5854-41cc-b00e-e45a45e64170",
+    "samenvatting": "-----Oorspronkelijk bericht----- Van: @hotmail.com> Verzonden: maandag 5 oktober 2026 16:23 Aan: Mailbox Raadsgriffie <raadsgriffie@zaanstad.nl> CC: @hotmail.com> Onderwerp: Toekomstige padelbaan overlast [U ontvang niet vaak e-mail van @hotmail.com. Meer informatie over waarom dit belangrijk is, vindt u op https://aka.ms/LearnAboutSenderIdentification] Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent. Naam: Adres: Plaats: Westzaan Email: @hotmail.com Tel: 06 Hierbij wil je aan geven dat ik tegen de padelbaan ben te Westzaan De tennisvereniging wil achter op het complex twee padelbanen realiseren. Maar ik ben bang dat dit geluidsoverlast gaat veroorzaken want zo iets moet minimaal +- 150 meter van de omwonenden zijn en dat is niet het geval. En de geluidswand die ze willen plaatsen achter de woningen van mijn buren stopt ook precies op de scheiding van onze percelen dus achter mijn woning komt dus niks te staan. Ook vind ik het apart dat de tennisvereniging totaal geen overleg of contact heb op gezocht met de omwonenden ook al zeggen ze dat van wel. ( ik hoop dat ze dat nog gaan doen in de toekomst uit respect naar de buren van hún complex) Verstuurd vanaf mijn iPhone",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": true,
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Dit ingekomen stuk bij de raad raakt de nabijheid (Westzaan) en het belang van inwoners door mogelijke geluidsoverlast van een nieuwe padelbaan. Het is actueel, maar het is slechts de mening van één bezorgde inwoner en mist breder maatschappelijk gewicht zolang er geen officieel besluit of plan ligt.",
+      "invalshoek": "Westzaners vrezen geluidsoverlast door plannen voor nieuwe padelbanen bij de lokale tennisvereniging.",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Jazz Inverdan"
+        "Gemeente Zaanstad",
+        "Betreffende tennisvereniging in Westzaan"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Natuurbeheerplan 2027 vastgesteld: Gerichte bescherming van Natura 2000-gebieden en de grutto",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Natuurbeheerplan_2027_vastgesteld_Gerichte_bescherming_van_Natura_2000_gebieden_en_de_grutto",
+    "samenvatting": "Het natuurbeheerplan geeft aan in welke gebieden subsidie mogelijk is voor beheer en ontwikkeling van natuur, agrarische natuur en landschapselementen.",
+    "gepubliceerdOp": "2026-10-05T12:06:18.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:53.558Z",
+    "score": 11,
+    "scoreToelichting": [
+      "belang (+4)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op Zaanstreek-Waterland vanwege Natura 2000-gebieden en de grutto, en is actueel door de recente vaststelling. Echter, de omvang en concrete gevolgen voor inwoners blijven vaag omdat het om een algemeen provinciaal subsidieplan gaat zonder directe lokale besluiten of cijfers. Hierdoor ontbreekt de directe urgentie voor de lokale lezer.",
+      "invalshoek": "Wat betekent het nieuwe provinciale Natuurbeheerplan 2027 concreet voor boeren en natuurbeheerders in Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland (Natuurbeheerplan 2027)",
+        "Agrarische natuurverenigingen in Zaanstreek-Waterland"
       ]
     },
     "aiFout": null
@@ -51,18 +190,385 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Voorlezen, poppendokter Leny en koffie & taart",
-    "url": "https://waarheen.deorkaan.nl/agenda/voorlezen-poppendokter-leny-en-koffie-taart-8/",
+    "titel": "Kermis Assendelft Woensdag",
+    "url": "https://waarheen.deorkaan.nl/agenda/kermis-assendelft-woensdag/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-04T23:50:56.086Z",
-    "score": 7,
+    "gepubliceerdOp": "2026-10-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 11,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, evenement over 0.9 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding zonder concrete feiten over omvang, belang of een maatschappelijk probleem. Daarmee ontbreken voldoende criteria voor een redactioneel artikel.",
+      "onderbouwing": "Het bericht bevat enkel een aanduiding van een evenement zonder verdere feiten, achtergronden of maatschappelijke impact die voldoen aan de journalistieke criteria. Er is geen sprake van afwijking, belang of een maatschappelijk probleem.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Zaandijker filmmiddag",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaandijker-filmmiddag/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over de Zaandijker filmmiddag. Hierdoor ontbreken de criteria actualiteit, afwijking, belang, omvang en of het bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Zaandijker filmmiddag"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Nieuwsbrief Jeugd 12-18",
+    "itemId": "396a4e5b-d571-49eb-bd60-b89a53c0b896",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/396a4e5b-d571-49eb-bd60-b89a53c0b896",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": false,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht betreft slechts een administratieve titel van een ingekomen stuk ('Nieuwsbrief Jeugd 12-18') zonder verdere inhoudelijke feiten of context. Hierdoor ontbreken de criteria actualiteit, afwijking, omvang en belang om dit journalistiek te onderbouwen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Ingekomen stukken iBabs"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Nieuwsbrief Jeugd 4-12",
+    "itemId": "0409f2ff-bd5a-4f36-8864-e4d2792c1b12",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/0409f2ff-bd5a-4f36-8864-e4d2792c1b12",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": false,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Dit is slechts een algemene nieuwsbrief (ingekomen stuk) zonder concrete beleidsbesluiten, afwijkingen of feitelijke gebeurtenissen die direct impact hebben op inwoners. Het bericht mist voldoende nieuwswaarde en specifieke feiten om op te pakken.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad iBabs",
+        "Beleidsmedewerker Jeugd Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Nieuwsbrief Jeugd 0-4",
+    "itemId": "fa39e9d5-faee-48a2-bfd9-41ebc6ee4d58",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/fa39e9d5-faee-48a2-bfd9-41ebc6ee4d58",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:15.607Z",
+    "documentInhoudOpgehaald": false,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de titel van een ingekomen stuk ('Nieuwsbrief Jeugd 0-4') zonder inhoudelijke feiten. Hierdoor ontbreken aanknopingspunten voor actualiteit, belang of concrete gevolgen voor inwoners in Zaanstreek-Waterland.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad iBabs",
+        "Beleidsmedewerker Jeugd Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Molenprijs voor educatieve film over meelmolen De Oude Knegt",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Molenprijs_voor_educatieve_film_over_meelmolen_De_Oude_Knegt",
+    "samenvatting": "Stichting Uitgeester en Akersloter Molens wint de Molenprijs 2026. De stichting wil met het prijzengeld van € 2.500 een nieuwe educatieve film maken voor basisschoolleerlingen die meelmolen De Oude Knegt in Akersloot bezoeken.",
+    "gepubliceerdOp": "2026-10-05T13:36:42.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:53.558Z",
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 0.5 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft hoge nabijheid (Akersloot in Zaanstreek-Waterland), actualiteit (winst Molenprijs 2026) en belicht een concreet gevolg door de inzet van prijzengeld voor lokale basisschooleducatie. De omvang en nieuwheid van de prijs geven het voldoende gewicht voor de lokale lezer.",
+      "invalshoek": "Hoe de Stichting Uitgeester en Akersloter Molens het prijzengeld van 2.500 euro inzet om basisschoolleerlingen via een nieuwe film te betrekken bij meelmolen De Oude Knegt.",
+      "teCheckenBronnen": [
+        "Stichting Uitgeester en Akersloter Molens",
+        "Provincie Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-03 Dinsdag 3 november 2026 om 18:15 uur - Evenementenvergunning 10222155 SONA presents Chris Stussy 15 augustus 2026 van 12:00 - 23:00 uur. - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366251",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-03T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:01.693Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Dit bericht betreft een evenementenvergunning voor 15 augustus 2026, terwijl de publicatiedatum 3 november 2026 is, wat betekent dat de datum in het verleden ligt en de actualiteit ontbreekt. Daarnaast bevat het bericht geen informatie over de omvang, mogelijke impact op omwonenden of andere nieuwswaardige criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Organisatie SONA"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-04 Woensdag 4 november 2026 om 18:15 uur - Verkeersbesluit langdurige afsluiting Westerwateringtunnel , Dik Trompad Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366257",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:01.694Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Dit verkeersbesluit heeft een hoge nabijheid (Zaandam) en raakt inwoners concreet door een langdurige afsluiting van de Westerwateringtunnel. Het besluit is actueel en heeft directe gevolgen voor het dagelijks leven en de bereikbaarheid in de omgeving.",
+      "invalshoek": "Wat betekent de langdurige afsluiting van de Westerwateringtunnel aan het Dik Trompad voor het omliggende verkeer in Zaandam?",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad verkeersbesluiten",
+        "Lokale omleidingen en bereikbaarheid"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Veilig online: Echt of nep?",
+    "url": "https://waarheen.deorkaan.nl/agenda/veilig-online-echt-of-nep-6/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.132Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op de nabijheid (Zaanstreek-Waterland via de agenda), maar mist concrete feiten over actualiteit, omvang en belang doordat alleen een titel is gegeven. Het kan potentieel bijdragen aan inzicht in een maatschappelijk probleem (online veiligheid), maar zonder inhoudelijke details is de nieuwswaarde lastig vast te stellen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de bijeenkomst"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Regie in eigen leven",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-regie-in-eigen-leven/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.132Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere details over inhoud, locatie, organisator of doelgroep. Hierdoor ontbreken concrete feiten om de nieuwswaarde (zoals nabijheid en omvang) te beoordelen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Nashville's Country Café",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-06-nashvilles-country-cafe/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.132Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere context over actualiteit, belang of inhoud. Hierdoor is er onvoldoende nieuwswaarde en voldoet het niet aan de criteria voor nabijheid of concrete gevolgen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Waarom taalverloedering niet bestaat",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-06-waarom-taalverloedering-niet-bestaat/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en ontbeert feitelijke informatie over een specifieke gebeurtenis, locatie in Zaanstreek-Waterland of organisator. Hierdoor kan niet worden vastgesteld of aan de criteria van nabijheid, impact of actualiteit wordt voldaan.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Five Seasons: The Gardens of Piet Oudolf",
+    "url": "https://waarheen.deorkaan.nl/agenda/five-seasons-the-gardens-of-piet-oudolf/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud, waardoor de criteria zoals actualiteit, nabijheid en belang niet te verifiëren zijn. Er is geen sprake van concrete gevolgen voor inwoners of inzicht in een maatschappelijk probleem.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "hhnk-nieuws",
+    "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+    "categorie": "lokaal",
+    "titel": "Geef water de ruimte, check je sloot!",
+    "url": "https://www.hhnk.nl/geef-water-de-ruimte-check-je-sloot",
+    "samenvatting": "Vanaf maandag 19 oktober controleren onze schouwmeesters tijdens de najaarsschouw of de sloten in ons gebied goed zijn onderhouden.",
+    "gepubliceerdOp": "2026-10-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:40:52.820Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en directe relevantie voor inwoners met een sloot vanwege concrete gevolgen en wettelijke controles. Echter betreft het een jaarlijks terugkerende najaarsschouw, waardoor de criteria afwijking en voor het eerst laag scoren.",
+      "invalshoek": "Wat betekent de najaarsschouw van het Hoogheemraadschap voor eigenaren van sloten in de regio?",
+      "teCheckenBronnen": [
+        "Hoogheemraadschap Hollands Noorderkwartier",
+        "Lokale boeren of erfbetreders in Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Grote Zaanse Geschiedenis Quiz",
+    "url": "https://waarheen.deorkaan.nl/agenda/grote-zaanse-geschiedenis-quiz-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titelsuggestie en ontbeert feiten over wie, wat, waar en wanneer de quiz plaatsvindt. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria actualiteit, omvang en belang.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Grote Zaanse Geschiedenis Quiz"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Henry van Loon",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-07-henry-van-loon/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-06T01:41:09.133Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item over Henry van Loon zonder verdere feiten over actualiteit, belang of impact op inwoners in Zaanstreek-Waterland. Hierdoor ontbreekt de nieuwswaarde en draagt het niet bij aan een maatschappelijk probleem of inzicht in de omgeving.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"

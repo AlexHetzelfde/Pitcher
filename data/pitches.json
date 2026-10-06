@@ -1,5 +1,56 @@
 {
-  "gegenereerdOp": "2026-10-04T23:51:13.382Z",
-  "aantalBerichtenTotaal": 3,
-  "topPitches": []
+  "gegenereerdOp": "2026-10-06T01:43:21.289Z",
+  "aantalBerichtenTotaal": 23,
+  "topPitches": [
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Molenprijs voor educatieve film over meelmolen De Oude Knegt",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Molenprijs_voor_educatieve_film_over_meelmolen_De_Oude_Knegt",
+      "samenvatting": "Stichting Uitgeester en Akersloter Molens wint de Molenprijs 2026. De stichting wil met het prijzengeld van € 2.500 een nieuwe educatieve film maken voor basisschoolleerlingen die meelmolen De Oude Knegt in Akersloot bezoeken.",
+      "gepubliceerdOp": "2026-10-05T13:36:42.000Z",
+      "opgehaaldOp": "2026-10-06T01:40:53.558Z",
+      "score": 9,
+      "scoreToelichting": [
+        "voor het eerst (+2)",
+        "recency (+7, 0.5 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft hoge nabijheid (Akersloot in Zaanstreek-Waterland), actualiteit (winst Molenprijs 2026) en belicht een concreet gevolg door de inzet van prijzengeld voor lokale basisschooleducatie. De omvang en nieuwheid van de prijs geven het voldoende gewicht voor de lokale lezer.",
+        "invalshoek": "Hoe de Stichting Uitgeester en Akersloter Molens het prijzengeld van 2.500 euro inzet om basisschoolleerlingen via een nieuwe film te betrekken bij meelmolen De Oude Knegt.",
+        "teCheckenBronnen": [
+          "Stichting Uitgeester en Akersloter Molens",
+          "Provincie Noord-Holland"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "zaanstad-hoorzittingen",
+      "bronNaam": "zaanstad-hoorzittingen",
+      "categorie": "lokaal",
+      "titel": "2026-11-04 Woensdag 4 november 2026 om 18:15 uur - Verkeersbesluit langdurige afsluiting Westerwateringtunnel , Dik Trompad Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+      "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366257",
+      "samenvatting": "",
+      "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-06T01:41:01.694Z",
+      "score": 8,
+      "scoreToelichting": [
+        "belang (+4)",
+        "nabijheid (+4)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Dit verkeersbesluit heeft een hoge nabijheid (Zaandam) en raakt inwoners concreet door een langdurige afsluiting van de Westerwateringtunnel. Het besluit is actueel en heeft directe gevolgen voor het dagelijks leven en de bereikbaarheid in de omgeving.",
+        "invalshoek": "Wat betekent de langdurige afsluiting van de Westerwateringtunnel aan het Dik Trompad voor het omliggende verkeer in Zaandam?",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad verkeersbesluiten",
+          "Lokale omleidingen en bereikbaarheid"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }
