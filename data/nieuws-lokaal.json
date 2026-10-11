@@ -1,29 +1,24 @@
 [
   {
-    "bronId": "ibabs-ingekomen-stukken",
-    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Observaties begroting Zaanstad",
-    "itemId": "69420ea5-d3bf-4a54-ab8d-c11ec6a7cfac",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/45120ce8-269d-47d4-918d-522fa68aea65",
-    "samenvatting": "[Datum] 9 oktober 2026 Observaties bij de begroting 2027 van gemeente Zaanstad PwC PricewaterhouseCoopers Accountants N.V., FascinatioBoulevard 350, 3065 WB Rotterdam, Postbus 8800, 3009 AV Rotterdam, T: 088 792 00 10‘PwC’ is het merk waaronder PricewaterhouseCoopers Accountants N.V. (KvK 34180285), PricewaterhouseCoopers Belastingadviseurs N.V. (KvK 34180284), PricewaterhouseCoopers AdvisoryN.V. (KvK 34180287), PricewaterhouseCoopers Compliance Services B.V. (KvK 51414406), PricewaterhouseCoopers Pensions, Actuarial& Insurance Services B.V. (KvK 54226368), PricewaterhouseCoopers B.V. (KvK 34180289) en andere vennootschappen handelen en diensten verlenen. Op deze diensten zijn algemene voorwaarden van toepassing, waarin onder meer aansprakelijkheidsvoorwaarden zijn opgenomen. Op leveringen aan deze vennootschappen zijn algemeneinkoopvoorwaarden van toepassing. Op www.pwc.nl treft u meer informatie over deze vennootschappen, waaronder deze algemene (inkoop) voorwaarden die ook zijn gedeponeerd bij de Kamer van Koophandel te Amsterdam. Dit verslag is opgesteld uitsluitend voor gebruik door de raad van de gemeente Zaanstad. Op dit verslag kan niet door derden worden gesteund aangezien derden niet op de hoogte zijn van het doel van de werkzaamheden en de resultaten onjuist kunnen interpreteren. Wijaanvaarden geen aansprakelijkheid, zorgplicht en/of verantwoordelijkheid jegens andere partijen dan de gemeente Zaanstad. 2 Op basis van de afspraken die we gemaakt hebben in onze offerte voor de accountantscontrole hebben wij de begroting 2027-2030 doorgenomen om een terugkoppeling te kunnen geven op de punten die ons opvielen. Wij hebben voor deze analyse kennisgenomen van de conceptversie van de begroting die op 1 oktober 2026 aan de raad is aangeboden. In algemene zin stellen wij vast dat de begroting 2027 een informatief en goed leesbaar document is. De aandacht die het college en de ambtelijke organisatie in deze begroting besteden aan onder andere de beïnvloedbaarheid van de lasten is in onze optiek een goed voorbeeld van een hoge informatiewaarde. Wij geven u als raad een aantal observaties mee vanuit ons perspectief als accountant. Die observaties kennen met name een financiële dan wel risicogerichte invalshoek. Hiermee geven wij invulling aan onze natuurlijke adviesrol. Onze waarnemingen zijn niet uitputtend. Wij hebben de volgende drie kernobservaties: 1.De begroting is meerjarig sluitend maar vanaf 2028 is er sprake van een structureel tekort. De houdbaarheid van de begroting is afhankelijk van de realisatie van de onderliggende maatregelen. 2.Het weerstandsvermogen is versterkt, tegelijkertijd vindt de beoordeling plaats op basis van een tijdelijk verlaagde weerstandsratio. 3.De financiële kengetallen verslechteren in de komende jaren. Naast de kernobservaties hebben we ook een aantal overige observaties die we hebben opgenomen in de details van deze brief. Onze observaties zijn bedoeld ter ondersteuning van de raad bij de behandeling van de be",
-    "gepubliceerdOp": "2026-10-09T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:29:59.820Z",
-    "documentInhoudOpgehaald": true,
-    "score": 18,
+    "titel": "BOERenMARKT",
+    "url": "https://waarheen.deorkaan.nl/agenda/boerenmarkt-8/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.355Z",
+    "score": 8,
     "scoreToelichting": [
-      "belang (+4)",
-      "primeur/eerstehands bron (+3)",
-      "nabijheid (+4)",
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht heeft betrekking op Zaanstad (nabijheid) en raakt de financiële situatie van de gemeente vanaf 2027 (belang, omvang). De accountantsbrief signaleert een structureel tekort vanaf 2028 en verslechterende financiële kengetallen, wat bijdraagt aan beter inzicht in de lokale politiek en maatschappelijk probleemoplossing.",
-      "invalshoek": "Accountant waarschuwt voor structurele tekorten in begroting Zaanstad vanaf 2028.",
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de titel van een agenda-item zonder verdere context over actualiteit, belang, omvang of locatie binnen Zaanstreek-Waterland. Er is onvoldoende journalistieke informatie om te beoordelen of dit bijdraagt aan het dagelijks leven van inwoners of een maatschappelijk probleem.",
+      "invalshoek": "",
       "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "PwC PricewaterhouseCoopers Accountants N.V."
+        "WaarheenAgenda",
+        "Organisator van de boerenmarkt"
       ]
     },
     "aiFout": null
@@ -32,71 +27,45 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Rommelmarkt Crescendo Assendelft",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-10-rommelmarkt-crescendo-assendelft/",
+    "titel": "Optreden Angelique en Rolf",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-optreden-angelique-en-rolf/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.401Z",
-    "score": 12,
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.355Z",
+    "score": 8,
     "scoreToelichting": [
-      "nabijheid (+4)",
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, afwijking van het alledaagse en een concreet belang voor inwoners, aangezien het slechts een agendavermelding betreft voor een rommelmarkt. Er is geen sprake van maatschappelijke impact, grote omvang of een bekende lokale naam die betrokken is.",
+      "onderbouwing": "Het bericht bevat enkel een agenda-aankondiging voor een optreden zonder verdere nieuwswaarde, maatschappelijke relevantie of concrete gevolgen voor inwoners. Er is bovendien geen sprake van afwijking van het alledaagse of een maatschappelijk probleem.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Organisatie Crescendo Assendelft"
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "zaandijk-leeft",
-    "bronNaam": "zaandijk-leeft",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "‘Ik zal je noemen’",
-    "url": "https://zaandijkleeft.nl/ik-zal-je-noemen/",
-    "samenvatting": "Wie mist u, wie draagt u mee in uw hart? Op vrijdag 30 oktober 2026 bent u van harte welkom bij onze vierde Lichtjesavond op de algemene begraafplaats aan de Dr. Jan Mulderstraat in Zaandijk.",
-    "gepubliceerdOp": "2026-10-09T10:18:02.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:37.172Z",
-    "score": 11,
+    "titel": "Lezing: VB Özcan Akyol (Eus)",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-vb-ozkal-akyo-eus/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
+    "score": 8,
     "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+7, 0.6 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft betrekking op nabijheid (Zaandijk) en is een tijdige vooraankondiging voor de lezer, maar mist een sterke afwijking of groot maatschappelijk belang omdat het een jaarlijks terugkerend evenement betreft. Het draagt wel bij aan inzicht in de eigen omgeving. Daarom is het een randgeval.",
-      "invalshoek": "De algemene begraafplaats in Zaandijk organiseert op 30 oktober 2026 voor de vierde keer een Lichtjesavond.",
+      "onderbouwing": "Het bericht heeft nabijheid binnen Zaanstreek-Waterland en betreft een bekende naam, maar de samenvatting bevat geen verdere details over de inhoud, locatie of het belang van de lezing. Hierdoor is het onduidelijk of het nieuws van morgen of maatschappelijk belang groot genoeg is voor verdere journalistieke actie.",
+      "invalshoek": "Wat is het centrale thema van de lezing die Özcan Akyol in de region geeft en waarom is dit juist nu relevant voor inwoners?",
       "teCheckenBronnen": [
-        "Organisatie van de Lichtjesavond",
-        "Algemene begraafplaats Dr. Jan Mulderstraat"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Plannen voor natuurherstel en stikstofvermindering met landbouw- en natuurorganisaties",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Plannen_voor_natuurherstel_en_stikstofvermindering_met_landbouw_en_natuurorganisaties",
-    "samenvatting": "Noord-Holland heeft afspraken gemaakt met landbouw- en natuurorganisaties om te werken aan plannen voor natuurherstel en stikstofvermindering.",
-    "gepubliceerdOp": "2026-10-09T14:17:26.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:27.646Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.4 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht scoort op nabijheid (Noord-Holland) en belang door mogelijke maatregelen rond stikstof, maar de omvang en concrete gevolgen voor inwoners van Zaanstreek-Waterland zijn op basis van deze summiere tekst nog volstrekt onduidelijk.",
-      "invalshoek": "Wat betekenen de nieuwe afspraken over natuurherstel en stikstofvermindering concreet voor boeren en natuurgebieden in de Zaanstreek?",
-      "teCheckenBronnen": [
-        "Provincie Noord-Holland",
-        "Lokale boerenorganisaties in Zaanstreek-Waterland"
+        "Organisator van de lezing",
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -105,42 +74,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Broadway on Stage",
-    "url": "https://waarheen.deorkaan.nl/agenda/broadway-on-stage/",
+    "titel": "Ontdek de Paden & Parels van Oud-west",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-ontdek-de-paden-parels-van-oud-west/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.394Z",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Broadway on Stage') zonder verdere inhoud, context of datum, waardoor bijna alle nieuwswaarde-criteria zoals actualiteit, belang en nabijheid niet te verifiëren zijn.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator Broadway on Stage"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Fotowandeling paddenstoelen",
-    "url": "https://waarheen.deorkaan.nl/agenda/fotowandeling-paddenstoelen/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.395Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel van een agenda-item zonder verdere details over de inhoud, locatie of organisator. Hierdoor is er onvoldoende nieuwswaarde op het gebied van belang, omvang of nabijheid binnen Zaanstreek-Waterland.",
+      "onderbouwing": "Het bericht bevat enkel een aanduiding van een agenda-item ('Ontdek de Paden & Parels van Oud-west') zonder verdere feiten over actualiteit, belang of omvang. Door het ontbreken van inhoudelijke informatie kan niet worden vastgesteld of dit bijdraagt aan maatschappelijk begrip of concrete gevolgen heeft.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -152,66 +97,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Blauwe Vinkjes",
-    "url": "https://waarheen.deorkaan.nl/agenda/blauwe-vinkjes-2/",
+    "titel": "Manenwolf en de Gier (4+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-manenwolf-en-de-gier-4/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.395Z",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor niet kan worden beoordeeld of het voldoet aan de criteria van nabijheid, belang of actualiteit. Er zijn onvoldoende feiten om een journalistieke waarde of maatschappelijke impact vast te stellen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van het evenement Blauwe Vinkjes"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Aart Bergwerff in de Kogerkerk",
-    "url": "https://waarheen.deorkaan.nl/agenda/aart-bergwerff-in-de-kogerkerk/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.395Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist nieuwswaarde omdat het slechts een agenda-aankondiging betreft zonder duidelijke afwijking, maatschappelijk belang, omvang of eerdere context. Er zijn geen concrete gevolgen voor het dagelijks leven of een maatschappelijk probleem beschreven.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Kogerkerk"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Moods Pink Floyd Tributeband",
-    "url": "https://waarheen.deorkaan.nl/agenda/moods-pink-floyd-tributeband-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.395Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, afwijking en belang, aangezien het slechts een agenda-vermelding is van een optreden zonder maatschappelijke impact of uniek karakter. Er is geen sprake van concrete gevolgen voor het dagelijks leven of inzicht in een maatschappelijk probleem in Zaanstreek-Waterland.",
+      "onderbouwing": "Het bericht is een blote agendavermelding voor een jeugdvoorstelling zonder verdere context, waardoor criteria als belang, omvang en maatschappelijk probleem ontbreken. Er is geen sprake van concreet nieuws of journalistieke urgentie.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -223,137 +120,46 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "De ZesFotografen",
-    "url": "https://waarheen.deorkaan.nl/agenda/de-zesfotografen/",
+    "titel": "Robin Hood (4+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-robin-hood-4/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.400Z",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('De ZesFotografen') en geen verdere feiten over actualiteit, belang, nabijheid of betrokkenen. Hierdoor is het niet mogelijk om de nieuwswaarde te beoordelen of vast te stellen of het bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht is een blote agendavermelding voor een jeugdvoorstelling zonder verdere context, waardoor het mist aan nieuwswaarde op het gebied van belang, omvang of maatschappelijke impact. Er is geen sprake van concreet lokaal nieuws of een ontwikkeling die inwoners raakt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Theater de Bullekerk of Zaantheater",
+        "Organisator van de voorstelling"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "JURA oftewel Ruben Hoeke & Jan Blaauw",
+    "url": "https://waarheen.deorkaan.nl/agenda/jura-oftewel-ruben-hoeke-jan-blaauw/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een kale aankondiging van een evenement zonder specifieke details over de locatie, tijd of impact. Hierdoor ontbreken voldoende criteria zoals omvang, belang en nabijheid om van een volwaardig nieuwsbericht te spreken.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator van De ZesFotografen"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "IFIKZ MaakMeeFestival",
-    "url": "https://waarheen.deorkaan.nl/agenda/ifikz-maakmeefestival/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.400Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over het IFIKZ MaakMeeFestival, waardoor de nieuwswaarde en criteria niet te beoordelen zijn. Er is onvoldoende informatie over actualiteit, belang, omvang of nabijheid in Zaanstreek-Waterland.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisatie IFIKZ MaakMeeFestival"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Excursie vaartocht ‘Zilverreigersafari’",
-    "url": "https://waarheen.deorkaan.nl/agenda/excursie-vaartocht-zilverreigersafari-6/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.400Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agenda-verwijzing naar een komende excursie en mist concrete journalistieke nieuwswaarde zoals een besluit, incident of maatschappelijk probleem. Er is bovendien geen inhoudelijke tekst of toelichting beschikbaar over de omvang of het directe belang voor inwoners.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Organisator van de Zilverreigersafari"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Hemlab: Kom op de thee en experimenteer er mee! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-kom-op-de-thee-en-experimenteer-er-mee-7-14-jaar/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.401Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agenda-vermelding voor een kinderactiviteit zonder concreet maatschappelijk belang, bestuurlijk besluit of opmerkelijke afwijking van het alledaagse. Het mist de journalistieke zwaartekracht op het gebied van omvang en impact voor de regio Zaanstreek-Waterland.",
-      "invalshoek": "",
-      "teCheckenBronnen": []
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Obstruktor, De Stoeptegels & Gutslasher",
-    "url": "https://waarheen.deorkaan.nl/agenda/obstruktor-de-stoeptegels-gutslasher/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-10T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:43.401Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel met namen van optredens of bands ('Obstruktor, De Stoeptegels & Gutslasher') in een agenda, maar er ontbreken feiten over datum, tijdstip, locatie in Zaanstreek-Waterland en wat er precies plaatsvindt. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Huygenfietsbrug vanaf 2 november gesloten",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Huygenfietsbrug_vanaf_2_november_gesloten",
-    "samenvatting": "Op 2 november starten de werkzaamheden aan de Huygenfietsbrug. De brug is tot en met 16 april 2027 afgesloten. De brug wordt vervangen en breder gemaakt.",
-    "gepubliceerdOp": "2026-10-09T10:32:15.000Z",
-    "opgehaaldOp": "2026-10-10T00:30:27.646Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 0.6 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht scoort hoog op nabijheid omdat het in Zaanstreek-Waterland speelt, en op belang en omvang doordat inwoners en fietsers tot april 2027 concreet worden geraakt door een langdurige afsluiting. Ook is er sprake van actualiteit door de startdatum op 2 november.",
-      "invalshoek": "Wat betekent de langdurige afsluiting van de Huygenfietsbrug vanaf 2 november voor fietsers en welke omleidingsroutes worden er ingesteld?",
-      "teCheckenBronnen": [
-        "Provincie Noord-Holland",
-        "Gemeente in Zaanstreek-Waterland"
+        "Organisator van het optreden"
       ]
     },
     "aiFout": null
