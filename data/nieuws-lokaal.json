@@ -3,42 +3,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "BOERenMARKT",
-    "url": "https://waarheen.deorkaan.nl/agenda/boerenmarkt-8/",
+    "titel": "Tentoonstelling Simon Borst",
+    "url": "https://waarheen.deorkaan.nl/agenda/tentoonstelling-simon-borst/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.355Z",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.519Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel van een agenda-item zonder verdere context over actualiteit, belang, omvang of locatie binnen Zaanstreek-Waterland. Er is onvoldoende journalistieke informatie om te beoordelen of dit bijdraagt aan het dagelijks leven van inwoners of een maatschappelijk probleem.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van de boerenmarkt"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Optreden Angelique en Rolf",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-optreden-angelique-en-rolf/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.355Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een agenda-aankondiging voor een optreden zonder verdere nieuwswaarde, maatschappelijke relevantie of concrete gevolgen voor inwoners. Er is bovendien geen sprake van afwijking van het alledaagse of een maatschappelijk probleem.",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over een tentoonstelling. Hierdoor ontbreken de criteria actualiteit, belang, omvang en concrete gevolgen voor inwoners.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -50,22 +26,46 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Lezing: VB Özcan Akyol (Eus)",
-    "url": "https://waarheen.deorkaan.nl/agenda/lezing-vb-ozkal-akyo-eus/",
+    "titel": "Kleurfeest bij De Pelikaan",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-12-kleurfeest-bij-de-pelikaan/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.519Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een aankondiging van een 'Kleurfeest bij De Pelikaan' zonder inhoudelijke details over de context, impact of omvang. Hierdoor ontbreekt het aan voldoende nieuwswaarde op basis van de criteria en draagt het niet bij aan een maatschappelijk probleem of inzicht in de omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Locatie De Pelikaan"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Hemlab: IFIKZ Zaanse Science in de Kartonfabriek! (7-14 jaar)",
+    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-ifikz-zaanse-science-in-de-kartonfabriek-7-14-jaar/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft nabijheid binnen Zaanstreek-Waterland en betreft een bekende naam, maar de samenvatting bevat geen verdere details over de inhoud, locatie of het belang van de lezing. Hierdoor is het onduidelijk of het nieuws van morgen of maatschappelijk belang groot genoeg is voor verdere journalistieke actie.",
-      "invalshoek": "Wat is het centrale thema van de lezing die Özcan Akyol in de region geeft en waarom is dit juist nu relevant voor inwoners?",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en is actueel als evenement, maar mist concrete informatie over omvang, impact of uniekheid. Het is een agenda-vermelding zonder inhoudelijke feiten over het programma of de betrokkenen.",
+      "invalshoek": "Wat houdt de Zaanse Science-workshop in de Kartonfabriek voor kinderen van 7-14 jaar precies in?",
       "teCheckenBronnen": [
-        "Organisator van de lezing",
-        "WaarheenAgenda"
+        "Organisatie Hemlab",
+        "Festival IFIKZ"
       ]
     },
     "aiFout": null
@@ -74,18 +74,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Ontdek de Paden & Parels van Oud-west",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-ontdek-de-paden-parels-van-oud-west/",
+    "titel": "Zaanse Mini Herfst Experience",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-12-zaanse-mini-herfst-experience/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een aanduiding van een agenda-item ('Ontdek de Paden & Parels van Oud-west') zonder verdere feiten over actualiteit, belang of omvang. Door het ontbreken van inhoudelijke informatie kan niet worden vastgesteld of dit bijdraagt aan maatschappelijk begrip of concrete gevolgen heeft.",
+      "onderbouwing": "Het bericht bevat enkel een titel en een ontbrekende samenvatting over een evenement, waardoor de criteria zoals actualiteit, omvang en belang niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om een journalistiek oordeel te vellen.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -97,69 +97,69 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Manenwolf en de Gier (4+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-manenwolf-en-de-gier-4/",
+    "titel": "Jeugd Herfst Experience",
+    "url": "https://waarheen.deorkaan.nl/agenda/jeugd-herfst-experience/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een blote agendavermelding voor een jeugdvoorstelling zonder verdere context, waardoor criteria als belang, omvang en maatschappelijk probleem ontbreken. Er is geen sprake van concreet nieuws of journalistieke urgentie.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Robin Hood (4+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-11-robin-hood-4/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een blote agendavermelding voor een jeugdvoorstelling zonder verdere context, waardoor het mist aan nieuwswaarde op het gebied van belang, omvang of maatschappelijke impact. Er is geen sprake van concreet lokaal nieuws of een ontwikkeling die inwoners raakt.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Theater de Bullekerk of Zaantheater",
-        "Organisator van de voorstelling"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "JURA oftewel Ruben Hoeke & Jan Blaauw",
-    "url": "https://waarheen.deorkaan.nl/agenda/jura-oftewel-ruben-hoeke-jan-blaauw/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-11T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-11T00:07:24.356Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een kale aankondiging van een evenement zonder specifieke details over de locatie, tijd of impact. Hierdoor ontbreken voldoende criteria zoals omvang, belang en nabijheid om van een volwaardig nieuwsbericht te spreken.",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over een evenement, waardoor de criteria zoals belang, omvang en afwijking niet te beoordelen zijn. Er is onvoldoende informatie over wat de Jeugd Herfst Experience precies inhoudt en waar het plaatsvindt.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator van het optreden"
+        "Organisator Jeugd Herfst Experience"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Regie in eigen leven",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-regie-in-eigen-leven-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere inhoud, waardoor de criteria zoals actualiteit, omvang en belang niet te verifiëren zijn. Er is geen sprake van concrete gevolgen voor inwoners of voldoende inhoudelijke context.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Historische filmbeelden uit de Zaanstreek",
+    "url": "https://waarheen.deorkaan.nl/agenda/historische-filmbeelden-uit-de-zaanstreek/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist concrete nieuwwaardecriteria zoals actualiteit, een specifiek besluit of groot belang voor het dagelijks leven van inwoners. Het betreft slechts een agenda-aankondiging voor historische filmbeelden zonder verdere journalistieke urgentie of maatschappelijke impact.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de filmvoorstelling"
       ]
     },
     "aiFout": null
