@@ -1,5 +1,38 @@
 {
-  "gegenereerdOp": "2026-10-12T00:15:37.221Z",
-  "aantalBerichtenTotaal": 7,
-  "topPitches": []
+  "gegenereerdOp": "2026-10-13T02:27:06.424Z",
+  "aantalBerichtenTotaal": 8,
+  "topPitches": [
+    {
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Kennisgeving burgemeester Hamming: Incident Explosie Zuiddijk 172",
+      "itemId": "5b5c4451-7e7c-480c-b9db-963792b8446e",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7144b1d7-279b-464b-beba-bbe096f8ee4b",
+      "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 8 oktober 2026 Telefoon 14 075 ONDERWERP Incident Explosie Zuiddijk 172 www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht en pandsluiting Zuiddijk Na de explosie aan de Zuiddijk op 1 september 2026 heeft de gemeente de woning tijdelijk gesloten. Daarnaast zijn er tijdelijk camera’s geplaatst. Eerder hebben wij u geïnformeerd dat deze maatregelen verlengd waren tot en met 9 oktober 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht en de sluiting van de woning nogmaals te verlengen, vooralsnog tot 6 november 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
+      "gepubliceerdOp": "2026-10-08T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+      "documentInhoudOpgehaald": true,
+      "score": 18,
+      "scoreToelichting": [
+        "afwijking (+3)",
+        "belang (+4)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+2, 5.1 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft hoge nieuwswaarde door nabijheid in Zaanstad, actualiteit en een concreet besluit met grote impact op de openbare orde (belang en omvang). De verlenging van de pandsluiting en het cameratoezicht na een explosie aan de Zuiddijk geeft inwoners direct inzicht in de veiligheidssituatie in hun eigen omgeving.",
+        "invalshoek": "De gemeente Zaanstad verlengt de sluiting van een woning en het cameratoezicht aan de Zuiddijk tot 6 november na een eerdere explosie.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad",
+          "Politie",
+          "Openbaar Ministerie"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }

@@ -1,23 +1,85 @@
 [
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "ibabs-collegeberichten",
+    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Tentoonstelling Simon Borst",
-    "url": "https://waarheen.deorkaan.nl/agenda/tentoonstelling-simon-borst/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.519Z",
-    "score": 8,
+    "titel": "Kennisgeving burgemeester Hamming: Incident Explosie Zuiddijk 172",
+    "itemId": "5b5c4451-7e7c-480c-b9db-963792b8446e",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7144b1d7-279b-464b-beba-bbe096f8ee4b",
+    "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 8 oktober 2026 Telefoon 14 075 ONDERWERP Incident Explosie Zuiddijk 172 www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht en pandsluiting Zuiddijk Na de explosie aan de Zuiddijk op 1 september 2026 heeft de gemeente de woning tijdelijk gesloten. Daarnaast zijn er tijdelijk camera’s geplaatst. Eerder hebben wij u geïnformeerd dat deze maatregelen verlengd waren tot en met 9 oktober 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht en de sluiting van de woning nogmaals te verlengen, vooralsnog tot 6 november 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
+    "gepubliceerdOp": "2026-10-08T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+    "documentInhoudOpgehaald": true,
+    "score": 18,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "afwijking (+3)",
+      "belang (+4)",
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+2, 5.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft hoge nieuwswaarde door nabijheid in Zaanstad, actualiteit en een concreet besluit met grote impact op de openbare orde (belang en omvang). De verlenging van de pandsluiting en het cameratoezicht na een explosie aan de Zuiddijk geeft inwoners direct inzicht in de veiligheidssituatie in hun eigen omgeving.",
+      "invalshoek": "De gemeente Zaanstad verlengt de sluiting van een woning en het cameratoezicht aan de Zuiddijk tot 6 november na een eerdere explosie.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Politie",
+        "Openbaar Ministerie"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-collegeberichten",
+    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Kennisgeving burgemeester Hamming: Stemresultaten Algemene Ledenvergadering VNG",
+    "itemId": "14ccf61c-3a6e-4a61-b402-cdb18ebc2f6d",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/c8662346-40da-45d0-bd76-2d64a4174971",
+    "samenvatting": "Kennisgeving — Hamming, J. — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 12 oktober 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Stemresultaten Algemene Ledenvergadering VNG Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname, de uitslag van de stemmingen tijdens de Algemene Ledenvergadering van de VNG op 30 september 2026. Op 30 september 2026 heeft er een Algemene Ledenvergadering (ALV) van de VNG plaatsgevonden. Middels deze link zijn de stemuitslagen van ALV te vinden: stemuitslagen VNG ALV 30 september 2026 Met vriendelijke groet, drs. J. Hamming, burgemeester",
+    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+    "documentInhoudOpgehaald": true,
+    "score": 14,
+    "scoreToelichting": [
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over een tentoonstelling. Hierdoor ontbreken de criteria actualiteit, belang, omvang en concrete gevolgen voor inwoners.",
+      "onderbouwing": "Dit is een routinekennisgeving ter informatie van de burgemeester aan de gemeenteraad over reeds gepubliceerde stemresultaten van de VNG. Het bericht mist nieuwswaarde op het gebied van afwijking, omvang of concrete gevolgen voor inwoners van Zaanstreek-Waterland.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "Gemeente Zaanstad",
+        "VNG"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "\"Dankzij de COA-medewerkers voelt het hier veilig, als een thuis\"",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Dankzij_de_COA_medewerkers_voelt_het_hier_veilig_als_een_thuis",
+    "samenvatting": "Commissaris van de Koning Arthur van Dijk bezocht donderdag 8 oktober de nieuwe opvanglocatie van het Centraal Orgaan opvang asielzoekers (COA) in Medemblik. Deze locatie biedt plaats aan 263 bewoners en geldt als ‘locatie van de toekomst’ door de ruime opzet en menselijke maat. “Dit is een menswaardige opvang”, aldus Van Dijk.",
+    "gepubliceerdOp": "2026-10-12T13:57:49.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:07.335Z",
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 0.5 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht scoort onvoldoende op het criterium nabijheid, omdat de opvanglocatie zich in Medemblik bevindt en niet in de regio Zaanstreek-Waterland. Wel is er sprake van actualiteit en is een bekende lokale naam (Commissaris van de Koning) betrokken, maar de geografische binding ontbreekt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "COA",
+        "Gemeente Medemblik"
       ]
     },
     "aiFout": null
@@ -26,140 +88,116 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Kleurfeest bij De Pelikaan",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-12-kleurfeest-bij-de-pelikaan/",
+    "titel": "Herfstspelen in Wormer (1)",
+    "url": "https://waarheen.deorkaan.nl/agenda/herfstspelen-in-wormer-1-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.519Z",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:21.615Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+8, 0.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een aankondiging van een 'Kleurfeest bij De Pelikaan' zonder inhoudelijke details over de context, impact of omvang. Hierdoor ontbreekt het aan voldoende nieuwswaarde op basis van de criteria en draagt het niet bij aan een maatschappelijk probleem of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht is een agendavermelding zonder inhoudelijke details over de Herfstspelen in Wormer. Hierdoor ontbreken de criteria afwijking, belang, omvang en wie, en draagt het niet bij aan een maatschappelijk probleem of inzicht.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisatie Herfstspelen Wormer",
+        "Gemeente Wormerland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Jonger Oranje Talentendag",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-13-jonger-oranje-talentendag/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:21.615Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist inhoudelijke context, aangezien alleen een titel en datum worden gegeven zonder details over de locatie binnen Zaanstreek-Waterland of de organisator. Hierdoor is er onvoldoende nieuwswaarde op het gebied van belang of omvang om dit nu op te pakken.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Locatie De Pelikaan"
+        "Organisatie Jonger Oranje"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
     "categorie": "lokaal",
-    "titel": "Hemlab: IFIKZ Zaanse Science in de Kartonfabriek! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-ifikz-zaanse-science-in-de-kartonfabriek-7-14-jaar/",
+    "titel": "2026-11-04 Woensdag 4 november 2026 om 19:15 uur - Bestuurlijke boete kamerverhuur Spitbergen 28 te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366311",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:15.084Z",
+    "score": 4,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "nabijheid (+4)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en is actueel als evenement, maar mist concrete informatie over omvang, impact of uniekheid. Het is een agenda-vermelding zonder inhoudelijke feiten over het programma of de betrokkenen.",
-      "invalshoek": "Wat houdt de Zaanse Science-workshop in de Kartonfabriek voor kinderen van 7-14 jaar precies in?",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaandam) en relevantie door een bestuurlijke maatregel (belang), maar de samenvatting bevat geen details over de reden of de omvang van de boete. Hierdoor is het nu onvoldoende duidelijk of dit voldoende impact heeft voor een artikel.",
+      "invalshoek": "Wat is de aanleiding voor de bestuurlijke boete die is opgelegd voor kamerverhuur aan de Spitbergen 28 in Zaandam?",
       "teCheckenBronnen": [
-        "Organisatie Hemlab",
-        "Festival IFIKZ"
+        "Gemeente Zaanstad",
+        "Hoors Zaanstad"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
     "categorie": "lokaal",
-    "titel": "Zaanse Mini Herfst Experience",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-12-zaanse-mini-herfst-experience/",
+    "titel": "2026-10-22 Donderdag 22 oktober 2026 om 14:00 uur - Afwijzing verzoek tot handhaving - Microsoft Teams",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366310",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-10-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:15.080Z",
+    "score": 3,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+3, evenement over 8.9 dag(en))"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en een ontbrekende samenvatting over een evenement, waardoor de criteria zoals actualiteit, omvang en belang niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om een journalistiek oordeel te vellen.",
-      "invalshoek": "",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en betreft een actueel besluit, maar de summiere informatie over een afwijzing van een handhavingsverzoek biedt onvoldoende inzicht in de omvang, het belang of de concrete gevolgen voor inwoners.",
+      "invalshoek": "Gemeente Zaanstad wijst verzoek tot handhaving af, maar de achterliggende kwestie blijft onduidelijk.",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "Gemeente Zaanstad",
+        "Indiener van het handhavingsverzoek"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "zaans-cultuur-huis",
+    "bronNaam": "zaans-cultuur-huis",
     "categorie": "lokaal",
-    "titel": "Jeugd Herfst Experience",
-    "url": "https://waarheen.deorkaan.nl/agenda/jeugd-herfst-experience/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
+    "titel": "Barpuru / Srefidensi",
+    "url": "https://zaanscultuurhuis.nl/agenda/srefidensi-26",
+    "samenvatting": "Vier de Surinaamse Onafhankelijkheidsdag tijdens een avond vol verrassende poezie en muziek.",
+    "gepubliceerdOp": "2026-11-27T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-13T02:26:20.260Z",
+    "score": 0,
+    "scoreToelichting": [],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over een evenement, waardoor de criteria zoals belang, omvang en afwijking niet te beoordelen zijn. Er is onvoldoende informatie over wat de Jeugd Herfst Experience precies inhoudt en waar het plaatsvindt.",
-      "invalshoek": "",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op nabijheid in de Zaanstreek en een actuele datum, maar mist informatie over de omvang en concrete gevolgen voor inwoners. Het is een reguliere agenda-aankondiging zonder duidelijke afwijking van het alledaagse.",
+      "invalshoek": "Hoe viert het Zaans Cultuurhuis de Surinaamse Onafhankelijkheidsdag met poëzie en muziek?",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator Jeugd Herfst Experience"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Lezing: Regie in eigen leven",
-    "url": "https://waarheen.deorkaan.nl/agenda/lezing-regie-in-eigen-leven-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere inhoud, waardoor de criteria zoals actualiteit, omvang en belang niet te verifiëren zijn. Er is geen sprake van concrete gevolgen voor inwoners of voldoende inhoudelijke context.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Historische filmbeelden uit de Zaanstreek",
-    "url": "https://waarheen.deorkaan.nl/agenda/historische-filmbeelden-uit-de-zaanstreek/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-12T00:14:59.520Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist concrete nieuwwaardecriteria zoals actualiteit, een specifiek besluit of groot belang voor het dagelijks leven van inwoners. Het betreft slechts een agenda-aankondiging voor historische filmbeelden zonder verdere journalistieke urgentie of maatschappelijke impact.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van de filmvoorstelling"
+        "Zaans Cultuurhuis",
+        "Organisatie Barpuru / Srefidensi"
       ]
     },
     "aiFout": null
