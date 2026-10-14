@@ -1,32 +1,59 @@
 [
   {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Kennisgeving burgemeester Hamming: Incident Explosie Zuiddijk 172",
-    "itemId": "5b5c4451-7e7c-480c-b9db-963792b8446e",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7144b1d7-279b-464b-beba-bbe096f8ee4b",
-    "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 8 oktober 2026 Telefoon 14 075 ONDERWERP Incident Explosie Zuiddijk 172 www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht en pandsluiting Zuiddijk Na de explosie aan de Zuiddijk op 1 september 2026 heeft de gemeente de woning tijdelijk gesloten. Daarnaast zijn er tijdelijk camera’s geplaatst. Eerder hebben wij u geïnformeerd dat deze maatregelen verlengd waren tot en met 9 oktober 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht en de sluiting van de woning nogmaals te verlengen, vooralsnog tot 6 november 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
-    "gepubliceerdOp": "2026-10-08T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+    "titel": "Brief Dashboard Sociale Infrastructuur Zaanstad – actuele cijfers en rijksmiddelen",
+    "itemId": "381ac2cd-db9f-4650-b8f2-b955f75abc2e",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/18622467-8e45-4e35-a51c-e621ad330d9e",
+    "samenvatting": "Geachte griffie, Voor Zaanstad is in het openbare Dashboard Sociale Infrastructuur van Ontwikkelbedrijven.nl een rechtstreeks overzicht beschikbaar dat arbeidsmarkt, doelgroepen, sociale infrastructuur en relevante financiële rijksmiddelen in samenhang presenteert. Het dashboard brengt onder meer arbeidsmarkt, bijstand en WW, Wsw, beschut werk, banenafspraak, loonkostensubsidie en relevante rijksmiddelen in één openbaar beeld samen. Gemeentelijke ontwikkelingen worden waar mogelijk afgezet tegen uw arbeidsmarktregio én Nederland. Doordat de gegevens voor alle gemeenten op dezelfde wijze worden gepresenteerd, kunnen gemeenten en gemeentelijke ontwikkelingen ook onderling worden vergeleken. Daarbij laat het dashboard niet alleen de actuele situatie zien, maar ook de historische ontwikkeling en, waar de beschikbare gegevens dat verantwoord toelaten, een indicatieve doorkijk naar komende jaren. Deze doorkijk is nadrukkelijk geen harde prognose. Daarmee biedt het dashboard een toegankelijk vertrekpunt om ontwikkelingen te volgen, in perspectief te plaatsen en gerichte vragen te stellen bij onder meer kaderstelling, begrotingsbehandeling en de controlerende rol. Voor Zaanstad is in het dashboard Werkom als primair ontwikkelbedrijf analytisch gekoppeld. Vanuit de gemeentelijke weergave kan direct worden doorgeschakeld naar het werkgebied van dit ontwikkelbedrijf. De ontwikkelbedrijfweergave is een analytische aggregatie van de gekoppelde gemeenten en betekent niet dat het ontwikkelbedrijf automatisch alle Participatiewettaken voor deze gemeenten uitvoert. Bekijk Zaanstad rechtstreeks in het dashboard: https://ontwikkelbedrijven.nl/dashboards/?gemeente=zaanstad Bekijk het werkgebied van Werkom: https://ontwikkelbedrijven.nl/dashboards/?ontwikkelbedrijf=werkom Als onderdeel van deze samenhang toont het dashboard ook relevante rijksmiddelen op gemeenteniveau en, als analytische aggregatie, op ontwikkelbedrijfsniveau. De financiële gegevens zijn gebaseerd op de septembercirculaire gemeentefonds 2026 en de actuele officiële rekenbestanden. Deze financiële laag biedt context naast de arbeidsmarkt- en doelgroepinformatie. Ook het cluster Participatie binnen de algemene uitkering (AU) is opgenomen. Omdat de algemene uitkering vrij besteedbaar is, worden deze bedragen niet gepresenteerd als geoormerkt budget voor het ontwikkelbedrijf. Rijksmiddelen die bij een gemeente zichtbaar zijn, zijn daarmee niet automatisch middelen die het analytisch gekoppelde ontwikkelbedrijf ontvangt. Alle gegevens zijn gebaseerd op openbare bronnen van onder meer CBS, UWV en Rijksoverheid. Bron, peildatum, geografisch niveau en methodiek worden in het dashboard vermeld. Het dashboard is geen ranglijst en schrijft geen beleidskeuzes voor; het is bedoeld als openbare informatiebasis om ontwikkelingen in de sociale infrastructuur in samenhang te kunnen bekijken. Ik zou het waarderen als u deze informatie onder de raadsleden wilt verspreiden. Het dashboard is openbaar en kosteloos toegan",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
     "documentInhoudOpgehaald": true,
     "score": 18,
     "scoreToelichting": [
-      "afwijking (+3)",
       "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid omdat het over Zaanstad gaat en actuele cijfers over de sociale infrastructuur en arbeidsmarkt deelt. Het mist echter een concrete, directe gebeurtenis of afwijking die inwoners nu direct raakt, aangezien het primair een administratieve mededeling en verwijzing naar een openbaar dashboard voor de raad betreft.",
+      "invalshoek": "Wat laten de nieuwe openbare cijfers op het Dashboard Sociale Infrastructuur zien over de Zaanse arbeidsmarkt en de financiële positie van Werkom?",
+      "teCheckenBronnen": [
+        "https://ontwikkelbedrijven.nl/dashboards/?gemeente=zaanstad",
+        "https://ontwikkelbedrijven.nl/dashboards/?ontwikkelbedrijf=werkom",
+        "Gemeente Zaanstad / iBabs"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Directeur-Bestuurder Maarten van der Meer neemt eind 2026 afscheid van Stichting de Zaanse Schans",
+    "itemId": "47e1c090-396b-449e-af47-94a0ee92b86a",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f7a1ac57-afed-4c79-81af-4baf1ad4106a",
+    "samenvatting": "PERSBERICHT 6-10-2026 Directeur-Bestuurder Maarten van der Meer neemt eind 2026 afscheid van Stichting de Zaanse Schans Na bijna negen jaar neemt Maarten van der Meer eind december 2026 afscheid als Directeur-Bestuurder van Stichting de Zaanse Schans. Maarten van der Meer: “Ik vertrek met veel mooie herinneringen en vooral met grote waardering voor mijn collega’s, bewoners, erfgoedorganisaties, de gemeente en alle anderen met wie ik de afgelopen jaren heb samengewerkt. De Zaanse Schans is een plek die je niet zomaar achter je laat. Ik zal het dan ook altijd in mijn hart meedragen.” Martin Berendse, voorzitter van de Raad van Toezicht: “Maarten heeft de afgelopen jaren een belangrijke rol gespeeld in de ontwikkeling van de Zaanse Schans. Onder zijn leiding is de organisatie verder geprofessionaliseerd en zijn belangrijke stappen gezet om Stichting de Zaanse Schans in partnerschap met de gemeente Zaanstad en de andere erfgoedorganisaties toekomstbestendig te maken. Wij zijn hem zeer erkentelijk voor zijn grote inzet en betrokkenheid en wensen hem veel succes bij zijn volgende stap.” Sinds zijn aantreden in maart 2018 stonden het behoud van het bijzondere erfgoed, de kwaliteit, maar ook de beheersbaarheid en veiligheid van het massale bezoek (2,8 miljoen bezoekers in 2025) en de noodzakelijke duurzame exploitatie van het gebied steeds centraal. Ook organisatorisch veranderde er veel. In 2026 werden Stichting de Zaanse Schans en Zaanse Schans Vastgoed samengebracht in één organisatie, met een Raad van Toezicht en een Directeur-Bestuurder. Maarten van der Meer: “Toen ik in 2018 begon, wist ik dat de Zaanse Schans een bijzondere plek was. Maar pas wanneer je hier dagelijks werkt, zie je hoeveel verhalen, vakmanschap en betrokkenheid achter het prachtige monumentale erfgoed schuilgaat. De Zaanse Schans staat tegelijkertijd voor grote opgaven. Miljoenen mensen uit de hele wereld willen deze bijzondere plek ervaren, terwijl juist het erfgoed en het karakter van het gebied behouden moeten blijven. We hebben de afgelopen jaren veel in beweging gezet om daar een duurzaam antwoord op te vinden. Nu de organisatie een nieuwe fase ingaat, is dit voor mij een goed moment om het stokje over te dragen.” Tot het einde van het jaar blijft Maarten van der Meer zich inzetten voor de lopende ontwikkelingen en een zorgvuldige overdracht. De Raad van Toezicht zal na intern beraad bekendmaken op welke wijze de bestuursfunctie van de stichting vanaf 1 januari 2027 worden ingevuld.",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
+    "documentInhoudOpgehaald": true,
+    "score": 16,
+    "scoreToelichting": [
       "voor het eerst (+2)",
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+2, 5.1 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "ja",
-      "onderbouwing": "Het bericht heeft hoge nieuwswaarde door nabijheid in Zaanstad, actualiteit en een concreet besluit met grote impact op de openbare orde (belang en omvang). De verlenging van de pandsluiting en het cameratoezicht na een explosie aan de Zuiddijk geeft inwoners direct inzicht in de veiligheidssituatie in hun eigen omgeving.",
-      "invalshoek": "De gemeente Zaanstad verlengt de sluiting van een woning en het cameratoezicht aan de Zuiddijk tot 6 november na een eerdere explosie.",
+      "onderbouwing": "Het vertrek van de directeur-bestuurder van een bekende lokale erfgoedlocatie scoort hoog op nabijheid (Zaanstreek-Waterland), wie (bekende lokale bestuurder) en omvang (2,8 miljoen bezoekers). Het bericht draagt bij aan inzicht in de eigen omgeving en het dagelijks leven door de transitie van de organisatie te belichten.",
+      "invalshoek": "Wat laat vertrekkend directeur Maarten van der Meer achter op een Zaanse Schans die kampt met miljoenen bezoekers en grote organisatorische veranderingen?",
       "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Politie",
-        "Openbaar Ministerie"
+        "Stichting de Zaanse Schans",
+        "Gemeente Zaanstad"
       ]
     },
     "aiFout": null
@@ -35,26 +62,131 @@
     "bronId": "ibabs-collegeberichten",
     "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Kennisgeving burgemeester Hamming: Stemresultaten Algemene Ledenvergadering VNG",
-    "itemId": "14ccf61c-3a6e-4a61-b402-cdb18ebc2f6d",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/c8662346-40da-45d0-bd76-2d64a4174971",
-    "samenvatting": "Kennisgeving — Hamming, J. — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 12 oktober 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Stemresultaten Algemene Ledenvergadering VNG Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname, de uitslag van de stemmingen tijdens de Algemene Ledenvergadering van de VNG op 30 september 2026. Op 30 september 2026 heeft er een Algemene Ledenvergadering (ALV) van de VNG plaatsgevonden. Middels deze link zijn de stemuitslagen van ALV te vinden: stemuitslagen VNG ALV 30 september 2026 Met vriendelijke groet, drs. J. Hamming, burgemeester",
-    "gepubliceerdOp": "2026-10-12T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+    "titel": "Kennisgeving burgemeester Hamming: Lobby aanpak ondermijning (brief aan commissie J&V)",
+    "itemId": "7e082adf-eaa6-4562-8aac-aa3aeb7301d4",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/52a2b45b-6646-4fde-97a3-6a6ffa9a6b47",
+    "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 13 oktober 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Lobby aanpak ondermijning (brief aan commissie J&V) Ter informatie van college aan de gemeenteraad Hierbij informeren wij u over de bredere lobbyactiviteiten richting Den Haag, waarmee aandacht wordt gevraagd voor de lokale impact van ondermijnende en georganiseerde criminaliteit en de randvoorwaarden die noodzakelijk zijn voor een effectieve aanpak. In vervolg op de eerdere Kennisgeving burgemeester Hamming: Lobby aanpak ondermijning Zaanstad - iBabs Publieksportaal informeren wij u over een brief die in aanloop naar het commissiedebat Criminaliteitsbestrijding, ondermijning en georganiseerde criminaliteit van 15 oktober 2026 is verstuurd. Met deze brief wordt beoogd de urgentie van de lokale problematiek onder de aandacht te brengen en in Den Haag draagvlak te creëren voor de randvoorwaarden die gemeenten nodig hebben om ondermijnende criminaliteit effectief aan te pakken. De verzonden brief is ter kennisname als bijlage bijgevoegd. Bijlage: • Brief Commissie Justitie en Veiligheid: impact dwingt tot aanpakken gemeente Zaanstad. Met vriendelijke groet, drs. J. Hamming, burgemeester",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:07.446Z",
     "documentInhoudOpgehaald": true,
     "score": 14,
     "scoreToelichting": [
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 1.1 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht is actueel en speelt lokaal in Zaanstad, maar betreft een formele kennisgeving aan de gemeenteraad over reeds verstuurde lobbybrieven naar Den Haag. Er ontbreekt concrete nieuwswaarde over nieuwe maatregelen of directe gevolgen voor inwoners, hoewel het bijdraagt aan inzicht in de lokale aanpak van ondermijning.",
+      "invalshoek": "Burgemeester Hamming voert de druk op Den Haag op voor extra steun in de strijd tegen ondermijnende criminaliteit in Zaanstad.",
+      "teCheckenBronnen": [
+        "De verzonden brief aan de vaste commissie voor Justitie en Veiligheid",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Brief Beleidsvoorstel thermische opslag binnen lokaal energiebeleid",
+    "itemId": "11012a3b-b1d8-4b51-90b3-5b8e34e33241",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/899a556c-b61b-43bd-9ada-d056efcf99b2",
+    "samenvatting": "Delft, 8 oktober 2026 Aan het college van burgemeester en wethouders en de wethouder Duurzaamheid Betreft: handelingsperspectief nu de salderingsregeling stopt - bijgevoegd conceptvoorstel Geachte heer, mevrouw, Per 1 januari 2027 vervalt de salderingsregeling. Voor veel inwoners en sportverenigingen met zonnepanelen verandert daarmee de rekensom. Terugleveren levert minder op, dat verlaagt de waarde van zonnepanelen. Meer zelf gebruiken helpt om de waarde te behouden. Daarnaast neemt op zonnige dagen de druk op het net toe, doordat alle PV panelen gelijktijdig produceren. Gemeenten die PV-panelen sturen, hebben een concreet instrument nodig. Daarom sturen wij u een conceptvoorstel voor een gemeentelijke stimuleringsregeling voor slimme thermische energieopslag. Het voorstel is technologieneutraal opgezet: prestatie-eisen bepalen wat in aanmerking komt, geen merken. U kunt het gebruiken als vertrekpunt en aanpassen aan uw eigen cijfers en beleid. Waarom thermische opslag? Overtollige zonnestroom wordt omgezet in warm tapwater en bewaard voor later in de week. Dat verhoogt het eigen verbruik en verlaagt de terugleverpieken. Voor huishoudens met een flinke warmwatervraag is het een betaalbaar alternatief voor een elektrische thuisbatterij. De techniek bewijst zich al in de praktijk. Onder andere Gemeente Emmen, NO Polder, Urk, Amsterdam, Leiden, Stad Brugge etc. etc. past thermische batterijen toe in haar eigen vastgoed, onder meer bij sportaccommodaties maar ook al zijn er voorbeelden van gemeenten die hiervoor subsidies beschikbaar stellen voor de bewoner. Wij ontwikkelen en produceren deze systemen in Nederland en wij zijn ontstaan binnen TNO. Wij denken graag met u mee. Past zo'n regeling bij uw duurzaamheids- en netcongestieopgave? In een gesprek van een half uur lichten we het voorstel toe en verkennen we wat er voor uw gemeente mogelijk is. U bereikt ons via of of via onze algemene gegevens in de voettekst van deze brief. Met vriendelijke groet, Head of Sales Newton Energy Solutions",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
+    "documentInhoudOpgehaald": true,
+    "score": 14,
+    "scoreToelichting": [
+      "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Dit is een routinekennisgeving ter informatie van de burgemeester aan de gemeenteraad over reeds gepubliceerde stemresultaten van de VNG. Het bericht mist nieuwswaarde op het gebied van afwijking, omvang of concrete gevolgen voor inwoners van Zaanstreek-Waterland.",
+      "onderbouwing": "Het bericht betreft een ongevraagde aanbieding en conceptvoorstel van een commercieel bedrijf (Newton Energy Solutions) gericht aan het college van Delft, en bevat geen concreet lokaal besluit of maatregel in Zaanstreek-Waterland. Het ontbreekt hiermee aan de criteria nabijheid en een lokaal nieuwswaardig besluit.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "Gemeente Zaanstad",
-        "VNG"
+        "Newton Energy Solutions"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Platform31 Nieuwsbrief | Special Wat betekent de rijksbegroting voor gemeenten, corporaties en hun partners?",
+    "itemId": "5ee12f7f-0a6f-482d-9503-006b7c6e5a46",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/5ee12f7f-0a6f-482d-9503-006b7c6e5a46",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
+    "documentInhoudOpgehaald": false,
+    "score": 12,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht betreft een algemene landelijke nieuwsbrief van Platform31 over de rijksbegroting en bevat geen concrete, lokaal specifieke gebeurtenissen of besluiten voor Zaanstreek-Waterland. Hierdoor ontbreken de criteria nabijheid, afwijking en concrete gevolgen voor inwoners in de bron.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Platform31"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Wandelen in Zaandijk",
+    "url": "https://waarheen.deorkaan.nl/agenda/wandelen-in-zaandijk/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:10:13.409Z",
+    "score": 12,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel over wandelen in Zaandijk zonder verdere feiten, inhoud of context. Hierdoor ontbreken de criteria actualiteit, afwijking, belang en omvang volledig om een journalistiek oordeel te vellen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "hhnk-nieuws",
+    "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+    "categorie": "lokaal",
+    "titel": "Verduidelijking regels voor lozingen huishoudelijk afvalwater",
+    "url": "https://www.hhnk.nl/verduidelijking-regels-voor-lozingen-huishoudelijk-afvalwater",
+    "samenvatting": "We werken aan duidelijkere regels voor het bestaande lozingsverbod van afvalwater door bedrijven en groepsaccommodaties.",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:55.523Z",
+    "score": 11,
+    "scoreToelichting": [
+      "belang (+4)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft nabijheid binnen het werkgebied van het waterschap en raakt aan het belang van regels voor lozingen. Echter, de omvang, actualiteit en concrete gevolgen voor inwoners blijven erg abstract doordat het slechts gaat om een vooraankondiging van 'duidelijkere regels'.",
+      "invalshoek": "Wat betekenen de nieuwe, duidelijkere regels van het Hoogheemraadschap voor bedrijven en groepsaccommodaties in de region?",
+      "teCheckenBronnen": [
+        "Hoogheemraadschap Hollands Noorderkwartier",
+        "Gemeenten in Zaanstreek-Waterland"
       ]
     },
     "aiFout": null
@@ -63,23 +195,101 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "\"Dankzij de COA-medewerkers voelt het hier veilig, als een thuis\"",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Dankzij_de_COA_medewerkers_voelt_het_hier_veilig_als_een_thuis",
-    "samenvatting": "Commissaris van de Koning Arthur van Dijk bezocht donderdag 8 oktober de nieuwe opvanglocatie van het Centraal Orgaan opvang asielzoekers (COA) in Medemblik. Deze locatie biedt plaats aan 263 bewoners en geldt als ‘locatie van de toekomst’ door de ruime opzet en menselijke maat. “Dit is een menswaardige opvang”, aldus Van Dijk.",
-    "gepubliceerdOp": "2026-10-12T13:57:49.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:07.335Z",
+    "titel": "Inloopbijeenkomst over de vervanging van Brug Krommenie",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Inloopbijeenkomst_over_de_vervanging_van_Brug_Krommenie",
+    "samenvatting": "De provincie organiseert op 21 oktober 2026 een inloopbijeenkomst over de vervanging van de Brug Krommenie.",
+    "gepubliceerdOp": "2026-10-13T10:40:39.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:56.450Z",
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht scoort hoog op nabijheid (Krommenie) en belang (vervanging brug), en is actueel als vooraankondiging voor een bijeenkomst. Echter is de omvang van de informatie nu te beperkt en is het slechts een aankondiging van een latere bijeenkomst zonder directe besluiten of details over de impact.",
+      "invalshoek": "Wat betekent de geplande vervanging van de Brug Krommenie voor de bereikbaarheid van de omgeving?",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Orkater / De Nieuwkomers PATROON",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-14-orkater-de-nieuwkomers-patroon/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:10:13.409Z",
+    "score": 10,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en een lege samenvatting over een theatervoorstelling, waardoor criteria als belang, omvang en maatschappelijke impact niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om te beoordelen of dit nieuwswaardig is voor Zaanstreek-Waterland.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Orkater",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Het laatste nieuws uit raadsledenland!",
+    "itemId": "b71c4df1-55ec-423a-bfa0-d70c18603754",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/b71c4df1-55ec-423a-bfa0-d70c18603754",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
+    "documentInhoudOpgehaald": false,
     "score": 9,
     "scoreToelichting": [
       "voor het eerst (+2)",
-      "recency (+7, 0.5 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht scoort onvoldoende op het criterium nabijheid, omdat de opvanglocatie zich in Medemblik bevindt en niet in de regio Zaanstreek-Waterland. Wel is er sprake van actualiteit en is een bekende lokale naam (Commissaris van de Koning) betrokken, maar de geografische binding ontbreekt.",
+      "onderbouwing": "Het bericht bevat geen inhoudelijke informatie, titel en samenvatting ontbreken nagenoeg en er worden geen feiten genoemd die voldoen aan de criteria zoals nabijheid, belang of omvang. Er valt op basis van dit lege stuk geen journalistieke waarde of invalshoek vast te stellen.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "COA",
-        "Gemeente Medemblik"
+        "Zaanstad iBabs ingekomen stukken"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Nieuwsbrief Zaans Erfgoed 12 oktober",
+    "itemId": "333bdc7e-065c-4532-aaf3-573a5fb9df18",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/333bdc7e-065c-4532-aaf3-573a5fb9df18",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:09:25.148Z",
+    "documentInhoudOpgehaald": false,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de mededeling van een ingekomen nieuwsbrief over erfgoed zonder inhoudelijke details of concrete besluiten. Hierdoor ontbreken de criteria actualiteit, belang en omvang, en draagt het niet bij aan een maatschappelijk probleem of concreet gevolg voor inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Nieuwsbrief Zaans Erfgoed",
+        "Gemeente Zaanstad iBabs"
       ]
     },
     "aiFout": null
@@ -88,22 +298,21 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Herfstspelen in Wormer (1)",
-    "url": "https://waarheen.deorkaan.nl/agenda/herfstspelen-in-wormer-1-2/",
+    "titel": "Filmvoorstelling in Huize Barkeloo",
+    "url": "https://waarheen.deorkaan.nl/agenda/filmvoorstelling-in-huize-barkeloo/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:21.615Z",
+    "gepubliceerdOp": "2026-10-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:10:13.409Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agendavermelding zonder inhoudelijke details over de Herfstspelen in Wormer. Hierdoor ontbreken de criteria afwijking, belang, omvang en wie, en draagt het niet bij aan een maatschappelijk probleem of inzicht.",
+      "onderbouwing": "Het bericht mist nieuwswaarde omdat het slechts een agenda-vermelding betreft zonder inhoudelijke afwijking, bekend persoon, groot financieel belang of maatschappelijke impact. Het draagt niet bij aan het begrip van een maatschappelijk probleem of inzicht in de omgeving.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Organisatie Herfstspelen Wormer",
-        "Gemeente Wormerland"
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -112,92 +321,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Jonger Oranje Talentendag",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-13-jonger-oranje-talentendag/",
+    "titel": "Mondig Bondig, dáárom Doopsgezind",
+    "url": "https://waarheen.deorkaan.nl/agenda/mondig-bondig-daarom-doopsgezind-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:21.615Z",
+    "gepubliceerdOp": "2026-10-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-14T00:10:13.410Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist inhoudelijke context, aangezien alleen een titel en datum worden gegeven zonder details over de locatie binnen Zaanstreek-Waterland of de organisator. Hierdoor is er onvoldoende nieuwswaarde op het gebied van belang of omvang om dit nu op te pakken.",
+      "onderbouwing": "Het bericht bevat enkel een kale titel zonder verdere feiten, inhoud, datum of locatie, waardoor toetsing aan de nieuwswaarde-criteria en maatschappelijke waarde niet mogelijk is.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisatie Jonger Oranje"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "zaanstad-hoorzittingen",
-    "bronNaam": "zaanstad-hoorzittingen",
-    "categorie": "lokaal",
-    "titel": "2026-11-04 Woensdag 4 november 2026 om 19:15 uur - Bestuurlijke boete kamerverhuur Spitbergen 28 te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
-    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366311",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:15.084Z",
-    "score": 4,
-    "scoreToelichting": [
-      "nabijheid (+4)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaandam) en relevantie door een bestuurlijke maatregel (belang), maar de samenvatting bevat geen details over de reden of de omvang van de boete. Hierdoor is het nu onvoldoende duidelijk of dit voldoende impact heeft voor een artikel.",
-      "invalshoek": "Wat is de aanleiding voor de bestuurlijke boete die is opgelegd voor kamerverhuur aan de Spitbergen 28 in Zaandam?",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Hoors Zaanstad"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "zaanstad-hoorzittingen",
-    "bronNaam": "zaanstad-hoorzittingen",
-    "categorie": "lokaal",
-    "titel": "2026-10-22 Donderdag 22 oktober 2026 om 14:00 uur - Afwijzing verzoek tot handhaving - Microsoft Teams",
-    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366310",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:15.080Z",
-    "score": 3,
-    "scoreToelichting": [
-      "recency (+3, evenement over 8.9 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en betreft een actueel besluit, maar de summiere informatie over een afwijzing van een handhavingsverzoek biedt onvoldoende inzicht in de omvang, het belang of de concrete gevolgen voor inwoners.",
-      "invalshoek": "Gemeente Zaanstad wijst verzoek tot handhaving af, maar de achterliggende kwestie blijft onduidelijk.",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Indiener van het handhavingsverzoek"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "zaans-cultuur-huis",
-    "bronNaam": "zaans-cultuur-huis",
-    "categorie": "lokaal",
-    "titel": "Barpuru / Srefidensi",
-    "url": "https://zaanscultuurhuis.nl/agenda/srefidensi-26",
-    "samenvatting": "Vier de Surinaamse Onafhankelijkheidsdag tijdens een avond vol verrassende poezie en muziek.",
-    "gepubliceerdOp": "2026-11-27T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-13T02:26:20.260Z",
-    "score": 0,
-    "scoreToelichting": [],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft betrekking op nabijheid in de Zaanstreek en een actuele datum, maar mist informatie over de omvang en concrete gevolgen voor inwoners. Het is een reguliere agenda-aankondiging zonder duidelijke afwijking van het alledaagse.",
-      "invalshoek": "Hoe viert het Zaans Cultuurhuis de Surinaamse Onafhankelijkheidsdag met poëzie en muziek?",
-      "teCheckenBronnen": [
-        "Zaans Cultuurhuis",
-        "Organisatie Barpuru / Srefidensi"
+        "Organisator van de bijeenkomst"
       ]
     },
     "aiFout": null

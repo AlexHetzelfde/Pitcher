@@ -1,35 +1,32 @@
 {
-  "gegenereerdOp": "2026-10-13T02:27:06.424Z",
-  "aantalBerichtenTotaal": 8,
+  "gegenereerdOp": "2026-10-14T00:11:24.811Z",
+  "aantalBerichtenTotaal": 13,
   "topPitches": [
     {
-      "bronId": "ibabs-collegeberichten",
-      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
       "categorie": "lokaal",
-      "titel": "Kennisgeving burgemeester Hamming: Incident Explosie Zuiddijk 172",
-      "itemId": "5b5c4451-7e7c-480c-b9db-963792b8446e",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7144b1d7-279b-464b-beba-bbe096f8ee4b",
-      "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 8 oktober 2026 Telefoon 14 075 ONDERWERP Incident Explosie Zuiddijk 172 www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht en pandsluiting Zuiddijk Na de explosie aan de Zuiddijk op 1 september 2026 heeft de gemeente de woning tijdelijk gesloten. Daarnaast zijn er tijdelijk camera’s geplaatst. Eerder hebben wij u geïnformeerd dat deze maatregelen verlengd waren tot en met 9 oktober 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht en de sluiting van de woning nogmaals te verlengen, vooralsnog tot 6 november 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
-      "gepubliceerdOp": "2026-10-08T00:00:00.000Z",
-      "opgehaaldOp": "2026-10-13T02:25:20.105Z",
+      "titel": "Directeur-Bestuurder Maarten van der Meer neemt eind 2026 afscheid van Stichting de Zaanse Schans",
+      "itemId": "47e1c090-396b-449e-af47-94a0ee92b86a",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f7a1ac57-afed-4c79-81af-4baf1ad4106a",
+      "samenvatting": "PERSBERICHT 6-10-2026 Directeur-Bestuurder Maarten van der Meer neemt eind 2026 afscheid van Stichting de Zaanse Schans Na bijna negen jaar neemt Maarten van der Meer eind december 2026 afscheid als Directeur-Bestuurder van Stichting de Zaanse Schans. Maarten van der Meer: “Ik vertrek met veel mooie herinneringen en vooral met grote waardering voor mijn collega’s, bewoners, erfgoedorganisaties, de gemeente en alle anderen met wie ik de afgelopen jaren heb samengewerkt. De Zaanse Schans is een plek die je niet zomaar achter je laat. Ik zal het dan ook altijd in mijn hart meedragen.” Martin Berendse, voorzitter van de Raad van Toezicht: “Maarten heeft de afgelopen jaren een belangrijke rol gespeeld in de ontwikkeling van de Zaanse Schans. Onder zijn leiding is de organisatie verder geprofessionaliseerd en zijn belangrijke stappen gezet om Stichting de Zaanse Schans in partnerschap met de gemeente Zaanstad en de andere erfgoedorganisaties toekomstbestendig te maken. Wij zijn hem zeer erkentelijk voor zijn grote inzet en betrokkenheid en wensen hem veel succes bij zijn volgende stap.” Sinds zijn aantreden in maart 2018 stonden het behoud van het bijzondere erfgoed, de kwaliteit, maar ook de beheersbaarheid en veiligheid van het massale bezoek (2,8 miljoen bezoekers in 2025) en de noodzakelijke duurzame exploitatie van het gebied steeds centraal. Ook organisatorisch veranderde er veel. In 2026 werden Stichting de Zaanse Schans en Zaanse Schans Vastgoed samengebracht in één organisatie, met een Raad van Toezicht en een Directeur-Bestuurder. Maarten van der Meer: “Toen ik in 2018 begon, wist ik dat de Zaanse Schans een bijzondere plek was. Maar pas wanneer je hier dagelijks werkt, zie je hoeveel verhalen, vakmanschap en betrokkenheid achter het prachtige monumentale erfgoed schuilgaat. De Zaanse Schans staat tegelijkertijd voor grote opgaven. Miljoenen mensen uit de hele wereld willen deze bijzondere plek ervaren, terwijl juist het erfgoed en het karakter van het gebied behouden moeten blijven. We hebben de afgelopen jaren veel in beweging gezet om daar een duurzaam antwoord op te vinden. Nu de organisatie een nieuwe fase ingaat, is dit voor mij een goed moment om het stokje over te dragen.” Tot het einde van het jaar blijft Maarten van der Meer zich inzetten voor de lopende ontwikkelingen en een zorgvuldige overdracht. De Raad van Toezicht zal na intern beraad bekendmaken op welke wijze de bestuursfunctie van de stichting vanaf 1 januari 2027 worden ingevuld.",
+      "gepubliceerdOp": "2026-10-13T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-14T00:09:25.148Z",
       "documentInhoudOpgehaald": true,
-      "score": 18,
+      "score": 16,
       "scoreToelichting": [
-        "afwijking (+3)",
-        "belang (+4)",
         "voor het eerst (+2)",
         "primeur/eerstehands bron (+3)",
         "nabijheid (+4)",
-        "recency (+2, 5.1 dag(en) oud)"
+        "recency (+7, 1.0 dag(en) oud)"
       ],
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft hoge nieuwswaarde door nabijheid in Zaanstad, actualiteit en een concreet besluit met grote impact op de openbare orde (belang en omvang). De verlenging van de pandsluiting en het cameratoezicht na een explosie aan de Zuiddijk geeft inwoners direct inzicht in de veiligheidssituatie in hun eigen omgeving.",
-        "invalshoek": "De gemeente Zaanstad verlengt de sluiting van een woning en het cameratoezicht aan de Zuiddijk tot 6 november na een eerdere explosie.",
+        "onderbouwing": "Het vertrek van de directeur-bestuurder van een bekende lokale erfgoedlocatie scoort hoog op nabijheid (Zaanstreek-Waterland), wie (bekende lokale bestuurder) en omvang (2,8 miljoen bezoekers). Het bericht draagt bij aan inzicht in de eigen omgeving en het dagelijks leven door de transitie van de organisatie te belichten.",
+        "invalshoek": "Wat laat vertrekkend directeur Maarten van der Meer achter op een Zaanse Schans die kampt met miljoenen bezoekers en grote organisatorische veranderingen?",
         "teCheckenBronnen": [
-          "Gemeente Zaanstad",
-          "Politie",
-          "Openbaar Ministerie"
+          "Stichting de Zaanse Schans",
+          "Gemeente Zaanstad"
         ]
       },
       "aiFout": null
