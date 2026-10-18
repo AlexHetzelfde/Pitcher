@@ -3,23 +3,23 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Play-in Concordia Oostzaan",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-17-play-in-concordia-oostzaan/",
+    "titel": "Nieuwe Huys Concerten: VitaDuo",
+    "url": "https://waarheen.deorkaan.nl/agenda/nieuwe-huys-concerten-vitaduo/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.732Z",
-    "score": 11,
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
+    "score": 9,
     "scoreToelichting": [
-      "nabijheid (+4)",
+      "voor het eerst (+2)",
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over het evenement, waardoor de criteria zoals belang, omvang en nabijheid niet te beoordelen zijn. Er is onvoldoende informatie over actualiteit en concrete gevolgen om hier een nieuwsbericht van te maken.",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over het evenement, waardoor het belang en de impact niet te controleren zijn. Er is onvoldoende informatie over actualiteit, omvang of nabijheid om journalistiek op te pakken.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Concordia Oostzaan"
+        "Organisatie Nieuwe Huys Concerten"
       ]
     },
     "aiFout": null
@@ -28,18 +28,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Het Weihenstephan Duits",
-    "url": "https://waarheen.deorkaan.nl/agenda/het-weihenstephan-duits/",
+    "titel": "Langlopende evenementen",
+    "url": "https://waarheen.deorkaan.nl/agenda/2024-09-10-langlopende-evenementen/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.731Z",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.341Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor actualiteit, belang, nabijheid en andere criteria niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om te bepalen of dit nieuwswaardig is of bijdraagt aan de lezer.",
+      "onderbouwing": "Het bericht bevat enkel de titel 'Langlopende evenementen' zonder verdere tekst, waardoor de criteria zoals actualiteit, belang en nabijheid niet getoetst kunnen worden. Er is geen feitelijke informatie over een gebeurtenis of besluit om een journalistieke afweging op te baseren.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -51,22 +51,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Schilderskring Zaanstreek Noord",
-    "url": "https://waarheen.deorkaan.nl/agenda/schilderskring-zaanstreek-noord-2/",
+    "titel": "Derde Zondag met Toppen Ensemble",
+    "url": "https://waarheen.deorkaan.nl/agenda/derde-zondag-met-amarillis-sunshine/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.732Z",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over de activiteit. Hierdoor ontbreken de criteria actualiteit, afwijking, belang en omvang volledig, en draagt het niet bij aan de drie redactionele doelen.",
+      "onderbouwing": "Het bericht bevat slechts een agenda-vermelding zonder specifieke details over een maatschappelijk probleem, beleidsbesluit of grote omvang. Hierdoor ontbreekt voldoende nieuwswaarde op basis van de criteria belang en omvang.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Schilderskring Zaanstreek Noord"
+        "Organisator Toppen Ensemble"
       ]
     },
     "aiFout": null
@@ -75,18 +75,42 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Concerten bij Kaarslicht: Trio Rodin",
-    "url": "https://waarheen.deorkaan.nl/agenda/concerten-bij-kaarslicht-trio-rodin/",
+    "titel": "Excursievaartocht: Roofvogels",
+    "url": "https://waarheen.deorkaan.nl/agenda/excursievaartocht-roofvogels-5/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.732Z",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een blote agendavermelding voor een concert in de toekomst zonder vermelding van de exacte locatie in Zaanstreek-Waterland, en mist daarmee voldoende maatschappelijk belang, omvang of concrete gevolgen voor inwoners om het nu journalistiek op te pakken.",
+      "onderbouwing": "Het bericht bevat slechts een summiere aankondiging van een evenement zonder specifieke details over de locatie binnen Zaanstreek-Waterland, de organisator of de omvang. Hierdoor ontbreken voldoende aanknopingspunten voor nabijheid, belang en maatschappelijke impact volgens de criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de excursievaartocht"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "High Tea in De Bovenkruier",
+    "url": "https://waarheen.deorkaan.nl/agenda/high-tea-in-de-bovenkruier-3/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding over een High Tea zonder verdere details over actualiteit, maatschappelijk belang of omvang. Er is geen sprake van een concreet nieuwsfeit of een verandering die inwoners raakt.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -98,21 +122,68 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Hemlab: Kom op de thee en experimenteer er mee! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-kom-op-de-thee-en-experimenteer-er-mee-7-14-jaar-2/",
+    "titel": "Open Muziektuin",
+    "url": "https://waarheen.deorkaan.nl/agenda/open-muziektuin-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.732Z",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht betreft slechts een agenda-vermelding voor een kinderactiviteit zonder maatschappelijk belang of ingrijpende gevolgen. Er is geen sprake van urgent nieuws, een beleidsbesluit of een afwijking van het alledaagse.",
+      "onderbouwing": "Het bericht bevat enkel de titel 'Open Muziektuin' en een URL zonder verdere feitelijke inhoud over wie, wat, waar of wanneer. Hierdoor kan niet worden beoordeeld of er sprake is van actualiteit, belang of nabijheid voor Zaanstreek-Waterland.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Hemlab",
+        "WaarheenAgenda",
+        "Organisator Open Muziektuin"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Kindertheatervoorstelling in De Pelikaan (4 - 10 jaar)",
+    "url": "https://waarheen.deorkaan.nl/agenda/kindertheatervoorstelling-in-de-pelikaan-4-10-jaar/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.342Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist inhoudelijke context, omdat de samenvatting ontbreekt en er geen informatie is over actualiteit, omvang of een maatschappelijk belang. Er is enkel sprake van een agendavermelding zonder concrete feiten over een unieke gebeurtenis.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "De Pelikaan"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "De Wind en Wij (3+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/de-wind-en-wij-3/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.343Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel ('De Wind en Wij (3+)') en geen verdere feiten, waardoor criteria als belang, omvang en nabijheid niet te toetsen zijn. Er is onvoldoende informatie voor een redactioneel artikel.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
         "WaarheenAgenda"
       ]
     },
@@ -122,21 +193,46 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Zaanse Regenboog karaoke",
-    "url": "https://waarheen.deorkaan.nl/agenda/zaanse-regenboog-karaoke/",
+    "titel": "Carola Smit & Friends",
+    "url": "https://waarheen.deorkaan.nl/agenda/carola-smit-friends/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-17T22:54:30.732Z",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.343Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Dit bericht bevat enkel een agenda-vermelding over een 'Zaanse Regenboog karaoke' zonder details over de inhoud, organisator of schaal. Hierdoor is het niet te beoordelen op nieuwswaarde zoals afwijking, omvang of belang.",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Carola Smit & Friends') en een agendavermelding zonder verdere context over actualiteit, belang of omvang. Er is onvoldoende journalistieke inhoud om te spreken van een concreet nieuwsbericht dat inwoners raakt.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "WaarheenAgenda",
+        "Organisatie Carola Smit & Friends"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Bloesem Ontmoet een A-capella groep",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-18-bloesem-ontmoet-een-a-capella-groep/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-18T22:48:00.343Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agendatitel zonder verdere feiten over actualiteit, omvang, locatie of maatschappelijk belang binnen Zaanstreek-Waterland. Hierdoor ontbreken voldoende aanknopingspunten om te spreken van een volwaardig nieuwsbericht volgens de criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van Bloesem Ontmoet"
       ]
     },
     "aiFout": null
