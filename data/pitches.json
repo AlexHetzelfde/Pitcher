@@ -1,5 +1,36 @@
 {
-  "gegenereerdOp": "2026-10-18T22:48:53.845Z",
-  "aantalBerichtenTotaal": 10,
-  "topPitches": []
+  "gegenereerdOp": "2026-10-20T00:08:41.363Z",
+  "aantalBerichtenTotaal": 14,
+  "topPitches": [
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Petitie en Noodkreet houd de Verkadevilla open voor hulp",
+      "itemId": "9be82f3e-2848-41cd-b2af-444a5cb5a61b",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/fa45b49f-daf7-4ae8-9668-c30fa157e802",
+      "samenvatting": "Noodkreet: houd de Verkadevilla open voor hulp! Aan:: De Raad van Zaanstad Beste Raad van Zaanstad, De Verkadevilla, een begrip in de Zaanstreek vanwege de rijke historie en de centrale locatie, heeft sinds 2023 een passende bestemming gekregen. Feestelijk geopend onder toeziend oog van burgemeester Jan Hamming nam De Regenboog Groep het pand in gebruik om mensen in Zaanstad te steunen die te maken hebben met dakloosheid en verslaving. De villa is een plek geworden waar mensen die voorheen dagelijks over straat moesten zwerven en veelal buiten het zicht van hulpverlening waren, een plek hadden om te douchen, te eten, te rusten. Veilig en warm te zijn. Net zoals andere Zaankanters, weer even gewoon mens te kunnen zijn. Nu, enkele jaren later, wordt er gesproken over het sluiten van dit prachtige initiatief dat onze mooie gemeente zoveel mooier heeft gemaakt. Zonder passend alternatief. Dit kan en mag niet gebeuren. Waarom is het belangrijk? Stop de sluiting van de Verkadevilla! Gun iedereen in de gemeente Zaanstreek een warme maaltijd, een plek om te douchen, even op adem te komen. Dakloosheid en verslaving kan iedereen overkomen, laten we zorgen dat er hulp beschikbaar is zodat deze mensen ergens terecht kunnen. Omdat iedereen in de gemeente Zaanstad gewoon mens moet kunnen zijn en zodat er geen noodgedwongen overlast ontstaat. Want wat je er ook van vindt, mensen zonder huis en met verslaving bestaan. Hoe fijn is het als ze door de gespecialiseerde organisatie, De Regenboog Groep, kunnen worden geholpen in de Verkadevilla, in plaats van moeten rondzwerven door onze parken. Dit gebeurd sinds 2023 al succesvol. Waarom nu stoppen? Zet dit prachtige initiatief voort! Samen roepen we de Raad van Zaanstad op om te investeren in deze bewezen hulp, door het openhouden van de Verkadevilla. Houd onze gemeente humaan én veilig! Getekend door 1.636 mensen: NaamPostcode 1541AM 1541AM 1551PA 1509EB 1551AB 1506MH 1073GA 1509EB 1502NK 1507BE 1215EE 1507 ST 1507EG 1506MH 1504 DK 1507EG ZAANDAM 1509BD 1902BA 1012PM 1544ZP 1544MG 1521 DC 1521 DC 1507CS V94E5CT 1509XT 1509BG 1531HG 1017RT 1509 XT 1521 MV 1507 EC 1506KV 1521 TM 1507XT 1112RT 1552PA 1502 TA 1551RP NaamPostcode 2411 ZW 1521AA 1506 KV 1506 TK 1503MP 1507KW 1502 BV 2321 EZ 1503JL 6717EW 1032GH 1141RH 1506 VD 1509 HE 1503TR 1544VH 1032GH 1509 WK 1506MH 1504 1561ER 1501VS 1544CZ 6573WS 1382AD 1087AV 1509WK 8926 KT 1075TH 1551EM 1448 XP 6716NC 1506EG 1115 VL 1014AK 1511 EG 1506MR 7333 AE 4813PB 1503JK 1541VB Noodkreet: houd de Verkadevilla open voor hulp! NaamPostcode 1551PA 1544CZ 1509AH 1506 1506BW 1541AN 3274DB 1551RS 1521WN 1504AV 1541VS 1013XV 1503 WG 1541WV 1506MC 1501 TZ 1503 AR 1566 MZ 7055 AK 1034 ZB 1502TN 1509AH 1506VW 1093XX 1505CR 1065JZ 6716 SE 1562RV 1448 DZ 1456 NH 1072 XK 1544BA 1052AV 1531AV 1014ZG 1531AS 1531CT 1544KM 1509AH 1506HG 1521VS 1507XN 1541 RJ 1567CD NaamPostcode 1705 TC 1567CD 1509ZG 1521ZZ 1544AL 1506MH 1688WS 1507LD 1171 HT 1013GE 1544 BL 1521MA 1531 BX 1566SG 1541AK 1541XT ",
+      "gepubliceerdOp": "2026-10-19T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-20T00:06:52.304Z",
+      "documentInhoudOpgehaald": true,
+      "score": 20,
+      "scoreToelichting": [
+        "belang (+4)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.0 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht scoort hoog op nabijheid (Zaanstad) en belang, omdat er een mogelijke sluiting dreigt van de Verkadevilla waar daklozen en verslaafden opvang krijgen. Met 1.636 handtekeningen is er sprake van een aanzienlijke omvang en maatschappelijke betrokkenheid. Dit raakt direct aan de actualiteit en het dagelijks leven van inwoners in de regio.",
+        "invalshoek": "Petitie met 1.636 handtekeningen opgestart tegen mogelijke sluiting van de Verkadevilla in Zaandam.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad (Raad van Zaanstad)",
+          "De Regenboog Groep"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }
