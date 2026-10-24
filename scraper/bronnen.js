@@ -36,8 +36,8 @@ module.exports = [
     id: "blaise-pascal-college",
     naam: "Blaise Pascal College",
     categorie: "lokaal",
-    type: "generieke-lijst",
-    url: "https://www.blaisepascalcollege.nl/",
+    type: "wp-rest",
+    url: "https://blaisepascalcollege.nl/wp-json/wp/v2/quotes?per_page=20&orderby=date&order=desc&_fields=date_gmt,date,link,title,excerpt",
   },
   {
     id: "pascal-zuid",
