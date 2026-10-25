@@ -3,18 +3,41 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Herfst bokketocht",
-    "url": "https://waarheen.deorkaan.nl/agenda/herfst-bokketocht/",
+    "titel": "Twiskespeurders (vanaf 6 jaar)",
+    "url": "https://waarheen.deorkaan.nl/agenda/twiskespeurders-vanaf-6-jaar-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.599Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Herfst bokketocht') en een agenda-url zonder verdere inhoud. Hierdoor ontbreken de feiten om de criteria zoals nabijheid, belang of omvang te toetsen en draagt het niet bij aan maatschappelijk begrip of inzicht.",
+      "onderbouwing": "Het bericht bevat enkel een agendavermelding over een kinderactiviteit zonder concrete nieuwswaarde, besluiten of maatschappelijk belang. Er is geen sprake van afwijking van het alledaagse of betrokkenheid van grote belangen, waardoor het niet voldoet aan de journalistieke criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisator Twiskespeurders"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Roel C Verburg",
+    "url": "https://waarheen.deorkaan.nl/agenda/roel-c-verburg-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere feiten over actualiteit, belang of omvang in Zaanstreek-Waterland. Er is onvoldoende informatie om te spreken van nieuwswaarde of een maatschappelijk probleem.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -26,42 +49,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Collages die verwonderen",
-    "url": "https://waarheen.deorkaan.nl/agenda/schilderskring-zaanstreek-noord/",
+    "titel": "Alice in Wonderland",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-25-alice-in-wonderland/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.599Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een kale titel over een agenda-item zonder verdere feiten over actualiteit, belang, omvang of inhoud. Hierdoor is er onvoldoende nieuwswaarde en draagt het niet bij aan een maatschappelijk probleem, concrete gevolgen of inzicht in de omgeving.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Schilderskring Zaanstreek-Noord",
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Alle hens aan dek",
-    "url": "https://waarheen.deorkaan.nl/agenda/alle-hens-aan-dek/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.599Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, belang en nabijheid niet te verifiëren zijn. Er is onvoldoende informatie om te bepalen of het bijdraagt aan een maatschappelijk probleem, de dagelijkse gevolgen of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Alice in Wonderland') en een datum, maar mist concrete feiten over wie, wat en waar. Hierdoor kan niet worden beoordeeld of het voldoet aan de criteria voor nieuwswaarde of bijdraagt aan het inzicht van de lezer.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -73,21 +72,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "1e Vijfhoekparkloop 2026",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-24-1e-vijfhoekparkloop-2026/",
+    "titel": "Excursievaartocht: Rondje door het veld",
+    "url": "https://waarheen.deorkaan.nl/agenda/excursievaartocht-rondje-door-het-veld-5/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.599Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een datum en titel van een evenement in Zaanstreek-Waterland zonder verdere inhoudelijke details. Hierdoor ontbreekt voldoende nieuwswaarde op het gebied van belang, omvang of maatschappelijke impact. Het is slechts een agendavermelding.",
+      "onderbouwing": "Het bericht is een agenda-vermelding voor een excursievaartocht en mist concrete nieuwswaarde zoals een beleidswijziging, maatschappelijk probleem of groot belang voor inwoners. Het betreft een standaard recreatieve activiteit zonder bekende lokale namen of uitzonderlijke omvang.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Organisatie van de Vijfhoekparkloop"
+        "Organisator van de excursievaartocht",
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -96,22 +96,46 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Hembrug bij Nacht",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-24-hembrug-bij-nacht/",
+    "titel": "Open Podium Jisper kerk",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-25-open-podium-jisper-kerk/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.600Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Hembrug bij Nacht') en een datum, maar mist concrete feiten over wat er precies gebeurt, wie erbij betrokken zijn en wat het belang of de impact is voor inwoners. Hierdoor is er onvoldoende nieuwswaarde om op basis van de criteria een journalistiek artikel te starten.",
+      "onderbouwing": "Het bericht mist inhoudelijke feiten over het evenement en bevat alleen een kale vermelding van een datum en locatie in Jisperkerk. Hierdoor ontbreekt voldoende nieuwswaarde op het gebied van belang, omvang of maatschappelijke impact.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisatie Open Podium Jisper kerk",
+        "Agenda WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Musica Ensemble",
+    "url": "https://waarheen.deorkaan.nl/agenda/musica-ensemble/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de titel 'Musica Ensemble' zonder verdere inhoud, waardoor er geen feiten zijn om te toetsen aan criteria als actualiteit, belang of nabijheid. Er is geen informatie over wat er precies gebeurt, wie erbij betrokken zijn of wat de gevolgen zijn.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator Hembrug bij Nacht"
+        "Musica Ensemble"
       ]
     },
     "aiFout": null
@@ -120,21 +144,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Hembrug bij Nacht",
-    "url": "https://waarheen.deorkaan.nl/agenda/hembrug-bij-nacht/",
+    "titel": "22e Evean Herfsttocht (DDL)",
+    "url": "https://waarheen.deorkaan.nl/agenda/22e-evean-herfsttocht-ddl/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.600Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere feiten over een gebeurtenis, impact of betrokkenen. Hierdoor kan er niet worden getoetst aan de journalistieke criteria zoals nabijheid, belang of omvang.",
+      "onderbouwing": "Het bericht bevat enkel een aankondiging van een evenement (de 22e Evean Herfsttocht) zonder verdere feitelijke details over impact, omvang of actualiteit die voldoen aan de criteria voor een journalistiek artikel. Er is geen sprake van een maatschappelijk probleem, concreet ingrijpend gevolg of unieke gebeurtenis die diepere verslaggeving rechtvaardigt.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "Evean",
+        "Organisatie Herfsttocht"
       ]
     },
     "aiFout": null
@@ -143,69 +168,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Excursie vaartocht: Nacht van de nacht",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-24-excursie-vaartocht-nacht-van-de-nacht/",
+    "titel": "Kruelty B2B Vieze Asbak 3hrs – ADE",
+    "url": "https://waarheen.deorkaan.nl/agenda/kruelty-b2b-vieze-asbak-3hrs-ade/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.600Z",
+    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agendavermelding voor een excursie en mist concrete nieuwswaarde op het gebied van belang, omvang of ingrijpende maatregelen. Er is geen sprake van een maatschappelijk probleem of een direct gevolg voor het dagelijks leven van inwoners dat journalistieke diepgang vereist.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Organisator Nacht van de Nacht"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Roots aan de Zaan: Inni-K",
-    "url": "https://waarheen.deorkaan.nl/agenda/roots-aan-de-zaan-inni-k/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.600Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoudelijke informatie over het evenement, waardoor actualiteit, belang en omvang niet te beoordelen zijn. Er is onvoldoende feitelijke informatie om te bepalen of dit bijdraagt aan een maatschappelijk probleem, concrete gevolgen of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht bevat enkel een titel over een evenement tijdens ADE zonder verdere details over locatie binnen Zaanstreek-Waterland of maatschappelijk belang. Hierdoor ontbreken de criteria nabijheid, impact en omvang om dit als lokaal nieuws te kwalificeren.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisatie Roots aan de Zaan"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Hemlab: Wetenschap in de Nacht! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-wetenschap-in-de-nacht-7-14-jaar-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-24T22:54:46.600Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere inhoudelijke details zoals datum, tijd of locatie, waardoor de actualiteit en omvang niet te verifiëren zijn. Het draagt niet bij aan een maatschappelijk probleem of concreet nieuws, maar betreft slechts een vooraankondiging van een kinderactiviteit. Nabijheid in Zaanstreek-Waterland is wel aannemelijk vanwege de locatie Hemlab, maar de ontbrekende informatie maakt het ongeschikt als nieuwsbericht.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Hemlab",
-        "WaarheenAgenda"
+        "Organisatie van ADE"
       ]
     },
     "aiFout": null
