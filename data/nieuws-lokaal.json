@@ -1,23 +1,112 @@
 [
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Twiskespeurders (vanaf 6 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/twiskespeurders-vanaf-6-jaar-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
-    "score": 7,
+    "titel": "Armoede in de Praktijk ontwikkelingen in lokale armoedehulp",
+    "itemId": "ed07d7bd-540c-4129-9174-1fa7a420e6f6",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/c05830e5-b657-4a44-94ff-fc83a6883dcf",
+    "samenvatting": "Van: Pers | Armoedefonds <pers@armoedefonds.nl> Verzonden: zaterdag 17 oktober 2026 09:00 Onderwerp: Armoede in de Praktijk: ontwikkelingen in lokale armoedehulp Beste griffie, Kunt u deze mail inclusief bijlage alstublieft doorzetten naar de gemeenteraad? Beste raadsleden, Stichting Armoedefonds doet elk jaar onderzoek om de ontwikkelingen in de lokale armoedebestrijding in Nederland in beeld te brengen. Vandaag, op Wereldarmoededag 2026, publiceren we ons nieuwste onderzoek. In totaal deelden 652 lokale armoedehulporganisaties hun ervaringen en inzichten voor dit onderzoek. Bijgevoegd vindt u het onderzoeksrapport Armoede in de Praktijk: een onderzoek naar trends en ontwikkelingen in het werkveld van armoedebestrijding. Hulpvraag blijft groeien Bij 2 op de 3 lokale hulporganisaties is het aantal hulpvragen het afgelopen jaar toegenomen. Deze stijging past in een ontwikkeling die al meerdere jaren zichtbaar is. De behoefte aan hulp betreft vaak basisvoorzieningen zoals voedsel, verzorgingsproducten, kleding en schoolspullen. Financiële problemen hebben daarnaast serieuze sociale en persoonlijke gevolgen: schaamte, stress, eenzaamheid en mentale en fysieke gezondheidsklachten. Jongeren vormen een groeiende groep hulpvragers. Meer dan de helft van de organisaties ziet een stijging in het aantal jongeren dat hulp zoekt. Jongeren kampen onder meer met een laag inkomen en hoge dagelijkse kosten. Specifiek voor deze groep is de financiële overgang rond de 18e verjaardag een knelpunt. Schaamte, stress en mentale gezondheidsklachten komen veel voor. Financiële problemen kunnen deelname aan sociale activiteiten en zelfs het starten of afronden van een studie belemmeren. Lokale hulporganisaties staan onder toenemende druk De groeiende hulpvraag vergroot de druk op lokale armoedehulporganisaties. Bij 1 op de 9 organisaties is de vraag inmiddels zo groot dat met wachtlijsten wordt gewerkt. Ruim een derde heeft te maken met een tekort aan medewerkers. Een deel verkeert bovendien financieel in zwaar weer. Daarnaast maken korte subsidielooptijden het moeilijk om de dienstverlening op langere termijn te plannen en te waarborgen. Lokale hulporganisaties vormen voor veel mensen een laagdrempelige en vertrouwde toegang tot hulp. Zij zijn vaak een eerste hulplijn, waar vanuit mensen verder doorverwezen kunnen worden. Het is van groot belang dat hulporganisaties deze essentiële rol kunnen blijven vervullen. Zij verdienen daarom aandacht en duurzame ondersteuning. Het gehele onderzoek vindt u in de bijlage. Mocht u vragen hebben over het onderzoek dan kunt u contact opnemen met woordvoerder via 06 of @armoedefonds.nl. Met vriendelijke groet, Medewerker Beleid & Public Affairs You don't often get email from pers@armoedefonds.nl. Learn why this is important Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent. Stichting Armoedefonds De Grote Elst 52, 5246 JR Rosmalen t",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": true,
+    "score": 19,
     "scoreToelichting": [
+      "actualiteit (+3)",
+      "belang (+4)",
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een agendavermelding over een kinderactiviteit zonder concrete nieuwswaarde, besluiten of maatschappelijk belang. Er is geen sprake van afwijking van het alledaagse of betrokkenheid van grote belangen, waardoor het niet voldoet aan de journalistieke criteria.",
-      "invalshoek": "",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft landelijke nieuwswaarde door de publicatie op Wereldarmoededag, maar mist directe lokale cijfers of specifieke organisaties uit Zaanstreek-Waterland om te voldoen aan het criterium nabijheid. Het draagt wel bij aan beter inzicht in een maatschappelijk probleem en concrete gevolgen voor inwoners. Omdat het via iBabs als ingekomen stuk bij de gemeente Zaanstad is beland, kan het dienen als aanleiding voor een lokaal volgbericht.",
+      "invalshoek": "Hoe staat de lokale armoedebestrijding in Zaanstad ervoor nu het Armoedefonds waarschuwt voor toenemende hulpvragen en wachtlijsten bij hulporganisaties?",
       "teCheckenBronnen": [
-        "Organisator Twiskespeurders"
+        "Lokale armoedehulporganisaties in Zaanstad",
+        "Gemeente Zaanstad (reactie op ingekomen stuk)"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Activiteitenplan 2025-2030",
+    "itemId": "d9e22993-7229-4e14-8b0c-769249f1e267",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/e5ad724f-e542-4fe9-9c6a-ca4ad24e51c4",
+    "samenvatting": "Activiteitenplan 2025-2030 Voorwoord Beste lezer, Bijgaand treft u het activiteitenplan van het 4 en 5 mei Comité Zaanstad voor de jaren 2025-2030. Hierin wordt informatie gegeven over de: - Bestuurssamenstelling - Uitgangspunten - Kerntaken - Plannen Comité - Bijlage Herdenkingskalender Veel leesplezier en voor vragen kunt u contact opnemen via het mailadres: info@4en5meizaanstad.nl Rina Schenk, Herman van Kordenoordt en Timna Rijvordt Bestuurssamenstelling Het dagelijks bestuur van het 4 en 5 mei Comité Zaanstad bestaat op dit moment uit drie leden, te weten: Voorzitter: Rina Schenk Secretaris: Timna Rijvordt Penningmeester: Herman van Kordenoordt Het bestuur overkoepelt de Kerncomités van de verschillende voormalige Zaangemeenten: Assendelft, Koog aan de Zaan en Zaandijk, Krommenie, Westzaan, Wormerveer en Zaandam. De Kerncomités geven zelf vorm aan de eigen herdenking. Zij vragen door middel van een begroting subsidie bij de penningmeester. Het bestuur heeft de contacten met de ambtenaren van de gemeente, vraagt daar de subsidie aan en de vergunningen voor de te houden herdenkingen. Vertegenwoordigers van de Kerncomités en het bestuur komen tweemaal per jaar bijeen. Vertegenwoordigers van het bestuur hebben zitting in de verschillende werkgroepen zoals: - Open Joodse Huizen / Huizen van Verzet - Hannie Schaftherdenking Het bestuur heeft het initiatief tot het organiseren van: - Februaristaking - Holocaust Memorial Day herdenking op de Joodse begraafplaats in Zaandam. - Een 5-jaarlijks bevrijdingsfestival Verder faciliteert en ondersteunt het bestuur initiatieven van anderen, die binnen de doelstelling van het comité vallen, zoals: - Herdenking Holocaust Memorial Day (om het jaar) in de Bullkerk - Activiteiten in het kader van Theater na de Dam, na afloop van de 4 mei herdenkingen. Uitgangspunten Uitgangspunt voor het werk van ons 4 en 5 mei Comité Zaanstad is de visie van het Nationaal Comité 4 en 5 mei om de geschiedenis van bezetting, onderdrukking, vervolging en moord in de jaren 1940-1945, levend te houden door te herdenken en te vieren en te leren van de geschiedenis. En die geschiedenis vooral te ‘vertalen’ naar de gevolgen van onderdrukking, vervolging en moord in onze tijd. Verschillende vormen van racisme en de vluchtelingenstroom in deze tijd naar Europa en onze stad, zijn daar voorbeelden van. Onze kernwaarden zijn verdraagzaamheid, tolerantie, respect, gelijkwaardigheid en je mag zijn wie je bent. Omdat onze samenleving verandert en een grote diversiteit aan culturen bevat zoeken we bewust naar verbinding met allerlei groepen. Door deel te nemen aan gespreksgroepen en hulp te bieden bij het organiseren van gastlessen of andere herdenkingen. We denken mee met theatervoorstellingen als er gezocht wordt naar overlevenden van de Tweede Wereldoorlog of locaties. Dat het al ruim 80 jaar vrede is in ons land willen we aan de orde blijven stellen door • De mensen die hun leven verloren in de strijd voor vrijheid en gerechtigheid, als gevo",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": true,
+    "score": 18,
+    "scoreToelichting": [
+      "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht betreft een ingekomen activiteitenplan voor 2025-2030 van het 4 en 5 mei Comité Zaanstad, wat past bij de criteria nabijheid (Zaanstad) en nieuws van morgen (vooraankondiging). Het ontbreekt echter aan concrete nieuwe besluiten, maatregelen of een specifieke gebeurtenis die inwoners direct raakt, waardoor de nieuwswaarde beperkt is.",
+      "invalshoek": "Wat staat er in het nieuwe vijfjarenplan van het 4 en 5 mei Comité Zaanstad om herdenkingen en vieringen te vernieuwen?",
+      "teCheckenBronnen": [
+        "4 en 5 mei Comité Zaanstad",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Mail parkeren Rozengracht",
+    "itemId": "a138f89d-c7d6-4a44-9875-8b4f08b7ce14",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/46b47c48-15ff-452c-870e-8707e09085ce",
+    "samenvatting": "Van: @hetnet.nl> Verzonden: zondag 18 oktober 2026 15:49 Aan: Mailbox Raadsgriffie <raadsgriffie@zaanstad.nl> Onderwerp: parkeren Rozengracht Geachte raadsleden, Ik woon sinds 2011 in . Toen was de Rozengracht voorzien van veel belijnde parkeervlakken: alle ruimte was benut; Die zijn een keer verwijderd en teruggebracht tot een stuk of 4. Ik zie vaak wielklemmen en wegsleepvrachtwagens: ook buitenlanders zijn de klos. De parkeermeter staat een beetje verscholen. Kan dat niet teruggedraaid worden tot de oude situatie met ruimte voor het bevoorradingsverkeer voor de winkels aan de Gedempte Gracht? Met vriendelijke groet, U ontvangt niet vaak e-mail van @hetnet.nl. Ontdek waarom dit belangrijk is Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent.",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": true,
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Rozengracht in Zaandam) en betreft een concreet gevolg voor inwoners en bezoekers (boetes en wegsleepregelingen), maar het is een enkel ingekomen stuk van een bewoner. Om te beoordelen of dit breder speelt en nieuwswaarde heeft, is navraag nodig over de handhavingsintensiteit en de onduidelijkheid van de parkeermeter. Het draagt bij aan inzicht in de eigen omgeving en het dagelijks leven.",
+      "invalshoek": "Bewoners klagen over onduidelijke parkeerborden en handhaving op de Rozengracht in Zaandam, wat leidt tot veel wielklemmen en wegsleepacties.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Lokale ondernemersvereniging Gedempte Gracht / Rozengracht"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-04 Woensdag 4 november 2026 om 11:00 uur - Invorderen dwangsom niet houden aan bestuursdwang verbouwen zonder vergunning Schoolpad 4 Zaandijk - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366402",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:34.242Z",
+    "score": 11,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)",
+      "recency (+3, evenement over 8.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaandijk en betreft een formeel besluit over een dwangsom, wat past bij het belang en de actualiteit. Er ontbreken echter essentiële details over de achtergrond en de omvang, waardoor onduidelijk is hoe groot het maatschappelijke of dagelijkse gevolg is.",
+      "invalshoek": "Gemeente Zaanstad gaat over tot invordering van een dwangsom vanwege het niet naleven van bestuursdwang bij een onvergunningte verbouwing aan het Schoolpad in Zaandijk.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Dossier Schoolpad Zaandijk"
       ]
     },
     "aiFout": null
@@ -26,44 +115,97 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Roel C Verburg",
-    "url": "https://waarheen.deorkaan.nl/agenda/roel-c-verburg-2/",
+    "titel": "Vrijwilligersmarkt in Assendelft",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-28-vrijwilligersmarkt-in-assendelft/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
-    "score": 7,
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 11,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, evenement over 1.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item zonder verdere feiten over actualiteit, belang of omvang in Zaanstreek-Waterland. Er is onvoldoende informatie om te spreken van nieuwswaarde of een maatschappelijk probleem.",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over de vrijwilligersmarkt. Hierdoor ontbreken concrete feiten over omvang, impact of de betrokken partijen om te kunnen spreken van voldoende nieuwswaarde.",
       "invalshoek": "",
       "teCheckenBronnen": [
+        "Organisator van de vrijwilligersmarkt in Assendelft",
         "WaarheenAgenda"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Alice in Wonderland",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-25-alice-in-wonderland/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
-    "score": 7,
+    "titel": "Raadsbrede motie vreemd aan de orde van de dag - een aanval op een is een aanval op allen",
+    "itemId": "ca8f1cf9-eaef-43a6-b7b7-c359a2857c88",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/b5cf0b23-fe79-4511-8e0b-afc82b5e9a50",
+    "samenvatting": "Van: griffie <griffie@Valkenburg.nl> Verzonden: maandag 19 oktober 2026 11:46 Aan: griffie <griffie@Valkenburg.nl> Onderwerp: Griffie gemeente Valkenburg aan de Geul: raadsbrede motie vreemd aan de orde van de dag ‘een aanval op één is een aanval op allen’ Beste griffiers, beste collega’s, De gemeenteraad van Valkenburg aan de Geul heeft in zijn vergadering van maandag 12 oktober 2026 de raadsbrede motie ‘een aanval op één is een aanval op allen’ aangenomen. Met het aanvaarden van deze motie spreekt de gemeenteraad onder andere uit dat een veilige werkomgeving een basisvoorwaarde is voor het goed functioneren van de lokale democratie. Deze motie is ook verwerkt bij het algemene motie overzicht op de VNG site. Om gehoor te geven aan de oproep van de raad om deze motie te delen met de griffiers van de Nederlandse gemeenteraden en om extra aandacht te vragen voor dit onderwerp ontvangt u bijgevoegd een ondertekende versie. De raad roept alle gemeenteraden op zich gezamenlijk uit te spreken tegen agressie en intimidatie richting lokale volksvertegenwoordigers en bestuurders. Zie voor de volledige tekst en de oproep aan uw raad de bijgevoegde motie. Mochten er nog vragen zijn, horen we het graag, Met vriendelijke groet, , en / Bureau Raadsgriffie Gemeente Valkenburg aan de Geul Postbus 998, 6300 AZ Valkenburg aan de Geul T gemeentehuis 14 043 | T direct (043) 60 99 331 U ontvangt niet vaak e-mail van griffie@valkenburg.nl. Ontdek waarom dit belangrijk is Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent.",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": true,
+    "score": 10,
     "scoreToelichting": [
+      "primeur/eerstehands bron (+3)",
       "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Alice in Wonderland') en een datum, maar mist concrete feiten over wie, wat en waar. Hierdoor kan niet worden beoordeeld of het voldoet aan de criteria voor nieuwswaarde of bijdraagt aan het inzicht van de lezer.",
+      "onderbouwing": "Het bericht voldoet niet aan het criterium nabijheid, omdat het afkomstig is van de gemeente Valkenburg aan de Geul in Limburg en niet in Zaanstreek-Waterland speelt. Hoewel het via ingekomen stukken van Zaanstad is binnengekomen, is het een landelijke oproep van een andere gemeente zonder directe concrete gevolgen voor inwoners van Zaanstad.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Nieuwsbrief | 15 oktober 2026",
+    "itemId": "40e4d6b0-177d-4708-a8cb-9993f7087e1a",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/40e4d6b0-177d-4708-a8cb-9993f7087e1a",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": false,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat slechts een titel en datum zonder inhoudelijke feiten over een gebeurtenis, besluit of betrokken personen. Hierdoor is er geen sprake van actualiteit, belang of nabijheid die getoetst kan worden aan de journalistieke criteria.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "Gemeente Zaanstad iBabs"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "OmgevingsdienstNHN",
+    "bronNaam": "OmgevingsdienstNHN",
+    "categorie": "lokaal",
+    "titel": "OD NHN Magazine Editie 2 | 2026",
+    "url": "https://www.odnhn.nl/nieuws/od-nhn-magazine-editie-2-2026/",
+    "samenvatting": "Het is weer tijd voor een nieuwe editie van het OD NHN-magazine! Het magazine zit weer bomvol verhalen over onze mooie organisatie. In deze editie lees je meer over hoe onze organisatie op lokaal niveau internationale impact maakt. Wat kun je verwachten? (ps. open het magazine op je desktop voor…",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:36.861Z",
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Dit bericht mist nieuwswaarde omdat het puur promotionele content betreft over een intern magazine zonder concrete gevolgen, besluiten of nabijheid voor inwoners van Zaanstreek-Waterland. Het draagt niet bij aan inzicht in een maatschappelijk probleem of het dagelijks leven.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Omgevingsdienst NHN"
       ]
     },
     "aiFout": null
@@ -72,70 +214,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Excursievaartocht: Rondje door het veld",
-    "url": "https://waarheen.deorkaan.nl/agenda/excursievaartocht-rondje-door-het-veld-5/",
+    "titel": "Lezing: Regie in eigen leven",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-regie-in-eigen-leven-4/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
-    "score": 7,
+    "gepubliceerdOp": "2026-10-27T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 8,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een agenda-vermelding voor een excursievaartocht en mist concrete nieuwswaarde zoals een beleidswijziging, maatschappelijk probleem of groot belang voor inwoners. Het betreft een standaard recreatieve activiteit zonder bekende lokale namen of uitzonderlijke omvang.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Organisator van de excursievaartocht",
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Open Podium Jisper kerk",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-25-open-podium-jisper-kerk/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.463Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist inhoudelijke feiten over het evenement en bevat alleen een kale vermelding van een datum en locatie in Jisperkerk. Hierdoor ontbreekt voldoende nieuwswaarde op het gebied van belang, omvang of maatschappelijke impact.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Organisatie Open Podium Jisper kerk",
-        "Agenda WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Musica Ensemble",
-    "url": "https://waarheen.deorkaan.nl/agenda/musica-ensemble/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel 'Musica Ensemble' zonder verdere inhoud, waardoor er geen feiten zijn om te toetsen aan criteria als actualiteit, belang of nabijheid. Er is geen informatie over wat er precies gebeurt, wie erbij betrokken zijn of wat de gevolgen zijn.",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item ('Lezing: Regie in eigen leven') en mist verdere inhoud over actualiteit, locatie, organisatie en impact. Hierdoor kan niet worden vastgesteld of het aan de nieuwscriteria voldoet.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Musica Ensemble"
+        "Organisator van de lezing"
       ]
     },
     "aiFout": null
@@ -144,22 +238,96 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "22e Evean Herfsttocht (DDL)",
-    "url": "https://waarheen.deorkaan.nl/agenda/22e-evean-herfsttocht-ddl/",
+    "titel": "Jongerencultuur komt samen!",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-27-jongerencultuur-komt-samen/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
-    "score": 7,
+    "gepubliceerdOp": "2026-10-27T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 8,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een aankondiging van een evenement (de 22e Evean Herfsttocht) zonder verdere feitelijke details over impact, omvang of actualiteit die voldoen aan de criteria voor een journalistiek artikel. Er is geen sprake van een maatschappelijk probleem, concreet ingrijpend gevolg of unieke gebeurtenis die diepere verslaggeving rechtvaardigt.",
+      "onderbouwing": "Het bericht bevat enkel een zeer summiere agenda-titel zonder verdere inhoudelijke feiten over de locatie, het doel of de betrokkenen. Hierdoor kan niet worden beoordeeld of het voldoet aan de criteria voor nabijheid, belang of omvang.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Evean",
-        "Organisatie Herfsttocht"
+        "Organisator van het evenement",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "\"Dichter bij de tijd\" - vrijdag 6 november in Museum Zaanse Tijd",
+    "itemId": "dba6ed66-8757-480e-83c4-4d532407dc7a",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/dba6ed66-8757-480e-83c4-4d532407dc7a",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:14:34.469Z",
+    "documentInhoudOpgehaald": false,
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en is actueel door de vooraankondiging van vrijdag 6 november. Omdat het echter alleen een titel en bronvermelding betreft zonder verdere inhoud, is het belang en de omvang onbekend.",
+      "invalshoek": "Wat houdt het evenement 'Dichter bij de tijd' in Museum Zaanse Tijd precies in?",
+      "teCheckenBronnen": [
+        "Museum Zaanse Tijd",
+        "Gemeente Zaanstad ingekomen stukken"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Bloembollenbedrijf Kapiteyn uit Breezand ontvangt predicaat Koninklijk",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Bloembollenbedrijf_Kapiteyn_uit_Breezand_ontvangt_predicaat_Koninklijk",
+    "samenvatting": "Commissaris van de Koning Arthur van Dijk reikte vrijdag 23 oktober namens de Koning het predicaat Koninklijk uit aan bloembollenbedrijf Kapiteyn.",
+    "gepubliceerdOp": "2026-10-26T08:19:41.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:26.430Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.7 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist lokale nabijheid, aangezien het geadresseerde bloembollenbedrijf gevestigd is in Breezand, wat buiten de regio Zaanstreek-Waterland ligt. Ook draagt het niet bij aan een maatschappelijk probleem of concrete gevolgen voor inwoners in de doelgroep.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Bloembollenbedrijf Kapiteyn"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "omgevingsdienstnoordzeekanaal",
+    "bronNaam": "omgevingsdienstnoordzeekanaal",
+    "categorie": "lokaal",
+    "titel": "Seveso-omgevingsdiensten op Fraude Film Festival: wie neemt verantwoordelijkheid?",
+    "url": "https://odnzkg.nl/nieuws/seveso-omgevingsdiensten-op-fraude-film-festival-wie-neemt-verantwoordelijkheid/",
+    "samenvatting": "Op 5 en 6 november 2026 is de Omgevingsdienst Noordzeekanaalgebied, samen met de vijf andere Seveso-omgevingsdiensten, aanwezig op het Fraude Film Festival in Amsterdam. Samen met het Openbaar Ministerie vertonen wij de documentaire Black Snow. The post Seveso-omgevingsdiensten op Fraude Film Festival: wie neemt verantwoordelijkheid? appeared first on Omgevingsdienst Noordzeekanaalgebied.",
+    "gepubliceerdOp": "2026-10-26T10:33:39.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:37.792Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist lokale urgentie en concrete gevolgen voor inwoners in Zaanstreek-Waterland, omdat het slechts een aankondiging betreft van een filmvertoning op een festival in Amsterdam in november 2026. Daarmee scoort het onvoldoende op de criteria nabijheid, belang en actualiteit voor de lokale lezer.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Omgevingsdienst Noordzeekanaalgebied",
+        "Fraude Film Festival"
       ]
     },
     "aiFout": null
@@ -168,22 +336,188 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Kruelty B2B Vieze Asbak 3hrs – ADE",
-    "url": "https://waarheen.deorkaan.nl/agenda/kruelty-b2b-vieze-asbak-3hrs-ade/",
+    "titel": "Pubquiz bij De Koperen Bel",
+    "url": "https://waarheen.deorkaan.nl/agenda/pubquiz-bij-de-koperen-bel-5/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-25T23:02:13.464Z",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
     "score": 7,
     "scoreToelichting": [
-      "recency (+7, 1.0 dag(en) oud)"
+      "recency (+7, evenement over 1.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel over een evenement tijdens ADE zonder verdere details over locatie binnen Zaanstreek-Waterland of maatschappelijk belang. Hierdoor ontbreken de criteria nabijheid, impact en omvang om dit als lokaal nieuws te kwalificeren.",
+      "onderbouwing": "Het bericht is een agendavermelding over een pubquiz en mist nieuwswaarde op het gebied van belang, omvang en afwijking van het alledaagse. Het draagt niet bij aan een maatschappelijk probleem of concreet inzicht in de omgeving.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisatie van ADE"
+        "De Koperen Bel"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Wouter Harbers & Kasper Schonewille",
+    "url": "https://waarheen.deorkaan.nl/agenda/wouter-harbers-kasper-schonewille/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een kale titel met twee namen en geen verdere feiten over actualiteit, belang, nabijheid of impact op inwoners. Hierdoor ontbreken de benodigde criteria om een journalistiek oordeel te vellen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van het evenement"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Oude Zaanse films kijken",
+    "url": "https://waarheen.deorkaan.nl/agenda/oude-zaanse-films-kijken-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agendatitel over het kijken van oude Zaanse films zonder verdere feitelijke context, waardoor criteria als belang, omvang en concrete gevolgen niet te verifiëren zijn. Het draagt niet bij aan een maatschappelijk probleem, heeft geen concrete gevolgen voor het dagelijks leven en biedt geen diepgaand inzicht in de omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de filmvoorstelling"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "40 jaar De Fabriek: De aanslag op 35mm",
+    "url": "https://waarheen.deorkaan.nl/agenda/40-jaar-de-fabriek-de-aanslag-op-35mm/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland vanwege het jubileum van filmtheater De Fabriek, maar mist concrete informatie over de omvang van de impact of een maatschappelijk probleem. De actualiteit en het belang voor het dagelijks leven van de lezer zijn op basis van de summiere gegevens beperkt.",
+      "invalshoek": "Hoe filmtheater De Fabriek in Zaandam het veertigjarig jubileum viert en de overgang van 35mm naar digitaal heeft doorstaan.",
+      "teCheckenBronnen": [
+        "De Fabriek (filmtheater)",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Bingo in de Bovenkruier",
+    "url": "https://waarheen.deorkaan.nl/agenda/bingo-in-de-bovenkruier-8/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.142Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een aankondiging voor een bingoavond zonder verdere nieuwswaarde, maatschappelijke impact of afwijking van het alledaagse. Er is geen sprake van concrete gevolgen voor inwoners of inzicht in een maatschappelijk probleem.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Hazes Dinner",
+    "url": "https://waarheen.deorkaan.nl/agenda/hazes-dinner/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.143Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Hazes Dinner') en een agenda-url zonder verdere inhoudelijke feiten, waardoor het niet voldoet aan de criteria actualiteit, afwijking, belang en omvang.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Allerzielen met Zaans Interkerkelijk Mannenkoor",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-28-allerzielen-met-zaans-interkerkelijk-mannenkoor/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.143Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist nieuwswaarde omdat het een standaard agenda-vermelding betreft zonder concrete maatschappelijke impact, beleidswijziging of conflict. Er is sprake van nabijheid in Zaanstreek-Waterland en actualiteit, maar het ontbreekt aan afwijking van het alledaagse en relevantie voor het dagelijks leven van inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisator Allerzielen",
+        "Zaans Interkerkelijk Mannenkoor"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Expositie Pleegzorg van dichtbij",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-10-28-expositie-pleegzorg-van-dichtbij/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-28T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-27T00:15:40.143Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft nabijheid binnen de regio, maar mist concrete details over omvang, specifieke locatie en organisatoren. Het is een summiere vooraankondiging (agenda-item) zonder directe urgentie of zwaarwegend besluit.",
+      "invalshoek": "Wat is er te zien op de expositie 'Pleegzorg van dichtbij' en waar in de regio vindt deze plaats?",
+      "teCheckenBronnen": [
+        "Organisator van de expositie",
+        "Lokale pleegzorgorganisaties"
       ]
     },
     "aiFout": null
