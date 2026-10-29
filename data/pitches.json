@@ -1,5 +1,108 @@
 {
-  "gegenereerdOp": "2026-10-28T00:16:41.363Z",
-  "aantalBerichtenTotaal": 10,
-  "topPitches": []
+  "gegenereerdOp": "2026-10-29T00:39:02.443Z",
+  "aantalBerichtenTotaal": 20,
+  "topPitches": [
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Weekendafsluiting N247 bij Edam",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Weekendafsluiting_N247_bij_Edam",
+      "samenvatting": "Van vrijdag 30 oktober 20.00 uur tot maandag 2 november 05.00 uur is de N247 afgesloten ter hoogte van brug Edam. Aan beide kanten van de brug moet het asfalt hersteld worden.",
+      "gepubliceerdOp": "2026-10-28T14:33:40.000Z",
+      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+      "score": 16,
+      "scoreToelichting": [
+        "belang (+4)",
+        "nabijheid (+4)",
+        "recency (+8, 0.4 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft directe nabijheid (Edam, Zaanstreek-Waterland) en hoge actualiteit vanwege de geplande afsluiting komend weekend. Inwoners en weggebruikers worden hier concreet door geraakt vanwege asphaltreparaties bij de brug.",
+        "invalshoek": "Welke omleidingsroutes gelden er tijdens de weekendafsluiting van de N247 bij Edam en wat betekent dit voor het verkeer?",
+        "teCheckenBronnen": [
+          "Provincie Noord-Holland",
+          "Lokale verkeersdiensten"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Korting op de bus voor inwoners met laag inkomen",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Korting_op_de_bus_voor_inwoners_met_laag_inkomen",
+      "samenvatting": "De provincie Noord-Holland biedt gemeenten 2 mogelijkheden voor korting op het busvervoer voor inwoners met een laag inkomen. Vervoerder Connexxion/Transdev ontwikkelde deze kortingsproducten in opdracht van de provincie.",
+      "gepubliceerdOp": "2026-10-28T14:47:47.000Z",
+      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+      "score": 11,
+      "scoreToelichting": [
+        "primeur/eerstehands bron (+3)",
+        "recency (+8, 0.4 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege de grote omvang (inwoners met een laag inkomen) en het belang, aangezien het concrete gevolgen heeft voor het dagelijks leven door mogelijke maatregelen rond busvervoer. Omdat de provincie gemeenten opties biedt, raakt dit direct de nabijheid in Zaanstreek-Waterland zodra lokale gemeenten hierop intekenen.",
+        "invalshoek": "Welke gemeenten in Zaanstreek-Waterland maken gebruik van de nieuwe kortingsmogelijkheden voor het busvervoer voor inwoners met een laag inkomen?",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad",
+          "Gemeente Purmerend",
+          "Provincie Noord-Holland",
+          "Connexxion"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Gedeputeerde Staten vragen verdere uitwerking onderdoorgang Broek in Waterland",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Gedeputeerde_Staten_vragen_verdere_uitwerking_onderdoorgang_Broek_in_Waterland",
+      "samenvatting": "Gedeputeerde Staten vragen Provinciale Staten van Noord-Holland om € 15 miljoen beschikbaar te stellen voor de verdere uitwerking van een onderdoorgang in de N247 bij Broek in Waterland. Ook wordt gevraagd € 100 miljoen te reserveren voor een toekomstig uitvoeringskrediet.",
+      "gepubliceerdOp": "2026-10-28T09:52:49.000Z",
+      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+      "score": 11,
+      "scoreToelichting": [
+        "nabijheid (+4)",
+        "recency (+7, 0.6 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht scoort hoog op nabijheid (Broek in Waterland) en omvang met een aanzienlijk financieel bedrag van 15 miljoen euro voor uitwerking en 100 miljoen reservering. Het heeft directe gevolgen voor het dagelijks leven van inwoners vanwege de verkeersmaatregel op de N247 en is actueel door het recente besluit van Gedeputeerde Staten.",
+        "invalshoek": "Provincie Noord-Holland wil 115 miljoen euro steken in de broodnodige aanpak en een onderdoorgang voor de N247 bij Broek in Waterland.",
+        "teCheckenBronnen": [
+          "Provinciale Staten Noord-Holland",
+          "Gemeente Waterland"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Provincie maakt conceptplan voor actiever toezicht op ligplaatsen en bouwwerken langs de kade",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Provincie_maakt_conceptplan_voor_actiever_toezicht_op_ligplaatsen_en_bouwwerken_langs_de_kade",
+      "samenvatting": "De provincie Noord-Holland wil actiever toezien en handhaven op ligplaatsen en bouwwerken aan kades langs provinciale vaarwegen en stelde hiervoor een conceptplan vast.",
+      "gepubliceerdOp": "2026-10-28T09:33:13.000Z",
+      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+      "score": 7,
+      "scoreToelichting": [
+        "recency (+7, 0.6 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft grote nabijheid omdat het de provinciale vaarwegen in Zaanstreek-Waterland betreft. Het heeft een duidelijk belang en effect op het dagelijks leven van bewoners door strenger toezicht op ligplaatsen en bouwwerken. Dit actieve handhavingsplan is actueel en betreft een concrete maatregel.",
+        "invalshoek": "Wat betekent het nieuwe provinciale handhavingsplan voor bewoners met een ligplaats of bouwwerk langs de vaarwegen in Zaanstreek-Waterland?",
+        "teCheckenBronnen": [
+          "Provincie Noord-Holland",
+          "Gemeenten in Zaanstreek-Waterland"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }

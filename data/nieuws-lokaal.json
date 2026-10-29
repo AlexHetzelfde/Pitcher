@@ -1,25 +1,26 @@
 [
   {
-    "bronId": "hhnk-nieuws",
-    "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Lezing ‘Oude zee, nieuw land’ door schrijfster Eva Vriend",
-    "url": "https://www.hhnk.nl/lezing-oude-zee-nieuw-land-door-schrijfster-eva-vriend",
-    "samenvatting": "Op 19 november geeft schrijfster Eva Vriend tweemaal een lezing ‘Oude zee, nieuw land’ over het Zuiderzeeproject.",
-    "gepubliceerdOp": "2026-10-27T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:34.246Z",
-    "score": 9,
+    "titel": "Weekendafsluiting N247 bij Edam",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Weekendafsluiting_N247_bij_Edam",
+    "samenvatting": "Van vrijdag 30 oktober 20.00 uur tot maandag 2 november 05.00 uur is de N247 afgesloten ter hoogte van brug Edam. Aan beide kanten van de brug moet het asfalt hersteld worden.",
+    "gepubliceerdOp": "2026-10-28T14:33:40.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 16,
     "scoreToelichting": [
-      "voor het eerst (+2)",
-      "recency (+7, 1.0 dag(en) oud)"
+      "belang (+4)",
+      "nabijheid (+4)",
+      "recency (+8, 0.4 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht scoort op nabijheid (Zaanstreek-Waterland wordt niet expliciet genoemd als locatie) en mist concrete gevolgen of een duidelijk maatschappelijk probleem voor inwoners. Het betreft slechts een aankondiging van een lezing door een extern waterschap zonder directe lokale impact.",
-      "invalshoek": "",
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft directe nabijheid (Edam, Zaanstreek-Waterland) en hoge actualiteit vanwege de geplande afsluiting komend weekend. Inwoners en weggebruikers worden hier concreet door geraakt vanwege asphaltreparaties bij de brug.",
+      "invalshoek": "Welke omleidingsroutes gelden er tijdens de weekendafsluiting van de N247 bij Edam en wat betekent dit voor het verkeer?",
       "teCheckenBronnen": [
-        "Hoogheemraadschap Hollands Noorderkwartier",
-        "Organiserende locatie van de lezing"
+        "Provincie Noord-Holland",
+        "Lokale verkeersdiensten"
       ]
     },
     "aiFout": null
@@ -28,19 +29,71 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Nieuw jasje: &Holland wordt Noord-Holland Magazine",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Nieuw_jasje_amp_amp_Holland_wordt_Noord_Holland_Magazine",
-    "samenvatting": "Het online magazine van de provincie Noord-Holland gaat verder met een fris uiterlijk én een nieuwe naam: Noord-Holland Magazine.",
-    "gepubliceerdOp": "2026-10-27T10:43:43.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:34.805Z",
-    "score": 9,
+    "titel": "Korting op de bus voor inwoners met laag inkomen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Korting_op_de_bus_voor_inwoners_met_laag_inkomen",
+    "samenvatting": "De provincie Noord-Holland biedt gemeenten 2 mogelijkheden voor korting op het busvervoer voor inwoners met een laag inkomen. Vervoerder Connexxion/Transdev ontwikkelde deze kortingsproducten in opdracht van de provincie.",
+    "gepubliceerdOp": "2026-10-28T14:47:47.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 11,
     "scoreToelichting": [
-      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "recency (+8, 0.4 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege de grote omvang (inwoners met een laag inkomen) en het belang, aangezien het concrete gevolgen heeft voor het dagelijks leven door mogelijke maatregelen rond busvervoer. Omdat de provincie gemeenten opties biedt, raakt dit direct de nabijheid in Zaanstreek-Waterland zodra lokale gemeenten hierop intekenen.",
+      "invalshoek": "Welke gemeenten in Zaanstreek-Waterland maken gebruik van de nieuwe kortingsmogelijkheden voor het busvervoer voor inwoners met een laag inkomen?",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Gemeente Purmerend",
+        "Provincie Noord-Holland",
+        "Connexxion"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Gedeputeerde Staten vragen verdere uitwerking onderdoorgang Broek in Waterland",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Gedeputeerde_Staten_vragen_verdere_uitwerking_onderdoorgang_Broek_in_Waterland",
+    "samenvatting": "Gedeputeerde Staten vragen Provinciale Staten van Noord-Holland om € 15 miljoen beschikbaar te stellen voor de verdere uitwerking van een onderdoorgang in de N247 bij Broek in Waterland. Ook wordt gevraagd € 100 miljoen te reserveren voor een toekomstig uitvoeringskrediet.",
+    "gepubliceerdOp": "2026-10-28T09:52:49.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht scoort hoog op nabijheid (Broek in Waterland) en omvang met een aanzienlijk financieel bedrag van 15 miljoen euro voor uitwerking en 100 miljoen reservering. Het heeft directe gevolgen voor het dagelijks leven van inwoners vanwege de verkeersmaatregel op de N247 en is actueel door het recente besluit van Gedeputeerde Staten.",
+      "invalshoek": "Provincie Noord-Holland wil 115 miljoen euro steken in de broodnodige aanpak en een onderdoorgang voor de N247 bij Broek in Waterland.",
+      "teCheckenBronnen": [
+        "Provinciale Staten Noord-Holland",
+        "Gemeente Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Definitieve maatregelen voor herstel Schoorlse Duinen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Definitieve_maatregelen_voor_herstel_Schoorlse_Duinen",
+    "samenvatting": "Gedeputeerde Staten hebben het definitieve beheerplan voor het Natura 2000-gebied Schoorlse Duinen vastgesteld. Hierin staat welke maatregelen nodig zijn voor het herstellen en beheren van het natuurgebied.",
+    "gepubliceerdOp": "2026-10-28T09:43:08.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 11,
+    "scoreToelichting": [
+      "belang (+4)",
       "recency (+7, 0.6 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht gaat over een naamswijziging en restyle van het provinciale online magazine. Dit heeft geen directe impact op het dagelijks leven van inwoners in Zaanstreek-Waterland en raakt geen lokale maatschappelijke problemen.",
+      "onderbouwing": "Het bericht gaat over de Schoorlse Duinen, wat in de gemeente Bergen ligt en niet binnen de regio Zaanstreek-Waterland valt. Daarmee ontbreekt de lokale nabijheid voor onze lezers en is er geen sprake van directe gevolgen voor het dagelijks leven in onze regio.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "Provincie Noord-Holland"
@@ -52,22 +105,45 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Ontmoet elkaar aan de Keti Koti Tafel in Hoorn",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Ontmoet_elkaar_aan_de_Keti_Koti_Tafel_in_Hoorn",
-    "samenvatting": "Samen eten, luisteren en nieuwe mensen ontmoeten. Dat staat centraal tijdens de Keti Koti Tafel met gesprekken over het koloniale en slavernijverleden. Deze bijeenkomst is op donderdag 19 november 2026 in de Noorderkerk in Hoorn.",
-    "gepubliceerdOp": "2026-10-27T12:56:34.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:34.805Z",
-    "score": 9,
+    "titel": "Asfaltonderhoud aan N239 bij Noorderweg/Dijkweg",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Asfaltonderhoud_aan_N239_bij_Noorderweg_Dijkweg",
+    "samenvatting": "De provincie Noord-Holland voert van zondag 1 november tot en met dinsdag 3 november groot onderhoud uit aan de N239 tussen Winkel en Lambertschaag, op het kruispunt met de Dijkweg. Dit deel van de weg is dan afgesloten. De bovenste asfaltlaag wordt vervangen en er wordt nieuwe wegmarkering aangebracht.",
+    "gepubliceerdOp": "2026-10-28T16:48:50.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 10,
     "scoreToelichting": [
       "voor het eerst (+2)",
+      "recency (+8, 0.3 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht voldoet niet aan het criterium nabijheid, omdat de werkzaamheden plaatsvinden op de N239 tussen Winkel en Lambertschaag, wat niet in de regio Zaanstreek-Waterland ligt. Hierdoor zijn er ook geen concrete gevolgen voor het dagelijks leven van inwoners in deze regio.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Ambitie Ontwikkelperspectief; meer woningen en werkgelegenheid in Noord-Holland Noord",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Ambitie_Ontwikkelperspectief_meer_woningen_en_werkgelegenheid_in_Noord_Holland_Noord",
+    "samenvatting": "De 17 gemeenten in Noord-Holland Noord, de provincie Noord-Holland, het Hoogheemraadschap Hollands Noorderkwartier en het Rijk hebben de gezamenlijke ruimtelijke koers voor de regio op papier gezet: het Ontwikkelperspectief Noord-Holland Noord (NHN).",
+    "gepubliceerdOp": "2026-10-28T13:39:04.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 10,
+    "scoreToelichting": [
+      "primeur/eerstehands bron (+3)",
       "recency (+7, 0.5 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist lokale nabijheid voor Zaanstreek-Waterland, aangezien de bijeenkomst plaatsvindt in Hoorn. Ook ontbreken concrete gevolgen voor het dagelijks leven van inwoners in de Zaanstreek.",
+      "onderbouwing": "Het bericht gaat over de regio Noord-Holland Noord, terwijl ons werkgebied Zaanstreek-Waterland is, waardoor het criterium nabijheid ontbreekt. Daarnaast blijft het stuk steken in een algemene beleidsintentie zonder concrete maatregelen die direct het dagelijks leven van inwoners raken.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Provincie Noord-Holland"
+        "Provincie Noord-Holland",
+        "Hoogheemraadschap Hollands Noorderkwartier"
       ]
     },
     "aiFout": null
@@ -76,23 +152,23 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "20 nieuwe ondernemers gestart met GO!-NH",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/20_nieuwe_ondernemers_gestart_met_GO_NH",
-    "samenvatting": "20 innovatieve ondernemers zijn gestart met het versnellingsprogramma GO!-NH. De deelnemers werken aan oplossingen voor de energietransitie, circulaire economie, landbouw, water en voedsel, gezondheid en zorg en veiligheid. Deze ambitieuze ondernemers werken de komende maanden samen met coaches, experts en elkaar aan het versterken van hun onderneming.",
-    "gepubliceerdOp": "2026-10-27T10:20:20.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:34.805Z",
+    "titel": "Kom naar de informatiemarkt over de N203 tussen Uitgeest en Limmen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Kom_naar_de_informatiemarkt_over_de_N203_tussen_Uitgeest_en_Limmen",
+    "samenvatting": "Gedeputeerde Staten van Noord-Holland hebben gisteren de voorkeursvariant vastgesteld voor een verkeersveiligere N203 tussen Uitgeest en Limmen. Op 25 november organiseert de provincie een informatiemarkt. Inwoners, ondernemers en andere belangstellenden kunnen daar de plannen bekijken, vragen stellen en aandachtspunten meegeven voor de verdere uitwerking.",
+    "gepubliceerdOp": "2026-10-27T14:42:22.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
     "score": 9,
     "scoreToelichting": [
-      "voor het eerst (+2)",
-      "recency (+7, 0.6 dag(en) oud)"
+      "actualiteit (+3)",
+      "recency (+6, 1.4 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft nabijheid (Noord-Holland) en actualiteit, maar het ontbreekt aan concrete vermeldingen van personen, bedrijven of gevolgen specifiek binnen de Zaanstreek-Waterland. Daardoor is het onduidelijk of inwoners of lokale ondernemers hier direct door worden geraakt, al draagt het wel bij aan inzicht in regionale innovatie.",
-      "invalshoek": "Zijn er ook ondernemers uit Zaanstreek-Waterland gestart met het provinciale versnellingsprogramma GO!-NH?",
+      "onderbouwing": "Het bericht heeft een hoge actualiteit en directe gevolgen voor inwoners, maar de locatie (Uitgeest en Limmen) ligt buiten het kerngebied Zaanstreek-Waterland, hoewel de N203 wel een belangrijke regionale verbindingsweg is. Het draagt bij aan inzicht in de eigen omgeving voor forenzen, maar mist de directe lokale nabijheid tot de Zaanstreek.",
+      "invalshoek": "Provincie kiest voorkeursvariant voor aanpak N203 tussen Uitgeest en Limmen en organiseert informatiemarkt.",
       "teCheckenBronnen": [
         "Provincie Noord-Holland",
-        "Deelnemerslijst GO!-NH"
+        "Gemeente Uitgeest"
       ]
     },
     "aiFout": null
@@ -101,65 +177,112 @@
     "bronId": "zaansche-molen",
     "bronNaam": "De Zaansche Molen — Nieuws",
     "categorie": "lokaal",
-    "titel": "We hebben gewonnen!",
-    "url": "https://www.zaanschemolen.nl/we-hebben-gewonnen/",
+    "titel": "Ambacht met een toekomst: de harenmakers van De Bonte Hen",
+    "url": "https://www.zaanschemolen.nl/ambacht-met-een-toekomst/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-27T15:12:46.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:06.089Z",
+    "gepubliceerdOp": "2026-10-28T15:55:27.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:27.883Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.4 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de kreet 'We hebben gewonnen!' zonder enige feitelijke context over wat er is gewonnen, om welke molen of organisatie het gaat, of wat de concrete gevolgen zijn. Hierdoor ontbreekt de feitelijke basis om te beoordelen of het voldoet aan de nieuwswaarde-criteria.",
-      "invalshoek": "",
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaanstreek-Waterland) en draagt bij aan inzicht in de eigen omgeving door over een lokaal ambacht te berichten. Echter ontbreken in de samenvatting actuele feiten, concrete gevolgen voor inwoners of een duidelijke aanleiding, waardoor de actualiteit en het belang onvoldoende blijken uit de tekst.",
+      "invalshoek": "Hoe behouden de harenmakers van molen De Bonte Hen een uniek Zaanse ambacht voor de toekomst?",
       "teCheckenBronnen": [
-        "De Zaansche Molen"
+        "De Zaansche Molen",
+        "Molengids De Bonte Hen"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "zaans-cultuur-huis",
-    "bronNaam": "zaans-cultuur-huis",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Toneelleesclub",
-    "url": "https://zaanscultuurhuis.nl/agenda/toneelleesclub-nzdws-mym9e-z6zx9",
-    "samenvatting": "Iedere maand kun je aanschuiven bij de ToneelLeesClub van Heleen van Wiechen. Samen lezen we een tekst  van een nog levende (Nederlandse) schrijver, soms uit een boekje, soms vanaf een scherm. Wees welkom!",
+    "titel": "Zaanse Business Talk & More",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaanse-business-talk-more-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.422Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over actualiteit, belang of omvang. Hierdoor is het niet te beoordelen op de journalistieke criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Zaanlinq Netwerkborrel",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaanlinq-netwerkborrel/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.422Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agendavermelding over een netwerkborrel zonder verdere feitelijke inhoud, waardoor het geen nieuwswaarde heeft volgens de criteria en geen bijdrage levert aan maatschappelijk begrip, dagelijks leven of inzicht in de omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Provincie maakt conceptplan voor actiever toezicht op ligplaatsen en bouwwerken langs de kade",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Provincie_maakt_conceptplan_voor_actiever_toezicht_op_ligplaatsen_en_bouwwerken_langs_de_kade",
+    "samenvatting": "De provincie Noord-Holland wil actiever toezien en handhaven op ligplaatsen en bouwwerken aan kades langs provinciale vaarwegen en stelde hiervoor een conceptplan vast.",
+    "gepubliceerdOp": "2026-10-28T09:33:13.000Z",
+    "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft grote nabijheid omdat het de provinciale vaarwegen in Zaanstreek-Waterland betreft. Het heeft een duidelijk belang en effect op het dagelijks leven van bewoners door strenger toezicht op ligplaatsen en bouwwerken. Dit actieve handhavingsplan is actueel en betreft een concrete maatregel.",
+      "invalshoek": "Wat betekent het nieuwe provinciale handhavingsplan voor bewoners met een ligplaats of bouwwerk langs de vaarwegen in Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeenten in Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Mr. Jones & Just In Case",
+    "url": "https://waarheen.deorkaan.nl/agenda/mr-jones-just-in-case/",
+    "samenvatting": "",
     "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:44.871Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist nieuwswaarde op het gebied van actualiteit, afwijking en belang, omdat het een reguliere, maandelijks terugkerende activiteit betreft zonder concrete impact op het dagelijks leven van inwoners of betrokkenheid van bekende lokale personen. Het draagt niet bij aan een maatschappelijk probleem en heeft geen grote omvang in geld of personen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Zaans Cultuur Huis",
-        "Heleen van Wiechen"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Plien & Bianca",
-    "url": "https://waarheen.deorkaan.nl/agenda/plien-bianca-3/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:45.898Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.422Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, evenement over 1.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Plien & Bianca') en een lege samenvatting, waardoor het niet voldoet aan de criteria voor actualiteit, belang, nabijheid en inhoud. Er is onvoldoende feitelijke informatie om te beoordelen of het bijdraagt aan het begrip of de leefomgeving van inwoners.",
+      "onderbouwing": "Het bericht bevat enkel een kale titel en geen enkele inhoudelijke feiten over actualiteit, belang, omvang of nabijheid. Hierdoor kan niet worden beoordeeld of het voldoet aan de journalistieke criteria en of het bijdraagt aan het inzicht van de lezer.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -171,62 +294,179 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Marcel Hensema",
-    "url": "https://waarheen.deorkaan.nl/agenda/marcel-hensema/",
+    "titel": "Trage gesprekken van Building Conversation",
+    "url": "https://waarheen.deorkaan.nl/agenda/trage-gesprekken-van-building-conversation-4/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:45.898Z",
+    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.423Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, evenement over 1.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel over Marcel Hensema en een datum, maar mist verdere feitelijke informatie over actualiteit, belang of nabijheid. Hierdoor kan niet worden beoordeeld of het voldoet aan de journalistieke criteria.",
+      "onderbouwing": "Het bericht bevat enkel een titel van een evenement zonder verdere inhoud, waardoor actualiteit, omvang en concrete gevolgen niet te verifiëren zijn. Er is onvoldoende journalistieke waarde en context aanwezig om dit op te pakken.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda"
+        "WaarheenAgenda",
+        "Organisatie Building Conversation"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "zaans-cultuur-huis",
-    "bronNaam": "zaans-cultuur-huis",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Toneelleesclub",
-    "url": "https://zaanscultuurhuis.nl/agenda/toneelleesclub-nzdws-mym9e-z6zx9-yccst",
-    "samenvatting": "Iedere maand kun je aanschuiven bij de ToneelLeesClub van Heleen van Wiechen. Samen lezen we een tekst  van een nog levende (Nederlandse) schrijver, soms uit een boekje, soms vanaf een scherm. Wees welkom!",
-    "gepubliceerdOp": "2026-11-27T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:44.872Z",
-    "score": 0,
-    "scoreToelichting": [],
+    "titel": "VrijMiBo bij Tapperij De Verwachting",
+    "url": "https://waarheen.deorkaan.nl/agenda/vrijmibo-bij-tapperij-de-verwachting/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.423Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist nieuwswaarde omdat het een herhalende, maandelijkse activiteit betreft zonder afwijking, grote omvang of concreet maatschappelijk belang. Er is geen sprake van een unieke gebeurtenis, een ingrijpend besluit of een bekende lokale naam die betrokken is.",
+      "onderbouwing": "Dit is een agenda-item voor een VrijMiBo en bevat geen afwijking van het alledaagse, geen belangrijk besluit of nieuws van morgen. Het bericht draagt niet bij aan inzicht in een maatschappelijk probleem of de eigen omgeving.",
       "invalshoek": "",
       "teCheckenBronnen": []
     },
     "aiFout": null
   },
   {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Ruige hommels, bonte bijen en alle stuifmeelvreters",
+    "url": "https://waarheen.deorkaan.nl/agenda/ruige-hommels-bonte-bijen-en-alle-stuifmeelvreters/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.423Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel over hommels, bijen en stuifmeelvreters zonder verdere inhoud of context. Hierdoor ontbreken de criteria actualiteit, afwijking, belang en nabijheid volledig om tot een goede journalistieke beoordeling te komen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de activiteit"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Alle hens aan dek",
+    "url": "https://waarheen.deorkaan.nl/agenda/alle-hens-aan-dek-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.423Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen enkele inhoudelijke informatie over de gebeurtenis, waardoor criteria zoals actualiteit, belang, nabijheid en omvang niet te beoordelen zijn. Er is onvoldoende feitelijke basis om te bepalen of het bijdraagt aan het begrip van de lezer of het dagelijks leven.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Alzheimer Café Wijdewormer",
+    "url": "https://waarheen.deorkaan.nl/agenda/alzheimer-cafe-wijdewormer/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:09.423Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht is een agendavermelding voor een Alzheimer Café in Wijdewormer en mist concrete nieuwswaarde op het gebied van afwijking, omvang of een specifieke gebeurtenis. Het draagt niet bij aan een nieuw maatschappelijk probleem of ingrijpend besluit, maar is een herhalende informatieve bijeenkomst.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisatie Alzheimer Café Wijdewormer",
+        "Gemeente Wormerland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
     "bronId": "zaans-cultuur-huis",
     "bronNaam": "zaans-cultuur-huis",
     "categorie": "lokaal",
-    "titel": "Toneelleesclub",
-    "url": "https://zaanscultuurhuis.nl/agenda/toneelleesclub-nzdws-mym9e-z6zx9-yccst-8tl8z",
-    "samenvatting": "Iedere maand kun je aanschuiven bij de ToneelLeesClub van Heleen van Wiechen. Samen lezen we een tekst  van een nog levende (Nederlandse) schrijver, soms uit een boekje, soms vanaf een scherm. Wees welkom!",
-    "gepubliceerdOp": "2027-01-08T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-28T00:15:44.873Z",
+    "titel": "Theaterlessen voor kinderen in het Turks",
+    "url": "https://zaanscultuurhuis.nl/agenda/jtsugur",
+    "samenvatting": "De Zaanse Uğur Ünsal start met zijn theaterlessen in het Turks voor kinderen tussen de 4 en 7 jaar.",
+    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:05.766Z",
+    "score": 0,
+    "scoreToelichting": [],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft lokale nabijheid in Zaanstreek-Waterland en is actueel door de start van de lessen. Het raakt echter slechts een zeer kleine omvang van mensen en het is onvoldoende duidelijk of dit bijdraagt aan een groter maatschappelijk probleem of brede gevolgen heeft voor het dagelijks leven.",
+      "invalshoek": "Zaanse Uğur Ünsal start met theaterlessen in het Turks voor jonge kinderen.",
+      "teCheckenBronnen": [
+        "Zaans Cultuurhuis",
+        "Uğur Ünsal"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaans-cultuur-huis",
+    "bronNaam": "zaans-cultuur-huis",
+    "categorie": "lokaal",
+    "titel": "Theaterlessen voor volwassenen in het Turks",
+    "url": "https://zaanscultuurhuis.nl/agenda/jtsugur-volw",
+    "samenvatting": "De Zaanse Uğur Ünsal start met zijn theaterlessen in het Turks voor volwassenen.",
+    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:05.767Z",
+    "score": 0,
+    "scoreToelichting": [],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft lokale nabijheid in Zaanstreek-Waterland en is actueel als vooraankondiging, maar het mist concrete informatie over omvang en maatschappelijk belang. Er is sprake van een cultureel initiatief door een bekend lokale naam, maar de bredere impact of het unieke karakter ('voor het eerst') wordt niet hard gemaakt.",
+      "invalshoek": "Initiatiefnemer Uğur Ünsal start in Zaanstreek-Waterland met theaterlessen in het Turks voor volwassenen.",
+      "teCheckenBronnen": [
+        "Zaans Cultuurhuis",
+        "Uğur Ünsal"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaans-cultuur-huis",
+    "bronNaam": "zaans-cultuur-huis",
+    "categorie": "lokaal",
+    "titel": "Wekelijkse & Maandelijkse activiteiten",
+    "url": "https://zaanscultuurhuis.nl/agenda/aanbodhuisgenoten",
+    "samenvatting": "Onze huisgenoten uit de Zaanstreek organiseren hier met plezier hun eigen culturele en/of sociale activiteiten. Op deze agenda zie je de startdata van herhalende activiteiten. Lees hier meer:",
+    "gepubliceerdOp": "2030-01-01T00:00:00.000Z",
+    "opgehaaldOp": "2026-10-29T00:37:05.769Z",
     "score": 0,
     "scoreToelichting": [],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist nieuwswaarde omdat het een herhalende maandelijkse activiteit betreft zonder concrete afwijking, grote omvang of maatschappelijk belang. Er zijn geen bekende personen bij betrokken en het draagt niet bij aan het oplossen van een maatschappelijk probleem of directe gevolgen voor het dagelijks leven.",
+      "onderbouwing": "Het bericht mist actualiteit, afwijking en concrete gevolgen omdat het slechts een algemene agenda toont van herhalende, door derden georganiseerde activiteiten zonder specifieke details of unieke gebeurtenissen. Hierdoor draagt het niet bij aan de journalistieke criteria of de drie maatschappelijke doelen.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Zaans Cultuur Huis",
-        "Heleen van Wiechen"
+        "Zaans Cultuur Huis agenda"
       ]
     },
     "aiFout": null
