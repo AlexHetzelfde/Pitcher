@@ -1,105 +1,116 @@
 {
-  "gegenereerdOp": "2026-10-29T00:39:02.443Z",
+  "gegenereerdOp": "2026-10-30T00:40:14.586Z",
   "aantalBerichtenTotaal": 20,
   "topPitches": [
     {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
       "categorie": "lokaal",
-      "titel": "Weekendafsluiting N247 bij Edam",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Weekendafsluiting_N247_bij_Edam",
-      "samenvatting": "Van vrijdag 30 oktober 20.00 uur tot maandag 2 november 05.00 uur is de N247 afgesloten ter hoogte van brug Edam. Aan beide kanten van de brug moet het asfalt hersteld worden.",
-      "gepubliceerdOp": "2026-10-28T14:33:40.000Z",
-      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
-      "score": 16,
+      "titel": "Kennisgeving wethouder Van der Laan: Sluiting en oplevering Saendenborch",
+      "itemId": "a228db09-ee72-4eb8-8e35-420f6b4b9d3d",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/5594841d-ba02-43d5-b010-ab47bc9ccbdb",
+      "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname — gemeente Zaanstad wethouder H. v.d. Laan Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 29 oktober 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Sluiting en oplevering Saendenborch Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname Eerder bent u geïnformeerd over de naderende sluiting van Oekraïne opvanglocatie Saendenborch. Vandaag is het pand Saendenborch schoon en leeg opgeleverd aan de eigenaar. Op 5 na is voor de circa 425 bewoners van Saendenborch elders een (opvang)plek gevonden. De meeste daarvan zijn uitgestroomd naar opvanglocaties in de regiogemeenten. De vijf bewoners waarvoor nog geen nieuwe opvangplek in de regio beschikbaar is, worden tijdelijk opgevangen in het City Trip Hostels Zaandam. Deze kosten worden door het Rijk vergoed. We kijken terug op een fijne en goede samenwerking met het Leger des Heils als locatiemanagement en beveiligingsbedrijf GSec. Met vriendelijke groet, H. v.d. Laan, wethouder",
+      "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-30T00:37:27.164Z",
+      "documentInhoudOpgehaald": true,
+      "score": 23,
       "scoreToelichting": [
+        "actualiteit (+3)",
         "belang (+4)",
-        "nabijheid (+4)",
-        "recency (+8, 0.4 dag(en) oud)"
-      ],
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft directe nabijheid (Edam, Zaanstreek-Waterland) en hoge actualiteit vanwege de geplande afsluiting komend weekend. Inwoners en weggebruikers worden hier concreet door geraakt vanwege asphaltreparaties bij de brug.",
-        "invalshoek": "Welke omleidingsroutes gelden er tijdens de weekendafsluiting van de N247 bij Edam en wat betekent dit voor het verkeer?",
-        "teCheckenBronnen": [
-          "Provincie Noord-Holland",
-          "Lokale verkeersdiensten"
-        ]
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "categorie": "lokaal",
-      "titel": "Korting op de bus voor inwoners met laag inkomen",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Korting_op_de_bus_voor_inwoners_met_laag_inkomen",
-      "samenvatting": "De provincie Noord-Holland biedt gemeenten 2 mogelijkheden voor korting op het busvervoer voor inwoners met een laag inkomen. Vervoerder Connexxion/Transdev ontwikkelde deze kortingsproducten in opdracht van de provincie.",
-      "gepubliceerdOp": "2026-10-28T14:47:47.000Z",
-      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
-      "score": 11,
-      "scoreToelichting": [
+        "voor het eerst (+2)",
         "primeur/eerstehands bron (+3)",
-        "recency (+8, 0.4 dag(en) oud)"
+        "nabijheid (+4)",
+        "recency (+7, 1.0 dag(en) oud)"
       ],
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege de grote omvang (inwoners met een laag inkomen) en het belang, aangezien het concrete gevolgen heeft voor het dagelijks leven door mogelijke maatregelen rond busvervoer. Omdat de provincie gemeenten opties biedt, raakt dit direct de nabijheid in Zaanstreek-Waterland zodra lokale gemeenten hierop intekenen.",
-        "invalshoek": "Welke gemeenten in Zaanstreek-Waterland maken gebruik van de nieuwe kortingsmogelijkheden voor het busvervoer voor inwoners met een laag inkomen?",
+        "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege de nabijheid (Zaandam) en het grote belang en de omvang door de sluiting van opvanglocatie Saendenborch met circa 425 bewoners. Dit draagt direct bij aan een beter inzicht in de eigen omgeving en de lokale opvangproblematiek. De actualiteit is hoog door de oplevering op de datum van de kennisgeving.",
+        "invalshoek": "Oekraïense opvanglocatie Saendenborch in Zaandam definitief gesloten en leeg opgeleverd nadat voor bijna alle 425 bewoners elders een plek is gevonden.",
         "teCheckenBronnen": [
           "Gemeente Zaanstad",
-          "Gemeente Purmerend",
-          "Provincie Noord-Holland",
-          "Connexxion"
+          "Leger des Heils"
         ]
       },
       "aiFout": null
     },
     {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
       "categorie": "lokaal",
-      "titel": "Gedeputeerde Staten vragen verdere uitwerking onderdoorgang Broek in Waterland",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Gedeputeerde_Staten_vragen_verdere_uitwerking_onderdoorgang_Broek_in_Waterland",
-      "samenvatting": "Gedeputeerde Staten vragen Provinciale Staten van Noord-Holland om € 15 miljoen beschikbaar te stellen voor de verdere uitwerking van een onderdoorgang in de N247 bij Broek in Waterland. Ook wordt gevraagd € 100 miljoen te reserveren voor een toekomstig uitvoeringskrediet.",
-      "gepubliceerdOp": "2026-10-28T09:52:49.000Z",
-      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
-      "score": 11,
+      "titel": "Voortgang Gebiedsproces Polder Westzaan",
+      "itemId": "9cc9a9f9-8926-49ad-ba2a-b22c4db16487",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7e314017-d2a2-4790-bef8-728519bd28fd",
+      "samenvatting": "Raadsinformatiebrief — 't Veer, J. — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10673139 1/7 Raadsinformatiebrief Onderwerp Voortgang Gebiedsproces Polder Westzaan Portefeuillehouder J. van 't Veer Portefeuille Natuur, Landschap & Recreatie Aan de leden van de gemeenteraad Zaanstad, Inleiding Met deze raadsinformatiebrief informeert het college u over de ontwikkelingen en voortgang van het gebiedsproces Polder Westzaan nadat de Samenwerkingsverklaring, welke gebaseerd op de vastgestelde Uitvoeringsstrategie, door alle betrokken partijen in januari 2025 is ondertekend. Toelichting Het gebiedsproces Zaanstad en de provincie Noord-Holland (PNH) startte het gebiedsproces Polder Westzaan in 2021 met als doel te komen tot een gezonde en toekomstbestendige polder voor mens, natuur en landbouw. Het proces heeft geleid tot de vaststelling van de volgende kernstukken: • Verkenning Integrale Gebiedsvisie Polder Westzaan (2021/26073); • Integrale Gebiedsvisie Polder Westzaan 2040 (2022/8846); • Uitvoeringsstrategie Gebiedsvisie Polder Westzaan (2025/4192); • Samenwerkingsverklaring Gebiedsproces Polder Westzaan (2025/4192). Deze documenten zijn tot stand gekomen door middel van een intensief en breed gedragen proces onder gezamenlijke regie van de gemeente Zaanstad en de provincie Noord-Holland (PNH). In dit proces hebben de Land- en Tuinbouw Organisatie (LTO), de Agrarische Natuurvereniging Water, Land en Dijken (WLD), Staatsbosbeheer (SBB), het Platform Zaanse Veenweiden, het hoogheemraadschap Hollands Noorderkwartier (HHNK), agrariërs en omwonenden actief deelgenomen. Het gebiedsproces is ingericht op basis van dialoog, draagvlak en samenwerking. Bestuurlijke en ambtelijke gremia hebben actief bijgedragen aan de planvorming. Daarbij is het gezamenlijke besef ontstaan dat een integrale aanpak alleen mogelijk is door langdurige samenwerking, ondanks uiteenlopende belangen en opgaven. Deze gezamenlijke keuze is vastgelegd in de Samenwerkingsverklaring. De Uitvoeringsstrategie geeft richting aan de uitvoering van de strategische keuzes die in de Gebiedsvisie zijn belegd (zie afbeelding 1) en beschrijft ook de governance voor de verdere samenwerking. De Samenwerkingsverklaring vormt hiervoor het bestuurlijk kader. Na vaststelling van de Samenwerkingsverklaring in januari 2025 hebben de betrokken partijen, onder regie van de gemeente en de provincie, het gebiedsproces verder georganiseerd. Daarbij is voortgang geboekt met lopende projecten en zijn nieuwe projecten opgestart die door de Klankbordgroep als prioritair zijn aangemerkt. Veranderende context Rijks- en provinciale middelen landelijk gebied De beschikbaarheid van rijksmiddelen voor het landelijk gebied is de afgelopen jaren achtereenvolgens gewijzigd. Het Transitiefonds Landelijk Gebied en Natuur werd beëindigd door het vorige kabinet. Het huidige kabinet heeft in juni 2026 een nieuwe koers aangekondigd met de Kamerbrief ‘Weer ruimte voor boer, natuur en bouw: maatregelpakket voor landbouw, natuur en stikstof’. Daarbij stelt het kabinet t",
+      "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-30T00:37:27.164Z",
+      "documentInhoudOpgehaald": true,
+      "score": 20,
       "scoreToelichting": [
+        "belang (+4)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
         "nabijheid (+4)",
-        "recency (+7, 0.6 dag(en) oud)"
+        "recency (+7, 1.0 dag(en) oud)"
       ],
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "onderbouwing": "Het bericht scoort hoog op nabijheid (Broek in Waterland) en omvang met een aanzienlijk financieel bedrag van 15 miljoen euro voor uitwerking en 100 miljoen reservering. Het heeft directe gevolgen voor het dagelijks leven van inwoners vanwege de verkeersmaatregel op de N247 en is actueel door het recente besluit van Gedeputeerde Staten.",
-        "invalshoek": "Provincie Noord-Holland wil 115 miljoen euro steken in de broodnodige aanpak en een onderdoorgang voor de N247 bij Broek in Waterland.",
+        "onderbouwing": "Het bericht heeft hoge nabijheid (Polder Westzaan in Zaanstad) en direct belang door concrete bestuurlijke besluitvorming en de voortgang van het gebiedsproces na de ondertekening van de Samenwerkingsverklaring. Daarnaast sluit het aan bij het criterium 'nieuws van morgen' en draagt het bij aan inzicht in de eigen omgeving en gevolgen voor de lokale partijen en inwoners.",
+        "invalshoek": "Hoe beïnvloedt de gewijzigde rijksfinanciering en het nieuwe kabinetsbeleid de voortgang van het gebiedsproces in de Polder Westzaan?",
         "teCheckenBronnen": [
-          "Provinciale Staten Noord-Holland",
-          "Gemeente Waterland"
+          "Raadsinformatiebrief Voortgang Gebiedsproces Polder Westzaan",
+          "Gemeente Zaanstad en Provincie Noord-Holland"
         ]
       },
       "aiFout": null
     },
     {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
       "categorie": "lokaal",
-      "titel": "Provincie maakt conceptplan voor actiever toezicht op ligplaatsen en bouwwerken langs de kade",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Provincie_maakt_conceptplan_voor_actiever_toezicht_op_ligplaatsen_en_bouwwerken_langs_de_kade",
-      "samenvatting": "De provincie Noord-Holland wil actiever toezien en handhaven op ligplaatsen en bouwwerken aan kades langs provinciale vaarwegen en stelde hiervoor een conceptplan vast.",
-      "gepubliceerdOp": "2026-10-28T09:33:13.000Z",
-      "opgehaaldOp": "2026-10-29T00:36:56.184Z",
+      "titel": "Herinrichting Dam gebied",
+      "itemId": "dc23b0ed-94bf-4b3a-aede-ded3ff025d38",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/380be766-2ba6-4b52-9fbb-4914a049806a",
+      "samenvatting": "Raadsinformatiebrief — Karst, R. \nSahin, E. — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10645863 1/4 Raadsinformatiebrief 1 Onderwerp Herinrichting Dam gebied Portefeuillehouder(s) E. Sahin en R. Karst Portefeuille Openbare ruimte (incl. klimaatadaptatie) en Lokale Economie Aan de leden van de gemeenteraad Zaanstad, Inleiding De laatste informatie over de voortgang van de herinrichting van de Dam is aan de raad verstrekt in het kredietvoorstel van 29 januari 2026 (9859099). Met deze raadsinformatiebrief wordt de raad geïnformeerd over de huidige stand van zaken. Toelichting Met het kredietvoorstel (9859099) voor de herinrichting bent u op 29 januari 2026 geïnformeerd dat er een definitief ontwerp voor de herinrichting is vastgesteld. Nadien is het definitief ontwerp verder uitgewerkt naar tekeningen, bestek en begroting voor de uitvoering. Wijzigingen t.o.v. de kredietraming De verdere uitwerking van het ontwerp heeft wel geleid tot enkele wijzigingen in de kredietraming. De belangrijkste zijn: 1. Mede op verzoek van de ondernemers zijn gesprekken gestart met de eigenaar van winkelcentrum Rozenhof om de overkappingen te verwijderen boven de Zilverpadsteeg en de verbindingsstraat naar de Dam. De eigenaar is bereid om de verbindingsstraat en de overkappingen aan de gemeente over te dragen. De overkappingen kunnen dan worden verwijderd en de verbindingsstraat kan worden voorzien van openbare verlichting en eenzelfde bestrating als de rest van het gebied. De kosten voor herinrichting van de verbindingsstraat en sloop van de overkappingen zijn niet meegenomen in de kredietraming en worden geschat op ongeveer € 90.000,-. 2. In de ondergrond is ruimte gevonden om diverse bomen in de volle grond te plaatsen in plaats van in bakken op de verharding. Dit biedt betere groeimogelijkheden voor de bomen en scheelt de komende 30 jaar € 90.000,- aan onderhoud. De investeringskosten zijn ook € 120.000,- lager. 3. Binnen de raming is rekening gehouden met de aanleg van een waterspeelplaats. Vanwege de vele kabels en leidingen waren hiervoor maar een beperkt aantal plekken mogelijk. De speelplaats zou op die plekken echter een te grote beperking vormen voor het gebruik van de openbare ruimte. Bovendien zijn de onderhoudskosten relatief hoog. Daarom is besloten een dergelijke speelplaats niet op te nemen in de plannen. In de kredietraming was hiervoor een bedrag van ongeveer € 220.000,- opgenomen. Grondaankopen In het openbare gebied van de Dam is grond in bezit van het Hoogheemraadschap Hollands Noorderkwartier (HHNK). Deze gronden zijn onderdeel van de primaire waterkering. Met het HHNK worden gesprekken gevoerd over aankoop van gronden waarop terrassen liggen 1 Op deze raadsinformatiebrief volgt geen actie van de Agendacommissie. Wanneer u een onderwerp hieruit wilt bespreken dan kunt u dit doen door een raadsinstrument in te zetten. Bijvoorbeeld een rondvraag (primair gericht aan het college van B&W of een agenda-initiatief (primair gericht aan de collega fracties). Vermeld altijd in het raadsinstrument wa",
+      "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-30T00:37:27.164Z",
+      "documentInhoudOpgehaald": true,
+      "score": 14,
+      "scoreToelichting": [
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.0 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Dit bericht heeft een grote nabijheid omdat het gaat over de herinrichting van de Dam in Zaanstad, en het is actueel door de recente stand van zaken. Er zijn concrete gevolgen voor het dagelijks leven en de openbare ruimte, zoals het verwijderen van overkappingen bij winkelcentrum Rozenhof, kostenwijzigingen en het schrappen van de waterspeelplaats.",
+        "invalshoek": "Herinrichting Dam in Zaanstad wijzigt: geen waterspeelplaats en sloop overkappingen Rozenhof.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad",
+          "Hoogheemraadschap Hollands Noorderkwartier (HHNK)"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "hhnk-nieuws",
+      "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+      "categorie": "lokaal",
+      "titel": "Onderzoek: giftige stoffen in antivlooienmiddelen blijven achter in huis",
+      "url": "https://www.hhnk.nl/onderzoek-giftige-stoffen-in-antivlooienmiddelen-blijven-achter-in-huis",
+      "samenvatting": "Uit onderzoek onder bijna vijftig huishoudens in Uitgeest en Heemskerk blijkt dat giftige stoffen in antivlooienmiddelen achterblijven in huis.",
+      "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
+      "opgehaaldOp": "2026-10-30T00:38:02.299Z",
       "score": 7,
       "scoreToelichting": [
-        "recency (+7, 0.6 dag(en) oud)"
+        "recency (+7, 1.0 dag(en) oud)"
       ],
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft grote nabijheid omdat het de provinciale vaarwegen in Zaanstreek-Waterland betreft. Het heeft een duidelijk belang en effect op het dagelijks leven van bewoners door strenger toezicht op ligplaatsen en bouwwerken. Dit actieve handhavingsplan is actueel en betreft een concrete maatregel.",
-        "invalshoek": "Wat betekent het nieuwe provinciale handhavingsplan voor bewoners met een ligplaats of bouwwerk langs de vaarwegen in Zaanstreek-Waterland?",
+        "onderbouwing": "Het bericht heeft hoge nabijheid omdat het lokaal is onderzocht in Uitgeest en Heemskerk (onderdeel van het werkgebied), raakt het belang van inwoners direct via hun gezondheid en leefomgeving, en toont duidelijke afwijking van het alledaagse door de aanwezigheid van giftige stoffen in huis.",
+        "invalshoek": "Welke risico's lopen huishoudens in Uitgeest en Heemskerk door giftige resten van antivlooienmiddelen in huis en wat kunnen ze hieraan doen?",
         "teCheckenBronnen": [
-          "Provincie Noord-Holland",
-          "Gemeenten in Zaanstreek-Waterland"
+          "Hoogheemraadschap Hollands Noorderkwartier",
+          "Betrokken onderzoekers of uitvoerders van het onderzoek"
         ]
       },
       "aiFout": null
