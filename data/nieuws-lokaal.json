@@ -1,54 +1,170 @@
 [
   {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Kennisgeving wethouder Van der Laan: TAM-Omgevingsplan Saendenborch te Zaandam",
-    "itemId": "f15af987-b2a5-45a3-8f65-04c55a5af10b",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/f15af987-b2a5-45a3-8f65-04c55a5af10b",
-    "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname",
-    "gepubliceerdOp": "2026-10-30T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-31T23:57:07.445Z",
-    "documentInhoudOpgehaald": false,
-    "score": 10,
+    "titel": "Gij die mij draagt - een Nederlands requiem (Assendelft)",
+    "url": "https://waarheen.deorkaan.nl/agenda/gij-die-mij-draagt-een-nederlands-requiem-assendelft-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
+    "score": 12,
     "scoreToelichting": [
       "nabijheid (+4)",
-      "recency (+6, 2.0 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft hoge nabijheid in Zaandam en betreft een formeel besluit (belang), maar de inhoud is erg summier en vermeldt alleen een ter-kennisgeving-bericht van wethouder Van der Laan zonder concrete details over de inhoud van het omgevingsplan.",
-      "invalshoek": "Wat houdt het nieuwe TAM-Omgevingsplan voor Saendenborch in Zaandam precies in voor de directe omgeving?",
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item ('Gij die mij draagt - een Nederlands requiem') zonder inhoud, datum of verdere context. Hierdoor ontbreekt feitelijke informatie over actualiteit, belang, omvang of nabijheid in Zaanstreek-Waterland.",
+      "invalshoek": "",
       "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Bestuurlijke informatie iBabs"
+        "WaarheenAgenda",
+        "Organisator van het evenement"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Kennisgeving wethouder Van der Laan: Sluiting en oplevering Saendenborch",
-    "itemId": "a228db09-ee72-4eb8-8e35-420f6b4b9d3d",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/a228db09-ee72-4eb8-8e35-420f6b4b9d3d",
-    "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname",
-    "gepubliceerdOp": "2026-10-29T00:00:00.000Z",
-    "opgehaaldOp": "2026-10-31T23:57:07.445Z",
-    "documentInhoudOpgehaald": false,
-    "score": 9,
+    "titel": "Zaandijker filmmiddag",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaandijker-filmmiddag-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
+    "score": 11,
     "scoreToelichting": [
-      "belang (+4)",
-      "recency (+5, 3.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud, waardoor de criteria zoals actualiteit, belang en nabijheid niet feitelijk te beoordelen zijn. Er is onvoldoende informatie over omvang, gevolgen of betrokkenen om een journalistiek artikel van te maken.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Zaandijker filmmiddag"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lichtjesavond en wensconcert Koger begraafplaats",
+    "url": "https://waarheen.deorkaan.nl/agenda/lichtjesavond-koger-begraafplaats/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en betreft een bestuurlijk besluit, maar door de zeer summiere inhoud is het onduidelijk of dit directe gevolgen heeft voor het dagelijks leven van inwoners of omvangrijk is. Er is sprake van actualiteit door de recente publicatiedatum, maar de feiten ontbreken om de nieuwswaarde volledig vast te stellen.",
-      "invalshoek": "Wat betekent de sluiting en oplevering van Saendenborch voor de omgeving en betrokkenen?",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en betreft een actuele vooraankondiging, maar mist concrete details over omvang en maatschappelijk belang. Het is een standaard agenda-item zonder duidelijke afwijking van het alledaagse.",
+      "invalshoek": "Hoe herdenken inwoners van Koog aan de Zaan dit jaar hun overleden dierbaren tijdens de Lichtjesavond op de begraafplaats?",
       "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Collegeberichten iBabs"
+        "Organisatie van de Koger begraafplaats",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Czaar Peterloge open zitting",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-02-czaar-peterloge-open-zitting/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, belang en omvang niet te beoordelen zijn. Er is te weinig feitelijke informatie om te bepalen of dit nieuwswaardig is voor Zaanstreek-Waterland.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Czaar Peterloge",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Vredeslezing in de Vermaning",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-04-vredeslezing-in-de-vermaning/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft nabijheid omdat het in De Vermaning plaatsvindt, maar mist verdere details over de inhoud, sprekers en het belang of de omvang vanwege de afwezigheid van een samenvatting. Het betreft wel een vooraankondiging die potentieel onder 'nieuws van morgen' valt.",
+      "invalshoek": "Wat houdt de Vredeslezing in De Vermaning precies in en wie zijn de sprekers?",
+      "teCheckenBronnen": [
+        "Organisator van de Vredeslezing",
+        "De Vermaning"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Energie-estafette",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-04-energie-estafette/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Energie-estafette') en een URL, maar mist feitelijke informatie over actualiteit, nabijheid, omvang of de inhoud van de gebeurtenis. Hierdoor kan niet worden beoordeeld of het voldoet aan de journalistieke criteria of bijdraagt aan het dagelijks leven van inwoners.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de Energie-estafette"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Fotograaf Mounir Raji",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-05-fotograaf-mounir-raji/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
+    "score": 6,
+    "scoreToelichting": [
+      "recency (+6, evenement over 3.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist bijna alle journalistieke criteria; er is enkel sprake van nabijheid, maar het ontbreekt aan concrete feiten over actualiteit, omvang, belang of een maatschappelijk probleem. Alleen een aankondiging van een lezing is te weinig voor een nieuwsartikel.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de lezing"
       ]
     },
     "aiFout": null
