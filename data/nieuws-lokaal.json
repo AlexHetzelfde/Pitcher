@@ -1,74 +1,161 @@
 [
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Gij die mij draagt - een Nederlands requiem (Assendelft)",
-    "url": "https://waarheen.deorkaan.nl/agenda/gij-die-mij-draagt-een-nederlands-requiem-assendelft-2/",
-    "samenvatting": "",
+    "titel": "DRINGEND: Onveilige situatie voor hondenbezitters en gezinnen bij Drielse Wetering / De Tref ('t Kalf)",
+    "itemId": "553cfd4f-8093-4b47-bd60-21fbc15adf74",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/b1eb289d-70f2-4060-901f-714d244fe301",
+    "samenvatting": "Van: <@hotmail.com> Verzonden: donderdag 22 oktober 2026 13:47 Aan: [DL]Gemeenteraad <gemeenteraad@zaanstad.nl> Onderwerp: DRINGEND: Onveilige situatie voor hondenbezitters en gezinnen bij Drielse Wetering / De Tref ('t Kalf) Geacht college van B&W en leden van de gemeenteraad, Met deze e-mail wil ik uw dringende aandacht vragen voor een onlogische en gevaarlijke situatie die is ontstaan in de wijk 't Kalf in Zaandam (omgeving Drielse Wetering), als gevolg van de recent geplaatste verbodsborden voor honden. Hoewel ik begrijp dat de gemeente de hondenkaart actualiseert, heeft de praktijkuitvoering rondom Wijkcentrum De Tref en de DekaMarkt geleid tot een onacceptabele situatie. Door de nieuwe verbodszones zijn de veilige, logische doorsteekjes naar het groen volledig afgesloten met verbodsborden. Als omwonende word ik nu gedwongen te kiezen uit onveilige alternatieven om überhaupt mijn huis uit te kunnen voor een wandeling met mijn hond en mijn kleine kind: 1. **Verkeersgevaar (IJssel):** De route via de Drielse Wetering naar de IJssel heeft op dat stuk niet eens een fietspad of fatsoenlijk voetpad. Hier loop ik met mijn hond en kind direct op de weg, vlak langs de drukke op- en afrit van de s155. 2. **Druk fietspad (Waal):** Het alternatief via de Waal beschikt wel over een fietspad, maar dit is een doorgaande en altijd extreem drukke route waar snelle fietsers en scooters passeren. Dit is met een hond en een klein kind vragen om ongelukken. 3. **Het glasbakkenpad (langs De Tref):** De route vlak langs wijkcentrum De Tref loopt direct langs de glasbakken. Hier ligt zeer regelmatig rondslingerend glas op de grond, wat een acuut risico vormt voor diepe snijwonden in hondenpootjes. 4. **De stoep rondom de parkeerplaats:** Hoewel er een stoep rondom de parkeerplaats van de Drielse Wetering loopt, is dit absoluut geen optie om fatsoenlijk de hond uit te laten. Auto's rijden hier vaak veel te hard en op een smalle stoep direct naast rijdend verkeer kan een hond niet veilig zijn behoefte doen. Zeker nu het vroeg donker is en ik tegelijkertijd de zorg en aandacht voor mijn kleine kind heb, is dit onverantwoord. 5. **Onoverzichtelijke en blinde bocht (Hollandsch Diep / Vleddersdiep):** Als ik een stuk via de Jagersplas wandel, stuit ik bij de uitgang direct op de levensgevaarlijke bocht bij de kruising van het Hollandsch Diep en het Vleddersdiep, pal naast Kinderopvang Sommige mensen die dit bericht hebben ontvangen, ontvangen niet vaak e-mail van@hotmail.com. Ontdek waarom dit belangrijk is Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent. Boefje. Er is daar geen fietspad en de bocht is zo onoverzichtelijk dat je aankomend verkeer absoluut niet ziet aankomen. Achter de tekentafel lijkt het afsluiten van deze stukken groen bij De Tref misschien een logische keuze, maar in de praktijk gijzelt u hiermee de hondenbezitters in de omliggende straten (zoals",
     "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
-    "score": 12,
+    "opgehaaldOp": "2026-11-03T02:46:34.517Z",
+    "documentInhoudOpgehaald": true,
+    "score": 20,
     "scoreToelichting": [
+      "belang (+4)",
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een agenda-item ('Gij die mij draagt - een Nederlands requiem') zonder inhoud, datum of verdere context. Hierdoor ontbreekt feitelijke informatie over actualiteit, belang, omvang of nabijheid in Zaanstreek-Waterland.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van het evenement"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Zaandijker filmmiddag",
-    "url": "https://waarheen.deorkaan.nl/agenda/zaandijker-filmmiddag-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
-    "score": 11,
-    "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud, waardoor de criteria zoals actualiteit, belang en nabijheid niet feitelijk te beoordelen zijn. Er is onvoldoende informatie over omvang, gevolgen of betrokkenen om een journalistiek artikel van te maken.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator Zaandijker filmmiddag"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Lichtjesavond en wensconcert Koger begraafplaats",
-    "url": "https://waarheen.deorkaan.nl/agenda/lichtjesavond-koger-begraafplaats/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, 1.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en betreft een actuele vooraankondiging, maar mist concrete details over omvang en maatschappelijk belang. Het is een standaard agenda-item zonder duidelijke afwijking van het alledaagse.",
-      "invalshoek": "Hoe herdenken inwoners van Koog aan de Zaan dit jaar hun overleden dierbaren tijdens de Lichtjesavond op de begraafplaats?",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en directe gevolgen voor het dagelijks leven van inwoners door een nieuwe gemeentelijke maatregel (geactualiseerde hondenkaart). Het is echter afkomstig van een enkele bewoner via een ingekomen stuk, waardoor het vooral de ervaring van één persoon vertegenwoordigt en wederhoor of bredere context ontbreekt.",
+      "invalshoek": "Nieuwe hondenverbodsborden in 't Kalf leiden volgens bewoner tot gevaarlijke verkeerssituaties en rondslingerend glas.",
       "teCheckenBronnen": [
-        "Organisatie van de Koger begraafplaats",
-        "Gemeente Zaanstad"
+        "Gemeente Zaanstad (beleid hondenkaart)",
+        "Wijkcentrum De Tref",
+        "Lokale hondenbezitters in 't Kalf"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Zaanstad Jaarverslagbrief 2025",
+    "itemId": "0ade9045-3245-4f2a-b415-8711146f4d56",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/46347ee8-29a9-4d5c-bac0-1e27f242bf8f",
+    "samenvatting": "HVC is een handelsnaam van N.V. HVC kerncijfers20252024 Aan uw gemeente toebedeelde duurzame energie- productie (in GWh)9478 Ter indicatie omgerekend naar aantal huishoudens met gemiddeld elektriciteitsverbruik38.90031.000 Afvalscheiding (in %)5556 Restafval (fijn en grof) per inwoner (in kg)191187 Aan gemeente Zaanstad uitbetaalde garantstellingsprovisie375.373404.420 kerncijfers van de gemeente Zaanstad 1 Als toonaangevend publiek bedrijf zijn wij samen met onze gemeenten, waterschappen en inwoners dagelijks actief om de broeikasgas- uitstoot te verlagen door de energiehuishouding te verduurzamen, afval te verminderen en grondstoffen te hergebruiken. Wij zien het als onze taak om u en onze andere gemeenten en waterschappen daarin verder te helpen met onder meer uitvoering, advies, onderzoek, ontwikkeling, communicatie met inwoners en samenwerking met andere relevante partijen. HVC is immers van u en zo werken we samen aan een duurzame toekomst. HVC laat u graag zien wat wij bijdragen aan de doelstellingen op het gebied van klimaat en circulariteit. We hebben óók in 2025 samen weer stappen gezet die wij in het HVC jaarverslag 2025 uitgebreid toelichten. In deze brief vindt u de concrete resultaten en vorderingen van afgelopen jaar die specifiek van toepassing zijn op uw gemeente. Zaanstad jaarverslagbrief 2025 klik op de afbeeld- ing om het complete jaarverslag te lezen jaarverslag 2025 HVC is een handelsnaam van N.V. HVC 20212022202320242025 0 10 20 30 40 50 60 70 80 90 100 110 main-title Duurzame energieproductie (in GWh), naar rato van: volume afvalhout volume GFTvolume restafvalaantal aandelen 2 HVC streeft naar zoveel mogelijk milieuwinst door CO 2 -uitstoot te vermijden en/of te minimaliseren. Hiervoor leveren wij inspanningen op het gebied van de energietransitie én op het vlak van afval- verwerking. HVC zet in op: •het minimaliseren van de hoeveelheid (rest)afval en het maximaliseren van het recyclingpercentage, door preventie en optimale afvalscheiding; •het maximaal omzetten in elektriciteit, groen gas of warmte van het door u aangeleverde GFTe (groente-, fruit- en tuinafval & etensresten), houtafval en/of niet-herbruikbare restafval; •het ontwikkelen van, het investeren in en het exploiteren van lokale warmtenetten, waarmee gemeenten worden geholpen bij het realiseren van hun ‘Van Gas Los’-ambities. •het ondersteunen van de gemeenten en waterschappen in het realiseren van duurzame energiedoelstellingen, zoals het leveren van duurzame elektriciteit en gas aan onze aandeelhouders. Op energiegebied vermijden wij CO 2 -uitstoot door de opwek van groene elektriciteit en groen gas en de opwek van warmte voor huizen en bedrijven. duurzame energieproductie Onderstaande figuur laat zien welk deel van de totale duurzame energieproductie door HVC aan uw gemeente wordt toegekend op basis van de door HVC verwerkte volumes afval- en grondstoffenstromen uit uw gemeente (te weten fijn en grof restafval, GFTe en afvalhout B) én uw aandelen in HVC. Dez",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:46:34.517Z",
+    "documentInhoudOpgehaald": true,
+    "score": 14,
+    "scoreToelichting": [
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht bevat actuele kerncijfers over duurzame energie en afvalscheiding in Zaanstad vanuit het HVC-jaarverslag 2025, wat relevant is voor de nabijheid en het inzicht in de eigen omgeving (criterium 3). Het mist echter een scherpe nieuwsanleiding of conflict om direct als autonoom nieuwsbericht te dienen, al bevat het wel concrete cijfers over restafval en huishoudens. Daarom is het een twijfelgeval dat vooral nuttig kan zijn als achtergrondinformatie of data-analyse.",
+      "invalshoek": "Hoe scoort Zaanstad op het gebied van duurzame energie en afvalscheiding volgens de nieuwe HVC-jaarverslagbrief?",
+      "teCheckenBronnen": [
+        "HVC jaarverslag 2025",
+        "Gemeente Zaanstad afvalbeleid"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "hhnk-nieuws",
+    "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+    "categorie": "lokaal",
+    "titel": "Samen op koers: Ontwikkelperspectief Noord-Holland Noord",
+    "url": "https://www.hhnk.nl/samen-op-koers-ontwikkelperspectief-noord-holland-noord",
+    "samenvatting": "In het Ontwikkelperspectief NHN werken we samen met 17 gemeenten, de provincie en het Rijk samen aan de ruimtelijke ontwikkeling van de regio.",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:13.603Z",
+    "score": 10,
+    "scoreToelichting": [
+      "primeur/eerstehands bron (+3)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist lokale nabijheid voor Zaanstreek-Waterland, aangezien het zich richt op de regio Noord-Holland Noord met 17 gemeenten en het Hoogheemraadschap. Daarnaast ontbreken concrete gevolgen voor het dagelijks leven van inwoners of specifieke maatregelen die nu spelen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Hoogheemraadschap Hollands Noorderkwartier",
+        "Provincie Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Schoon en veilig werken zonder motorgeronk",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Schoon_en_veilig_werken_zonder_motorgeronk",
+    "samenvatting": "Van 2 tot 8 november is het Klimaatweek. In deze landelijke actieweek staan duurzame keuzes en minder CO₂-uitstoot centraal. De provincie staat in deze week stil bij klimaatverandering en wat dit betekent voor Noord-Holland.",
+    "gepubliceerdOp": "2026-11-02T11:54:30.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:14.438Z",
+    "score": 10,
+    "scoreToelichting": [
+      "actualiteit (+3)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht beschrijft een algemene landelijke actieweek (Klimaatweek) zonder specifieke lokale gebeurtenissen, besluiten of concrete gevolgen voor inwoners in Zaanstreek-Waterland. Er is geen sprake van een duidelijke afwijking van het alledaagse of lokale impact die een nieuwsartikel rechtvaardigt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeenten in Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "MRA Raads- en Statenleden Bericht, editie 108, 20-10-26",
+    "itemId": "911c1cf6-d0e6-4942-a8dc-e2f12b3babb9",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/0c3a2f02-06ac-4996-ae3a-1d8fd2e0e386",
+    "samenvatting": "Maandelijks MRA Raads- en Statenleden Bericht (editie 108 - 20 oktober 2026) Geachte Raadsleden en Statenleden in de Metropoolregio Amsterdam, Met deze maandelijkse brief informeren wij u in het kort over actuele ontwikkelingen in de samenwerking binnen de MRA. Dit maandelijkse MRA Raads- en Statenleden Bericht wordt ook gearchiveerd op de MRA-website. Nieuws uit de Metropoolregio Amsterdam • Onderzoek brengt The Culture in de MRA voor het eerst regionaal in beeld • Prinsjesdag 2026: kansen en risico’s voor de Metropoolregio Amsterdam • Rijk en regio maken afspraken over ruimtelijke ontwikkelingen MRA • Innovatie in de praktijk tijdens werkbezoek bij Media Campus NL • Nieuwe samenwerking versterkt creatieve sector in de MRA • Samen werken aan leefbare wijken in de MRA Actualisering van de MRA Samenwerkingsafspraken van start De Raadtafel kan zich vinden in het voorgestelde proces voor de actualisatie van de samenwerkingsafspraken. Ook ging de Raadtafel akkoord met de voorgestelde wijziging om het proces van de actualisatie te versnellen en de raden, Staten en colleges meer tijd te geven om input te leveren aan dit traject. Het advies is door de MRA Algemene Vergadering besproken en overgenomen. Het MRA Bestuur vroeg de Raadtafel advies over twee memo’s: de Procesnotitie actualisatie samenwerkingsafspraken en de Memo aanpassen proces samenwerkingsafspraken. Programma en aanmelden: 21 oktober 2026 MRA conferentie MRA 2100, Ruimte in beweging Op woensdag 21 oktober wordt vanaf 15.00 uur de MRA conferentie over ruimte gehouden. Dit programma gaat door tot in de avond. Vanaf 18.00 uur is er een walking-diner en een avondprogramma dat zich zal richten op raads- en Statenleden. De locatie is de Kunstlinie in Almere. Het programma en de mogelijkheid om u aan te melden staan op de website. MRA jaarplanning 2027 krijgt verder vorm De MRA Jaarplanning 2027 staat op de website. Nu ook met alle datums van de platforms. Vorige maand waren alleen de data voor het MRA Bestuur, de MRA Raadtafel en de MRA Algemene Vergadering bekend. In ieder Bericht aan raden en Staten is de link naar de meest actuele Jaarplanning op de website opgenomen. Podcastreeks over invloed, grip en ambities Abonneer u op de podcast Metropoolregio Actueel. Podcasts over invloed uitoefenen binnen en buiten de MRA-samenwerking: • Invloed in de MRA-samenwerking • Om succes te hebben, moet je aan de voorkant van beleid zien te komen Er zijn nu podcasts over thema’s uit alle acht ambities: • NIEUW: Waar moeten kantoren behouden blijven in de MRA? (kantorenstrategie) • Iedereen moet zich op een toekomstbestendige en betaalbare manier kunnen verplaatsen (Mobiliteit) - video • Is het mogelijk om grip te krijgen op toerisme in de MRA en tegelijkertijd te verduurzamen? (Toerisme) - video • Niet alleen het gebouwde aantal huizen telt, maar ze moeten ook betaalbaar, bereikbaar en toekomstbestendig zijn (Bouwen en Wonen) - video • Wie het energievraagstuk wil oplossen, moet aan de fysieke ruimte denken",
+    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:46:34.517Z",
+    "documentInhoudOpgehaald": true,
+    "score": 9,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op de Metropoolregio Amsterdam waar Zaanstreek-Waterland deel van uitmaakt (nabijheid), maar het betreft een algemene maandelijkse informatiedienst met voornamelijk al bekende of brede beleidsonderwerpen. Er is geen sprake van directe gevolgen of een concreet besluit met onmiddellijke impact voor inwoners (belang/omvang).",
+      "invalshoek": "Wat betekenen de geactualiseerde samenwerkingsafspraken binnen de Metropoolregio Amsterdam concreet voor de gemeente Zaanstad?",
+      "teCheckenBronnen": [
+        "MRA-website",
+        "Gemeente Zaanstad iBabs"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-11-24 Dinsdag 24 november 2026 om 17:15 uur - Sluiting woning Nienke van Hichtumstraat 4 te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366429",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:23.668Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft grote nabijheid (Zaandam) en directe gevolgen door een bestuurlijke maatregel (sluiting woning), maar mist inhoudelijke details over de reden en omvang van de sluiting. Door het ontbreken van context is de nieuwswaarde nu nog onvoldoende te bepalen.",
+      "invalshoek": "Waarom sluit de gemeente Zaandam de woning aan de Nienke van Hichtumstraat?",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Politie Zaanstreek-Waterland"
       ]
     },
     "aiFout": null
@@ -77,21 +164,44 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Czaar Peterloge open zitting",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-02-czaar-peterloge-open-zitting/",
+    "titel": "Het Open Wormer Kolftoernooi",
+    "url": "https://waarheen.deorkaan.nl/agenda/het-open-wormer-kolftoernooi-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-02T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.540Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:30.072Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 0.9 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, belang en omvang niet te beoordelen zijn. Er is te weinig feitelijke informatie om te bepalen of dit nieuwswaardig is voor Zaanstreek-Waterland.",
+      "onderbouwing": "Het bericht mist actualiteit, een concrete afwijking van het alledaagse, en een duidelijk maatschappelijk belang of omvang. Er worden geen besluiten, maatregelen of gevolgen voor het dagelijks leven genoemd die verdere journalistieke verdieping rechtvaardigen.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Czaar Peterloge",
+        "Organisatie van het Open Wormer Kolftoernooi"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "De Fabriek: Eat More Trees",
+    "url": "https://waarheen.deorkaan.nl/agenda/de-fabriek-eat-more-trees/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:30.072Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoudelijke feiten over het evenement of de locatie. Hierdoor is het niet mogelijk om de nieuwswaarde aan de hand van de criteria te beoordelen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "De Fabriek Zaanstad",
         "WaarheenAgenda"
       ]
     },
@@ -101,70 +211,46 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Vredeslezing in de Vermaning",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-04-vredeslezing-in-de-vermaning/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft nabijheid omdat het in De Vermaning plaatsvindt, maar mist verdere details over de inhoud, sprekers en het belang of de omvang vanwege de afwezigheid van een samenvatting. Het betreft wel een vooraankondiging die potentieel onder 'nieuws van morgen' valt.",
-      "invalshoek": "Wat houdt de Vredeslezing in De Vermaning precies in en wie zijn de sprekers?",
-      "teCheckenBronnen": [
-        "Organisator van de Vredeslezing",
-        "De Vermaning"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Energie-estafette",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-04-energie-estafette/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-04T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Energie-estafette') en een URL, maar mist feitelijke informatie over actualiteit, nabijheid, omvang of de inhoud van de gebeurtenis. Hierdoor kan niet worden beoordeeld of het voldoet aan de journalistieke criteria of bijdraagt aan het dagelijks leven van inwoners.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van de Energie-estafette"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Lezing: Fotograaf Mounir Raji",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-05-fotograaf-mounir-raji/",
+    "titel": "Expositie Rob Bruijn in Huize Barkeloo",
+    "url": "https://waarheen.deorkaan.nl/agenda/expositie-rob-bruijn-in-huize-barkeloo/",
     "samenvatting": "",
     "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-02T00:16:26.541Z",
-    "score": 6,
+    "opgehaaldOp": "2026-11-03T02:47:30.072Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+6, evenement over 3.0 dag(en))"
+      "recency (+7, evenement over 1.9 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist bijna alle journalistieke criteria; er is enkel sprake van nabijheid, maar het ontbreekt aan concrete feiten over actualiteit, omvang, belang of een maatschappelijk probleem. Alleen een aankondiging van een lezing is te weinig voor een nieuwsartikel.",
+      "onderbouwing": "Het bericht bevat enkel een aankondiging van een expositie zonder verdere inhoudelijke details over actualiteit, omvang of maatschappelijk belang. Er is onvoldoende informatie om te voldoen aan de journalistieke criteria voor een nieuwsbericht.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator van de lezing"
+        "Huize Barkeloo"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Tijdelijke brug tijdens vervanging Waardbrug",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Tijdelijke_brug_tijdens_vervanging_Waardbrug",
+    "samenvatting": "De provincie Noord-Holland vervangt in 2028 de Waardbrug in de N248 ter hoogte van Kolhorn.",
+    "gepubliceerdOp": "2026-10-30T10:20:20.000Z",
+    "opgehaaldOp": "2026-11-03T02:47:14.438Z",
+    "score": 4,
+    "scoreToelichting": [
+      "recency (+4, 3.7 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht gaat over de vervanging van de Waardbrug in Kolhorn in 2028. Dit speelt fysiek niet in Zaanstreek-Waterland en raakt de inwoners daar niet concreet, waardoor het criterium nabijheid ontbreekt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeente Hollands Kroon"
       ]
     },
     "aiFout": null
