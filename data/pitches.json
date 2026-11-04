@@ -1,5 +1,38 @@
 {
-  "gegenereerdOp": "2026-11-03T02:48:26.751Z",
-  "aantalBerichtenTotaal": 10,
-  "topPitches": []
+  "gegenereerdOp": "2026-11-04T01:05:04.991Z",
+  "aantalBerichtenTotaal": 4,
+  "topPitches": [
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Leerlingenvervoer en begrotingsbehandeling",
+      "itemId": "bcd2a168-ca7b-490c-a6e6-73897a896ba9",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/43da1cdf-bd43-4bbf-8619-388114502fa4",
+      "samenvatting": "3 november 2026, Assendelft Geachte raadsleden, In aanloop naar de verdere behandeling van de gemeentelijke begroting wil ik vanuit Passend en Veilig Leerlingenvervoer (PVL) en mijn eerdere deelname aan de klankbordgroep leerlingenvervoer binnen Zaanstad graag enkele aandachtspunten meegeven voor het ingediende debatpunt van Dhr. Hendriks (CDA) over het leerlingenvervoer. Wij maken ons zorgen over de veiligheid, gezondheid en individuele belastbaarheid van leerlingen die afhankelijk zijn van het leerlingenvervoer. Met deze brief vragen wij uw aandacht voor noodzakelijke minimumnormen, toezicht op de huidige uitvoering en de voorbereiding van de nieuwe aanbesteding. De urgentie is groot: kinderen missen vandaag onderwijs door te late of uitgevallen ritten of komen uitgeput en overprikkeld aan. Ook zijn ritten onveilig en vinden er met regelmaat ernstige incidenten plaats. Ouders moeten vaak bijspringen. Verbeteringen bij een nieuwe aanbesteding zijn nodig, maar ook binnen het huidige contract moet tijdig worden ingegrepen als vervoer tekortschiet. Veiligheid, gezondheid en individuele belastbaarheid moeten de uitgangspunten zijn voor passend vervoer. Reistijd, voorspelbaarheid, een vertrouwde chauffeur en passende begeleiding kunnen voor bepaalde leerlingen rechtstreeks bepalend zijn voor hun veiligheid. Kostenbeheersing mag niet leiden tot onaanvaardbare risico’s of ontoereikende ondersteuning. Een algemene maximale reistijd is bovendien niet voor ieder kind passend: individuele belastbaarheid kan een kortere rit vereisen. Wij pleiten daarom voor landelijke concrete, toetsbare en bindende minimumnormen maar ook voor een veilige overdracht en handelen bij noodsituaties. En ik hoop dat u dit binnen Zaanstad ook wilt doen. Deze normen vormen de ondergrens waaraan de vervoerder dan altijd moet voldoen om veiligheid en gezondheid vooraf te borgen. Wij praten liever over minimumnormen in plaats van een kwaliteitskader omdat kwaliteit pas achteraf beoordeeld wordt aan de hand van prestaties en ervaringen. Die beoordeling achteraf mag niet het eerste moment zijn waarop blijkt dat noodzakelijke bescherming ontbrak. Een voorbeeld is de recente Zaanse rechtszaak over leerlingenvervoer waarin een zevenpuntsgordel / gordelkap als mogelijke oplossing ter sprake kwam. Daarbij rezen vragen over geschiktheid, veilig gebruik, evacuatie en passende begeleiding. Zulke afwegingen vragen vooraf om duidelijke criteria en verantwoordelijkheden, zodat ouders hierover niet telkens individueel de strijd hoeven aan te gaan, zelfs tot aan een rechter met alle gevolgen van dien. Daarnaast moet de vervoerder structureel transparant inzicht geven in klachten, de afhandeling daarvan en gegevens over werkelijke reistijden, incidenten en uitval. Daarmee kan de gemeente patronen herkennen en tijdig bijsturen in plaats van pas te handelen na incidenten. Willen jullie de wethouder vragen vast te leggen welke eisen bindende minimumnormen worden en welke slechts richtlijnen of aanbevel",
+      "gepubliceerdOp": "2026-11-03T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-04T01:02:51.245Z",
+      "documentInhoudOpgehaald": true,
+      "score": 22,
+      "scoreToelichting": [
+        "actualiteit (+3)",
+        "afwijking (+3)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.0 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft hoge actualiteit vanwege de naderende begrotingsbehandeling en raakt de nabijheid (Zaanstad/Assendelft) direct. Inwoners worden concreet geraakt doordat kinderen nu al onderwijs missen, uitgeput raken of onveilige ritten ervaren. Dit draagt bij aan een beter inzicht in de gevolgen van het leerlingenvervoer voor huishoudens.",
+        "invalshoek": "Ouders luiden de noodklok over misstanden en onveiligheid in het Zaanse leerlingenvervoer in de aanloop naar de begrotingsbehandeling.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad (Ingekomen stukken iBabs)",
+          "Individuele indiener / Passend en Veilig Leerlingenvervoer (PVL)",
+          "Fractie CDA Zaanstad (Dhr. Hendriks)"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }
