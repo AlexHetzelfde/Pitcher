@@ -1,120 +1,35 @@
 {
-  "gegenereerdOp": "2026-11-06T01:24:50.300Z",
-  "aantalBerichtenTotaal": 14,
+  "gegenereerdOp": "2026-11-07T00:40:36.105Z",
+  "aantalBerichtenTotaal": 13,
   "topPitches": [
     {
       "bronId": "ibabs-collegeberichten",
       "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
       "categorie": "lokaal",
-      "titel": "Kennisgeving burgemeester Hamming: incident Jaspersstraat",
-      "itemId": "d9ebbde0-01da-4bd9-8b09-eb79308e782f",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/27931bc8-9e76-438d-82ba-f51af593bb38",
-      "samenvatting": "Kennisgeving — Hamming, J. — Actieve informatievoorziening — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 3 november 2026 Telefoon 14 075 ONDERWERP Incident Jaspersstraat www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht Jaspersstraat Na de explosie aan de Jaspersstraat op 24 september 2026 heeft de gemeente besloten om tijdelijk cameratoezicht in te stellen. Eerder hebben wij u geïnformeerd dat deze maatregelen geldt tot vrijdag 6 november 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht te verlengen, vooralsnog tot en met 18 december 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
-      "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-06T01:22:47.653Z",
+      "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht",
+      "itemId": "04fb37aa-58f9-4edf-bc85-0a030f797047",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/8b899045-41e2-48f7-b963-2762303ae520",
+      "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 6 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Verlenging sluiting woning Zuiddijk 172 en cameratoezicht Ter informatie van de burgemeester aan de gemeenteraad Geachte leden van de gemeenteraad, Uw raad is eerder geïnformeerd over mijn besluit om, ter bescherming van de openbare orde en veiligheid, de woning aan de Zuiddijk 172 tijdelijk te sluiten en cameratoezicht in te stellen. Aanleiding hiervoor waren ernstige verstoringen van de openbare orde, waaronder het aantreffen van een zwaar explosief aan de voordeur van de woning en een daaropvolgende explosie die heeft geleid tot aanzienlijke schade en gevoelens van onrust en onveiligheid in de omgeving. Deze maatregelen zijn in oktober verlengd op basis van informatie van de politie waaruit bleek dat de dreiging ten aanzien van het pand nog niet was weggenomen. De huidige maatregelen lopen vandaag af. Op basis van de informatie die mij nu ter beschikking staat, heb ik vastgesteld dat nog steeds sprake is van een risico op nieuwe incidenten met mogelijke gevolgen voor de openbare orde en veiligheid in de directe omgeving. Om die reden heb ik besloten de sluiting van de woning en het cameratoezicht opnieuw te verlengen voor de duur van vier weken. Omwonenden worden over dit besluit geïnformeerd door middel van een bewonersbrief. Met deze verlenging wordt beoogd de rust in de omgeving te behouden, de veiligheid van omwonenden te beschermen en de kans op nieuwe verstoringen van de openbare orde te voorkomen. Met vriendelijke groet, drs. J. Hamming, burgemeester",
+      "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-07T00:37:53.220Z",
       "documentInhoudOpgehaald": true,
-      "score": 23,
+      "score": 26,
       "scoreToelichting": [
+        "actualiteit (+3)",
         "afwijking (+3)",
         "belang (+4)",
         "voor het eerst (+2)",
         "primeur/eerstehands bron (+3)",
         "nabijheid (+4)",
-        "recency (+7, 1.1 dag(en) oud)"
+        "recency (+7, 1.0 dag(en) oud)"
       ],
       "aiBeoordeling": {
         "oppakbaar": "ja",
-        "onderbouwing": "Het bericht scoort hoog op nabijheid (Jaspersstraat in Zaanstad) en belang, omdat het gaat om de verlenging van cameratoezicht na een explosie. Dit raakt direct de veiligheid van bewoners en draagt bij aan inzicht in de eigen leefomgeving en concrete gevolgen voor het dagelijks leven.",
-        "invalshoek": "Het cameratoezicht aan de Jaspersstraat in Zaandam wordt na een eerdere explosie in overleg met politie en OM verlengd tot 18 december 2026 om de rust in de buurt te bewaren.",
+        "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege nabijheid (Zuiddijk, Zaandam), belang (concreet gevolg voor de veiligheid van omwonenden door verlengd cameratoezicht) en omvang (ernstige verstoringen met explosieven). Het draagt direct bij aan inzicht in de eigen omgeving en de gevolgen voor het dagelijks leven van inwoners.",
+        "invalshoek": "Burgemeester Hamming verlengt de sluiting van de woning aan de Zuiddijk en het cameratoezicht met vier weken vanwege aanhoudende dreiging na eerdere explosies.",
         "teCheckenBronnen": [
           "Gemeente Zaanstad",
-          "Politie Unit Zaanstreek",
-          "Openbaar Ministerie"
-        ]
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "ibabs-collegeberichten",
-      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
-      "categorie": "lokaal",
-      "titel": "Inkoop specialistische jeugdhulp 2027",
-      "itemId": "ab5449f8-ce5c-473d-985a-25745d18efd1",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/0c06a5b5-5ff0-4908-8c05-cefd51385e97",
-      "samenvatting": "Raadsinformatiebrief — Doeves - de Boer, M.  — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10778691 1/2 Raadsinformatiebrief Onderwerp Inkoop specialistische jeugdhulp 2027 Portefeuillehouder M. Doeves-de Boer Portefeuille (specialistische) Jeugdhulp Aan de leden van de gemeenteraad Zaanstad, Inleiding In deze Raadsinformatiebrief willen we u informeren over de ‘Inkoop Specialistische Jeugdhulp 2027’ en in het bijzonder over de aanbesteding van de enkelvoudige specialistische jeugdhulp (segment B) omdat de uitkomst van de voorlopige gunning de gemeente ertoe heeft gebracht de aanbesteding voor segment B in te trekken. Zoals bij u bekend, lopen de huidige contracten voor de uitvoering van de (hoog)specialistische jeugdhulp per 31 december 2026 af. Om de continuïteit van zorg te kunnen garanderen en een toereikend aanbod te realiseren is de Jeugdhulpregio Zaanstreek- Waterland gestart om tot nieuwe contracten te komen. Hiervoor heeft u de Inkoopstrategie op 1 juli 2025 vastgesteld en vervolgens bent u in november 2026 geïnformeerd over de Inkoopdocumenten via Raadsinformatiebrief Inkoopdocumenten Specialistische Jeugdhulp 2027 9698588. Inmiddels is de aanbesteding voor hoogspecialistische jeugdhulp (segment C) en verblijf (segment V) succesvol afgerond. In segment C gaat het om meervoudige problematiek waarvoor de inzet van meerdere specialistische hulpverleners nodig is. In segment V gaat het bijvoorbeeld over pleegzorg, gezinshuizen, leefgroepen met en zonder behandeling en crisisopvang. Dat is het hart van de totale inkoop met een jaarlijkse regionale waarde van ongeveer 90 miljoen. Met het selecteren van tien kernpartners in segment C voor een periode van acht jaar is een belangrijk doel van hervorming van het landschap van specialistische jeugdhulp uit de Inkoopstrategie bereikt. Daarnaast loopt de huidige aanbesteding voor enkelvoudige specialistische jeugdhulp (segment B). Binnen het huidige segment B worden diverse vormen van hulp geboden. Het gaat om allerhande vormen van begeleiding, coaching, training en de basis-ggz. Op 7 oktober jongstleden zijn voor de aanbesteding van segment B de voorlopige gunningen uitgegaan. De uitkomst van de voorlopige gunning heeft de gemeente in overeenstemming met de Jeugdregio ertoe gebracht de aanbesteding voor segment B in te trekken. Toelichting Zoals bekend is voor het segment B in de vastgestelde Inkoopstrategie gekozen voor het zogenaamde Blokkenmodel, om daarmee voor dit segment niet opnieuw via een Open house een zeer groot aantal aanbieders te contracteren, met alle bijbehorende nadelen van dien. In het Blokkenmodel worden op basis van capaciteit drie blokken onderscheiden. Aanbieders konden zich inschrijven op basis van capaciteit, die ondersteund moest worden door een referentie. Vulling van de blokken en daarmee de vertaling naar de voorlopige gunning is een technische operatie. Uitkomst van deze operatie is dat van de 102 ingeschreven aanbieders er 32 een voorlopige gunning hebben ontvangen en de rest (70) een afwijzing. Er zijn ongeveer 60 ",
-      "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-06T01:22:47.652Z",
-      "documentInhoudOpgehaald": true,
-      "score": 16,
-      "scoreToelichting": [
-        "voor het eerst (+2)",
-        "primeur/eerstehands bron (+3)",
-        "nabijheid (+4)",
-        "recency (+7, 1.1 dag(en) oud)"
-      ],
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "onderbouwing": "Dit raadsbericht scoort hoog op nabijheid (Zaanstreek-Waterland), belang (intrekking aanbesteding jeugdhulp van 90 miljoen en impact op 70 afgewezen aanbieders) en omvang. Het draagt bij aan het inzicht in de gevolgen voor het dagelijks leven en de lokale jeugdzorg.",
-        "invalshoek": "Gemeente Zaanstad trekt aanbesteding voor enkelvoudige jeugdhulp (segment B) in na voorlopige gunning, waardoor 70 van de 102 aanbieders zijn afgewezen.",
-        "teCheckenBronnen": [
-          "Gemeente Zaanstad",
-          "Jeugdregio Zaanstreek-Waterland"
-        ]
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "ibabs-collegeberichten",
-      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
-      "categorie": "lokaal",
-      "titel": "Vervoerplan 2027 EBS",
-      "itemId": "6a0a668f-6a1e-4b28-b246-3696c66b8e02",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a56f9c9b-4b53-4758-848c-96d1a30c7220",
-      "samenvatting": "Raadsinformatiebrief — Doeves - de Boer, M.  — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10755799 1/7 Raadsinformatiebrief 1 Onderwerp Vervoerplan 2027 EBS Portefeuillehouder M. Doeves - de Boer Portefeuille Mobiliteit en parkeren (incl. havens en vaarwegen) Aan de leden van de gemeenteraad Zaanstad, Inleiding Ieder jaar stelt busvervoerder EBS, in opdracht van de Vervoerregio Amsterdam, een vervoerplan op. Hierin worden voorstellen gedaan voor aanpassingen in de busroutes en dienstregeling, met als doel het openbaar vervoer beter te laten aansluiten op de behoeften van reizigers en ontwikkelingen in de regio. De Vervoerregio Amsterdam is verantwoordelijk voor het openbaar vervoer en stelt het vervoerplan vast. De vervoerder is verantwoordelijk voor de uitvoering en verzorgt de communicatie richting reizigers over wijzigingen in de dienstregeling. Op 13 december 2026 gaat de nieuwe dienstregeling van EBS in. In het Vervoerplan 2027 zijn verschillende wijzigingen opgenomen in de busroutes binnen Zaanstad. Het vervoerplan is op 1 juli 2026 vastgesteld door het dagelijks bestuur van de Vervoerregio Amsterdam. Omdat er dit jaar veel wijzigingen plaatsvinden in de busdienstregeling binnen Zaanstad, vindt het college het belangrijk om de gemeenteraad hierover te informeren en de communicatie met EBS goed af te stemmen, zodat inwoners en reizigers goed worden geïnformeerd. Met deze brief informeren wij u over de belangrijkste wijzigingen, de gevolgen voor reizigers, de communicatie richting inwoners. Het college is positief over de aanpassingen in het vervoerplan. Op verschillende locaties wordt de bereikbaarheid verbeterd, onder andere door nieuwe woongebieden beter te ontsluiten en reistijden te verkorten. Daarnaast dragen enkele routewijzigingen bij aan het verminderen van busverkeer op locaties waar de leefbaarheid en verkeersveiligheid onder druk staan. Tegelijkertijd realiseren wij ons dat sommige wijzigingen voor reizigers gevolgen hebben, bijvoorbeeld als een bus een andere route rijdt of een halte op een andere plek komt te liggen. Dit kan voor reizigers wennen zijn. Toelichting Een aantrekkelijker centrum door aanpassingen in de busroutes van lijnen 394, 65 en 64 R-netlijn 394 gaat niet langer via de Peperstraat en Vinkenstraat rijden, maar via het Zaans Medisch Centrum en de Vincent van Goghweg. Deze wijziging sluit aan bij de herinrichting van het centrum van Zaandam. Hieraan wordt meer ruimte geboden aan verblijf, lopen en fietsen. Minder busverkeer draagt bij aan een aantrekkelijker centrum en verbetert de verkeersveiligheid, met name voor fietsers door de Peperstraat en Vinkenstraat. Doordat buslijn 394 niet meer door het centrum rijdt, daalt het aantal bussen in de Peperstraat van circa 432 naar 326 per dag (-25%). In de Vinkenstraat gaat het om een afname van circa 496 naar 390 bussen per dag (-21%). Het centrum blijft goed bereikbaar met het openbaar vervoer via buslijnen 64, 65 en 69. Daarnaast wordt lijn 64 aangepast en rijdt deze na het centrum via Hoornseveld richting het Zaan",
-      "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-06T01:22:47.653Z",
-      "documentInhoudOpgehaald": true,
-      "score": 16,
-      "scoreToelichting": [
-        "voor het eerst (+2)",
-        "primeur/eerstehands bron (+3)",
-        "nabijheid (+4)",
-        "recency (+7, 1.1 dag(en) oud)"
-      ],
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft grote nabijheid en een hoog belang omdat het concrete wijzigingen in busroutes (zoals lijn 394) en dienstregelingen in Zaanstad behandelt die inwoners direct raken. Dit draagt direct bij aan betere inzichten in de eigen omgeving en concrete gevolgen voor het dagelijks leven.",
-        "invalshoek": "Buslijn 394 rijdt vanaf december 2026 niet meer door de Peperstraat en Vinkenstraat in Zaandam, wat zorgt voor minder busverkeer maar nieuwe routes voor reizigers.",
-        "teCheckenBronnen": [
-          "Vervoerregio Amsterdam",
-          "Busvervoerder EBS"
-        ]
-      },
-      "aiFout": null
-    },
-    {
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "categorie": "lokaal",
-      "titel": "Vergunningaanvragen voor 8 windturbines in havengebied Amsterdam",
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Vergunningaanvragen_voor_8_windturbines_in_havengebied_Amsterdam",
-      "samenvatting": "Port of Amsterdam (het Havenbedrijf Amsterdam) heeft bij de provincie Noord-Holland vergunningaanvragen ingediend voor 8 windturbines in het havengebied van Amsterdam. De aanvraag past binnen de zoekgebieden die zijn opgenomen in de Regionale Energiestrategie Noord-Holland-Zuid en binnen het programma Windenergie Amsterdam 2030. Daarin is het havengebied als windzoekgebied vastgesteld. De gemeente Amsterdam en de provincie werken daarmee samen aan de grootschalige opwek van duurzame elektriciteit met windenergie.",
-      "gepubliceerdOp": "2026-11-05T14:26:00.000Z",
-      "opgehaaldOp": "2026-11-06T01:23:19.036Z",
-      "score": 14,
-      "scoreToelichting": [
-        "belang (+4)",
-        "primeur/eerstehands bron (+3)",
-        "recency (+7, 0.5 dag(en) oud)"
-      ],
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft grote nabijheid omdat het havengebied direct grenst aan Zaanstreek-Waterland en windturbines daarvan impact hebben op het omringende landschap en geluid. Het scoort hoog op belang en omvang vanwege de grootschalige energieopwekking en de officiële vergunningaanvragen bij de provincie. Dit draagt direct bij aan concrete gevolgen voor het dagelijks leven en inzicht in de eigen leefomgeving.",
-        "invalshoek": "Wat gaan inwoners van Zaanstreek-Waterland merken van de komst van acht nieuwe windturbines in het nabijgelegen Amsterdamse havengebied?",
-        "teCheckenBronnen": [
-          "Provincie Noord-Holland",
-          "Port of Amsterdam",
-          "Gemeente Zaanstad"
+          "Politie Eenheid Noord-Holland"
         ]
       },
       "aiFout": null

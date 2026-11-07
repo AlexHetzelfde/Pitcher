@@ -3,30 +3,30 @@
     "bronId": "ibabs-collegeberichten",
     "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Kennisgeving burgemeester Hamming: incident Jaspersstraat",
-    "itemId": "d9ebbde0-01da-4bd9-8b09-eb79308e782f",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/27931bc8-9e76-438d-82ba-f51af593bb38",
-    "samenvatting": "Kennisgeving — Hamming, J. — Actieve informatievoorziening — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 3 november 2026 Telefoon 14 075 ONDERWERP Incident Jaspersstraat www.zaanstad.nl Geachte leden van de raad, In overleg met het Openbaar Ministerie en de politie is besloten de bestuurlijke maatregelen voor een adres te verlengen. Communicatie met bewoners in de omgeving verloopt via een bewonersbrief. Verlenging cameratoezicht Jaspersstraat Na de explosie aan de Jaspersstraat op 24 september 2026 heeft de gemeente besloten om tijdelijk cameratoezicht in te stellen. Eerder hebben wij u geïnformeerd dat deze maatregelen geldt tot vrijdag 6 november 2026. In overleg met het Openbaar Ministerie en de politie is besloten het cameratoezicht te verlengen, vooralsnog tot en met 18 december 2026. Met deze maatregelen willen we eveneens de rust in de buurt behouden, voorkomen dat nieuwe incidenten ontstaan en het veiligheidsgevoel vergroten. Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd. Met vriendelijke groet, J. Hamming de burgemeester van Zaanstad",
-    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:22:47.653Z",
+    "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht",
+    "itemId": "04fb37aa-58f9-4edf-bc85-0a030f797047",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/8b899045-41e2-48f7-b963-2762303ae520",
+    "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 6 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Verlenging sluiting woning Zuiddijk 172 en cameratoezicht Ter informatie van de burgemeester aan de gemeenteraad Geachte leden van de gemeenteraad, Uw raad is eerder geïnformeerd over mijn besluit om, ter bescherming van de openbare orde en veiligheid, de woning aan de Zuiddijk 172 tijdelijk te sluiten en cameratoezicht in te stellen. Aanleiding hiervoor waren ernstige verstoringen van de openbare orde, waaronder het aantreffen van een zwaar explosief aan de voordeur van de woning en een daaropvolgende explosie die heeft geleid tot aanzienlijke schade en gevoelens van onrust en onveiligheid in de omgeving. Deze maatregelen zijn in oktober verlengd op basis van informatie van de politie waaruit bleek dat de dreiging ten aanzien van het pand nog niet was weggenomen. De huidige maatregelen lopen vandaag af. Op basis van de informatie die mij nu ter beschikking staat, heb ik vastgesteld dat nog steeds sprake is van een risico op nieuwe incidenten met mogelijke gevolgen voor de openbare orde en veiligheid in de directe omgeving. Om die reden heb ik besloten de sluiting van de woning en het cameratoezicht opnieuw te verlengen voor de duur van vier weken. Omwonenden worden over dit besluit geïnformeerd door middel van een bewonersbrief. Met deze verlenging wordt beoogd de rust in de omgeving te behouden, de veiligheid van omwonenden te beschermen en de kans op nieuwe verstoringen van de openbare orde te voorkomen. Met vriendelijke groet, drs. J. Hamming, burgemeester",
+    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:37:53.220Z",
     "documentInhoudOpgehaald": true,
-    "score": 23,
+    "score": 26,
     "scoreToelichting": [
+      "actualiteit (+3)",
       "afwijking (+3)",
       "belang (+4)",
       "voor het eerst (+2)",
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 1.1 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "ja",
-      "onderbouwing": "Het bericht scoort hoog op nabijheid (Jaspersstraat in Zaanstad) en belang, omdat het gaat om de verlenging van cameratoezicht na een explosie. Dit raakt direct de veiligheid van bewoners en draagt bij aan inzicht in de eigen leefomgeving en concrete gevolgen voor het dagelijks leven.",
-      "invalshoek": "Het cameratoezicht aan de Jaspersstraat in Zaandam wordt na een eerdere explosie in overleg met politie en OM verlengd tot 18 december 2026 om de rust in de buurt te bewaren.",
+      "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege nabijheid (Zuiddijk, Zaandam), belang (concreet gevolg voor de veiligheid van omwonenden door verlengd cameratoezicht) en omvang (ernstige verstoringen met explosieven). Het draagt direct bij aan inzicht in de eigen omgeving en de gevolgen voor het dagelijks leven van inwoners.",
+      "invalshoek": "Burgemeester Hamming verlengt de sluiting van de woning aan de Zuiddijk en het cameratoezicht met vier weken vanwege aanhoudende dreiging na eerdere explosies.",
       "teCheckenBronnen": [
         "Gemeente Zaanstad",
-        "Politie Unit Zaanstreek",
-        "Openbaar Ministerie"
+        "Politie Eenheid Noord-Holland"
       ]
     },
     "aiFout": null
@@ -35,188 +35,84 @@
     "bronId": "ibabs-collegeberichten",
     "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Septembercirculaire 2026",
-    "itemId": "15f49625-735e-4e05-9750-593cf456a8fa",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/02c8bc4e-fa4e-4e48-b209-83742bd105cd",
-    "samenvatting": "Raadsinformatiebrief — Onclin, S. — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10711683 1/4 Raadsinformatiebrief 1 Onderwerp Septembercirculaire 2026 Portefeuillehouder S. Onclin Portefeuille Financiën & Inkoop Aan de leden van de gemeenteraad Zaanstad, Inleiding De septembercirculaire 2026 is op woensdag 16 september ontvangen van het Rijk. Hierin staat hoe hoog de algemene uitkering uit het Gemeentefonds wordt, die gemeenten van het Rijk ontvangen. In deze raadsinformatiebrief (RIB) informeren wij u of Zaanstad voor de jaren 2026 tot en met 2031 meer of juist minder geld van het Rijk ontvangt. Ook vertellen wij u welke gevolgen dat heeft voor de begroting van de gemeente Zaanstad. In het coalitieakkoord 2026-2030 zijn nieuwe spelregels opgenomen voor de financiële uitwerking van decentralisatie-uitkeringen, bijzondere fondsuitkeringen en taakmutaties in de circulaires Gemeentefonds van het Rijk. Hiermee is rekening gehouden bij de financiële uitwerking van de septembercirculaire. Via onderstaande toelichting informeren wij u op hoofdlijnen over de septembercirculaire. In de bijlagen bij deze RIB treft u een meer gedetailleerde uitleg aan van de belangrijkste mutaties en de uitwerking van het college voor decentralisatie-uitkeringen (DU), bijzondere fondsuitkeringen (BFU) en taakmutaties. Toelichting In het coalitieakkoord 2026-2030 zijn nieuwe spelregels opgenomen voor de circulaires Gemeentefonds van het Rijk met betrekking tot de daarin opgenomen decentralisatie- uitkeringen, bijzondere fondsuitkeringen en taakmutaties. Op grond van deze nieuwe spelregels heeft het college onderstaand proces vastgesteld voor de financiële uitwerking van de circulaires Gemeentefonds vanaf de septembercirculaire 2026. Dit proces past binnen de financiële kaders die voor het begroten en verantwoorden zijn opgenomen in de Financiële verordening Zaanstad. De raad wordt over de uitwerking van de circulaires Gemeentefonds actief geïnformeerd via een raadsinformatiebrief en autoriseert de financiële uitwerking van de circulaires Gemeentefonds bij de P&C-documenten. Proces uitwerking circulaires Gemeentefonds van het Rijk A. De ontvangen middelen gaan direct naar het doel/product waarvoor ze zijn aangevraagd Dit gebeurt wanneer: A1. De middelen speciaal zijn aangevraagd voor het bereiken van een specifieke doelstelling. Dit betreft hoofdzakelijk incidentele middelen. Voorbeelden hiervan in de septembercirculaire 2026 zijn de decentralisatie-uitkering Work in NL en de decentralisatie-uitkering Pilot wijkgerichte vaccinatieaanpak. A2. Het regionale middelen betreft. Voorbeelden hiervan in de septembercirculaire 2026 zijn de decentralisatie-uitkering Vrouwenopvang, de decentralisatie-uitkering Impulsbudget arbeidsmarktregio’s en de alliantie middelen Pact Zaandam Oost. A3. De middelen bedoeld zijn voor wettelijke taken én daarbij is sprake van een aantoonbaar tekort aan bestaand budget in het betreffende jaar om deze wettelijke taken volledig te kunnen uitvoeren. 1 Op deze raadsinformatiebrief volgt geen a",
-    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:22:47.653Z",
+    "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied",
+    "itemId": "cf2f7289-e822-4187-b459-9069b1dcb9ad",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/e44deb13-3764-4b20-b7a9-900727754fcd",
+    "samenvatting": "Kennisgeving — Groenewoud, S. — Ter kennisname — gemeente Zaanstad wethouder S. Groenewoud Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 6 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Aanvraag windturbines Westelijk Havengebied Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname Geachte leden van de gemeenteraad, Zaanstad is door provincie Noord-Holland en Port of Amsterdam (PoA) geïnformeerd dat PoA een aanvraag heeft gedaan voor het ontwikkelen van 8 windturbines in het Westelijk Havengebied. De ontwikkeling van deze windturbines is onderdeel van het zoekgebied Haven 1A uit het Programma Wind Amsterdam. De aanvraag is onderdeel van de projectbesluitprocedure waarover de raad eerder is geïnformeerd in een kennisgeving op 3 november 2025. Er is nog niet besloten of er extra windturbines in het Westelijk Havengebied van Amsterdam komen. Wanneer de provincie een besluit neemt over de aanvraag zal het mogelijk zijn om te reageren via een zienswijze. Dit zal naar verwachting halverwege 2027 zijn. Omgevingsdienst Noordzeekanaalgebied zal de aanvraag beoordelen. Meer informatie over de aanvraag, het proces en locatie/zoekgebied kunt u lezen op de website van de provincie: Vergunningaanvragen voor 8 windturbines in havengebied Amsterdam. De gemeente heeft regelmatig contact met de provincie, gemeente Amsterdam en PoA over de ontwikkeling van windenergie in het Westelijk Havengebied. Wanneer er verdere stappen worden gezet in dit proces zal het college de raad daarover informeren. Met vriendelijke groet, S. Groenewoud, wethouder",
+    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:37:53.220Z",
     "documentInhoudOpgehaald": true,
-    "score": 19,
+    "score": 18,
     "scoreToelichting": [
-      "afwijking (+3)",
-      "voor het eerst (+2)",
+      "belang (+4)",
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 1.1 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaanstad) en een duidelijk belang omdat het gaat om rijksbekostiging en de gemeentebegroting voor 2026-2031. De tekst is echter een ambtelijke aankondiging van een raadsinformatiebrief waarvan de concrete financiële gevolgen nog niet uit het fragment blijken.",
-      "invalshoek": "Wat betekent de Septembercirculaire 2026 concreet voor de begroting en het geld dat de gemeente Zaanstad van het Rijk ontvangt?",
-      "teCheckenBronnen": [
-        "De volledige raadsinformatiebrief over de Septembercirculaire 2026",
-        "De bijbehorende bijlagen met gedetailleerde uitleg over de mutaties"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
-    "categorie": "lokaal",
-    "titel": "Inkoop specialistische jeugdhulp 2027",
-    "itemId": "ab5449f8-ce5c-473d-985a-25745d18efd1",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/0c06a5b5-5ff0-4908-8c05-cefd51385e97",
-    "samenvatting": "Raadsinformatiebrief — Doeves - de Boer, M.  — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10778691 1/2 Raadsinformatiebrief Onderwerp Inkoop specialistische jeugdhulp 2027 Portefeuillehouder M. Doeves-de Boer Portefeuille (specialistische) Jeugdhulp Aan de leden van de gemeenteraad Zaanstad, Inleiding In deze Raadsinformatiebrief willen we u informeren over de ‘Inkoop Specialistische Jeugdhulp 2027’ en in het bijzonder over de aanbesteding van de enkelvoudige specialistische jeugdhulp (segment B) omdat de uitkomst van de voorlopige gunning de gemeente ertoe heeft gebracht de aanbesteding voor segment B in te trekken. Zoals bij u bekend, lopen de huidige contracten voor de uitvoering van de (hoog)specialistische jeugdhulp per 31 december 2026 af. Om de continuïteit van zorg te kunnen garanderen en een toereikend aanbod te realiseren is de Jeugdhulpregio Zaanstreek- Waterland gestart om tot nieuwe contracten te komen. Hiervoor heeft u de Inkoopstrategie op 1 juli 2025 vastgesteld en vervolgens bent u in november 2026 geïnformeerd over de Inkoopdocumenten via Raadsinformatiebrief Inkoopdocumenten Specialistische Jeugdhulp 2027 9698588. Inmiddels is de aanbesteding voor hoogspecialistische jeugdhulp (segment C) en verblijf (segment V) succesvol afgerond. In segment C gaat het om meervoudige problematiek waarvoor de inzet van meerdere specialistische hulpverleners nodig is. In segment V gaat het bijvoorbeeld over pleegzorg, gezinshuizen, leefgroepen met en zonder behandeling en crisisopvang. Dat is het hart van de totale inkoop met een jaarlijkse regionale waarde van ongeveer 90 miljoen. Met het selecteren van tien kernpartners in segment C voor een periode van acht jaar is een belangrijk doel van hervorming van het landschap van specialistische jeugdhulp uit de Inkoopstrategie bereikt. Daarnaast loopt de huidige aanbesteding voor enkelvoudige specialistische jeugdhulp (segment B). Binnen het huidige segment B worden diverse vormen van hulp geboden. Het gaat om allerhande vormen van begeleiding, coaching, training en de basis-ggz. Op 7 oktober jongstleden zijn voor de aanbesteding van segment B de voorlopige gunningen uitgegaan. De uitkomst van de voorlopige gunning heeft de gemeente in overeenstemming met de Jeugdregio ertoe gebracht de aanbesteding voor segment B in te trekken. Toelichting Zoals bekend is voor het segment B in de vastgestelde Inkoopstrategie gekozen voor het zogenaamde Blokkenmodel, om daarmee voor dit segment niet opnieuw via een Open house een zeer groot aantal aanbieders te contracteren, met alle bijbehorende nadelen van dien. In het Blokkenmodel worden op basis van capaciteit drie blokken onderscheiden. Aanbieders konden zich inschrijven op basis van capaciteit, die ondersteund moest worden door een referentie. Vulling van de blokken en daarmee de vertaling naar de voorlopige gunning is een technische operatie. Uitkomst van deze operatie is dat van de 102 ingeschreven aanbieders er 32 een voorlopige gunning hebben ontvangen en de rest (70) een afwijzing. Er zijn ongeveer 60 ",
-    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:22:47.652Z",
-    "documentInhoudOpgehaald": true,
-    "score": 16,
-    "scoreToelichting": [
-      "voor het eerst (+2)",
-      "primeur/eerstehands bron (+3)",
-      "nabijheid (+4)",
-      "recency (+7, 1.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Dit raadsbericht scoort hoog op nabijheid (Zaanstreek-Waterland), belang (intrekking aanbesteding jeugdhulp van 90 miljoen en impact op 70 afgewezen aanbieders) en omvang. Het draagt bij aan het inzicht in de gevolgen voor het dagelijks leven en de lokale jeugdzorg.",
-      "invalshoek": "Gemeente Zaanstad trekt aanbesteding voor enkelvoudige jeugdhulp (segment B) in na voorlopige gunning, waardoor 70 van de 102 aanbieders zijn afgewezen.",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Jeugdregio Zaanstreek-Waterland"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
-    "categorie": "lokaal",
-    "titel": "Vervoerplan 2027 EBS",
-    "itemId": "6a0a668f-6a1e-4b28-b246-3696c66b8e02",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a56f9c9b-4b53-4758-848c-96d1a30c7220",
-    "samenvatting": "Raadsinformatiebrief — Doeves - de Boer, M.  — Actieve informatievoorziening — MOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10755799 1/7 Raadsinformatiebrief 1 Onderwerp Vervoerplan 2027 EBS Portefeuillehouder M. Doeves - de Boer Portefeuille Mobiliteit en parkeren (incl. havens en vaarwegen) Aan de leden van de gemeenteraad Zaanstad, Inleiding Ieder jaar stelt busvervoerder EBS, in opdracht van de Vervoerregio Amsterdam, een vervoerplan op. Hierin worden voorstellen gedaan voor aanpassingen in de busroutes en dienstregeling, met als doel het openbaar vervoer beter te laten aansluiten op de behoeften van reizigers en ontwikkelingen in de regio. De Vervoerregio Amsterdam is verantwoordelijk voor het openbaar vervoer en stelt het vervoerplan vast. De vervoerder is verantwoordelijk voor de uitvoering en verzorgt de communicatie richting reizigers over wijzigingen in de dienstregeling. Op 13 december 2026 gaat de nieuwe dienstregeling van EBS in. In het Vervoerplan 2027 zijn verschillende wijzigingen opgenomen in de busroutes binnen Zaanstad. Het vervoerplan is op 1 juli 2026 vastgesteld door het dagelijks bestuur van de Vervoerregio Amsterdam. Omdat er dit jaar veel wijzigingen plaatsvinden in de busdienstregeling binnen Zaanstad, vindt het college het belangrijk om de gemeenteraad hierover te informeren en de communicatie met EBS goed af te stemmen, zodat inwoners en reizigers goed worden geïnformeerd. Met deze brief informeren wij u over de belangrijkste wijzigingen, de gevolgen voor reizigers, de communicatie richting inwoners. Het college is positief over de aanpassingen in het vervoerplan. Op verschillende locaties wordt de bereikbaarheid verbeterd, onder andere door nieuwe woongebieden beter te ontsluiten en reistijden te verkorten. Daarnaast dragen enkele routewijzigingen bij aan het verminderen van busverkeer op locaties waar de leefbaarheid en verkeersveiligheid onder druk staan. Tegelijkertijd realiseren wij ons dat sommige wijzigingen voor reizigers gevolgen hebben, bijvoorbeeld als een bus een andere route rijdt of een halte op een andere plek komt te liggen. Dit kan voor reizigers wennen zijn. Toelichting Een aantrekkelijker centrum door aanpassingen in de busroutes van lijnen 394, 65 en 64 R-netlijn 394 gaat niet langer via de Peperstraat en Vinkenstraat rijden, maar via het Zaans Medisch Centrum en de Vincent van Goghweg. Deze wijziging sluit aan bij de herinrichting van het centrum van Zaandam. Hieraan wordt meer ruimte geboden aan verblijf, lopen en fietsen. Minder busverkeer draagt bij aan een aantrekkelijker centrum en verbetert de verkeersveiligheid, met name voor fietsers door de Peperstraat en Vinkenstraat. Doordat buslijn 394 niet meer door het centrum rijdt, daalt het aantal bussen in de Peperstraat van circa 432 naar 326 per dag (-25%). In de Vinkenstraat gaat het om een afname van circa 496 naar 390 bussen per dag (-21%). Het centrum blijft goed bereikbaar met het openbaar vervoer via buslijnen 64, 65 en 69. Daarnaast wordt lijn 64 aangepast en rijdt deze na het centrum via Hoornseveld richting het Zaan",
-    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:22:47.653Z",
-    "documentInhoudOpgehaald": true,
-    "score": 16,
-    "scoreToelichting": [
-      "voor het eerst (+2)",
-      "primeur/eerstehands bron (+3)",
-      "nabijheid (+4)",
-      "recency (+7, 1.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht heeft grote nabijheid en een hoog belang omdat het concrete wijzigingen in busroutes (zoals lijn 394) en dienstregelingen in Zaanstad behandelt die inwoners direct raken. Dit draagt direct bij aan betere inzichten in de eigen omgeving en concrete gevolgen voor het dagelijks leven.",
-      "invalshoek": "Buslijn 394 rijdt vanaf december 2026 niet meer door de Peperstraat en Vinkenstraat in Zaandam, wat zorgt voor minder busverkeer maar nieuwe routes voor reizigers.",
-      "teCheckenBronnen": [
-        "Vervoerregio Amsterdam",
-        "Busvervoerder EBS"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Vergunningaanvragen voor 8 windturbines in havengebied Amsterdam",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Vergunningaanvragen_voor_8_windturbines_in_havengebied_Amsterdam",
-    "samenvatting": "Port of Amsterdam (het Havenbedrijf Amsterdam) heeft bij de provincie Noord-Holland vergunningaanvragen ingediend voor 8 windturbines in het havengebied van Amsterdam. De aanvraag past binnen de zoekgebieden die zijn opgenomen in de Regionale Energiestrategie Noord-Holland-Zuid en binnen het programma Windenergie Amsterdam 2030. Daarin is het havengebied als windzoekgebied vastgesteld. De gemeente Amsterdam en de provincie werken daarmee samen aan de grootschalige opwek van duurzame elektriciteit met windenergie.",
-    "gepubliceerdOp": "2026-11-05T14:26:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:19.036Z",
-    "score": 14,
-    "scoreToelichting": [
-      "belang (+4)",
-      "primeur/eerstehands bron (+3)",
-      "recency (+7, 0.5 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "ja",
-      "onderbouwing": "Het bericht heeft grote nabijheid omdat het havengebied direct grenst aan Zaanstreek-Waterland en windturbines daarvan impact hebben op het omringende landschap en geluid. Het scoort hoog op belang en omvang vanwege de grootschalige energieopwekking en de officiële vergunningaanvragen bij de provincie. Dit draagt direct bij aan concrete gevolgen voor het dagelijks leven en inzicht in de eigen leefomgeving.",
-      "invalshoek": "Wat gaan inwoners van Zaanstreek-Waterland merken van de komst van acht nieuwe windturbines in het nabijgelegen Amsterdamse havengebied?",
+      "onderbouwing": "Het bericht scoort sterk op nabijheid doordat het het Westelijk Havengebied betreft en raakt inwoners door mogelijke windturbines (belang), maar er is nu nog geen sprake van een concreet besluit of directe gevolgen omdat de procedure pas halverwege 2027 tot een zienswijze leidt (actualiteit).",
+      "invalshoek": "Port of Amsterdam vraagt vergunning aan voor acht windturbines in het Westelijk Havengebied, waar inwoners halverwege 2027 op kunnen reageren.",
       "teCheckenBronnen": [
         "Provincie Noord-Holland",
-        "Port of Amsterdam",
-        "Gemeente Zaanstad"
+        "Port of Amsterdam"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
     "categorie": "lokaal",
-    "titel": "Oog voor verbinding tijdens ambtsbezoek aan gemeente Zaanstad",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Oog_voor_verbinding_tijdens_ambtsbezoek_aan_gemeente_Zaanstad",
-    "samenvatting": "Commissaris van de Koning Arthur van Dijk bracht op 4 november een ambtsbezoek aan de gemeente Zaanstad. Burgemeester Jan Hamming ontving hem in het Dorpshuis De Horn in Krommeniedijk. Het centrale thema van de gesprekken was verbinding; binnen het gemeentebestuur, tussen de stad en de dorpen én met de inwoners en organisaties in de wijk.",
-    "gepubliceerdOp": "2026-11-05T08:59:23.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:19.036Z",
+    "titel": "Is winteropvang in uw gemeente voor iedereen beschikbaar?",
+    "itemId": "4c6e64fd-90c1-46e4-9326-b2586a28b90f",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/259d3ea7-e21f-4310-994f-c4d396f3d5d0",
+    "samenvatting": "Onderwerp: Is winteropvang in uw gemeente voor iedereen beschikbaar? Datum: Utrecht, 28 oktober 2026 Geachte leden van de gemeenteraad in Zaanstad, Bescherming tegen winterkou hangt nu af van de gemeente waarin iemand verblijft. Niemand zou deze winter buiten hoeven slapen. Met ons rapport In de kou gelaten? (winter 2025/2026) wilden we een landelijk beeld geven van over de toegang tot de winterkouderegeling (WKR). 42 centrumgemeenten, de VNG, 40 zorgprofessionals, en 70 dakloze mensen die gebruik maakten van de WKR werkten mee om een landelijk beeld van de winterkouderegeling te krijgen. Op basis van het onderzoek concluderen we dat elke centrumgemeente de winterkoude opvang anders regelt qua duur, aanbod, toegankelijkheid en hulp. De VNG handreiking bevat goede uitgangspunten voor een winterkoude regeling, maar wordt niet overal gevolgd. De verschillen tussen gemeenten zijn groot en dit leidt tot ernstige gezondheidsrisico's voor buitenslapers. Per 1 november 2026 starten centrumgemeenten weer de winterkouderegeling. Hoe zit dat in uw gemeente? Bent u goed voorbereid? Wordt voorkomen dat mensen in de kou op straat slapen? Registreert en rapporteert uw gemeente hoeveel mensen overlijden aan de gevolgen van kou? 1. Is de winterkouderegeling als humanitair vangnet toegankelijk voor iedereen die buiten slaapt, zonder regiobinding, eigen bijdrage of uitsluiting op grond van verblijfsstatus? 2. Op welke wijze worden inwoners, maatschappelijke organisaties, hulpverleners en mensen die dakloos zijn geïnformeerd over de regeling? 3. Zijn er afspraken gemaakt met omliggende gemeenten of opvangorganisaties over bereikbaarheid en capaciteit? 4. Bent u als gemeente extra alert op de veiligheid van dakloze vrouwen en zorgt u voor veilige opvang? Wij verzoeken u deze brief als ingekomen stuk te agenderen en het college zo snel mogelijk schriftelijk te laten aangeven hoe de winteropvang in uw centrumgemeente is geregeld. Bespreek de antwoorden in de raad en zorg dat niemand tijdens de winterperiode wegens capaciteitsproblemen, herkomst of verblijfsstatus buiten hoeft te slapen. Met vriendelijke groeten, en Landelijk netwerk DAK en Pauluskerk Rotterdam (tevens onderzoekers van het rapport in de kou gelaten?) NB: Deze brief is niet ondertekend omdat deze landelijk wordt verstuurd naar alle centrumgemeenten. De ondertekenaars zijn per e-mail en telefoon benaderbaar voor vragen en opvolging.",
+    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:09.257Z",
+    "documentInhoudOpgehaald": true,
+    "score": 18,
+    "scoreToelichting": [
+      "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft nabijheid omdat het gericht is aan de gemeenteraad van Zaanstad en gaat over de winterkouderegeling per 1 november 2026. Het betreft echter een ingekomen landelijke brief van actiegroepen met oproepen tot vragen, waardoor het nog geen concreet lokaal besluit of maatregel van de gemeente Zaanstad zelf bevat. Het draagt wel bij aan beter inzicht in de eigen omgeving en concrete gevolgen voor daklozen als de regeling wordt getoetst.",
+      "invalshoek": "Vragen vanuit het Landelijk netwerk DAK en de Pauluskerk aan de gemeente Zaanstad over de toegankelijkheid van de winteropvang voor buitenslapers.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Landelijk netwerk DAK"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Mail 'brief aan de gemeenteraad, planten redden bij sloop in Zaanstad'",
+    "itemId": "5a9cd1eb-c56c-45d1-b189-0c4a82f27e16",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/108782da-fb3e-48e4-b351-69b8250a0ec8",
+    "samenvatting": "Van: @gmail.com> Verzonden: zondag 1 november 2026 10:11 Aan: Mailbox Raadsgriffie <raadsgriffie@zaanstad.nl> Onderwerp: Brief aan de gemeenteraad: planten redden bij sloop in Zaanstad Aan de griffie: wilt u deze brief doorsturen aan de leden van de gemeenteraad? Geachte leden van de gemeenteraad, Ik woon in Zaanstad en ik stuur u een idee dat ik graag in onze gemeente zou zien. Bij sloop en verbouwing gaan nu vaak struiken en bomen de container in, terwijl ze prima ergens anders kunnen groeien. Struikroven en Meer Bomen Nu redden die planten, en schreven samen een voorbeeldmotie voor circulair groenbeheer. Die vraagt het college te onderzoeken hoe gemeentegroen circulair beheerd kan worden, hoe dat onderdeel wordt van aanbestedingen, hoe plantmateriaal beschikbaar komt voor inwoners, en hoe de gemeente kan samenwerken met initiatieven zoals deze. In Amsterdam en Utrecht gingen raadsleden u al voor. De voorbeeldmotie vindt u hier: https://www.struikroven.nu/motie Zou u dit in de raad willen inbrengen? Met vriendelijke groet, U ontvangt niet vaak e-mail van @gmail.com. Ontdek waarom dit belangrijk is Waarschuwing!: Deze e-mail is afkomstig van buiten onze organisatie. Wees extra voorzichtig met linkjes en bijlagen. Zeker als je de afzender niet herkent.",
+    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:09.257Z",
+    "documentInhoudOpgehaald": true,
     "score": 14,
     "scoreToelichting": [
       "primeur/eerstehands bron (+3)",
       "nabijheid (+4)",
-      "recency (+7, 0.7 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht beschrijft een standaard ambtsbezoek van de Commissaris van de Koning met 'verbinding' als algemeen thema, wat weinig afwijkt van het alledaagse. Er worden geen concrete besluiten, maatregelen of gevolgen voor inwoners genoemd die het dagelijks leven raken. Het draagt daardoor onvoldoende bij aan de journalistieke criteria en maatschappelijke waarde.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Provincie Noord-Holland"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Volendamse avond",
-    "url": "https://waarheen.deorkaan.nl/agenda/volendamse-avond-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:31.628Z",
-    "score": 12,
-    "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Volendamse avond') zonder verdere details over inhoud, locatie binnen de regio, datum of betrokkenen. Hierdoor kan er niet worden voldaan aan de criteria voor nabijheid, belang of omvang.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "€11,5 miljoen extra voor agrarisch natuurbeheer: gerichte bescherming van Natura 2000-gebieden en de grutto",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/11_5_miljoen_extra_voor_agrarisch_natuurbeheer_gerichte_bescherming_van_Natura_2000_gebieden_en_de_grutto",
-    "samenvatting": "Het natuurbeheerplan 2027 is vastgesteld. Grondeigenaren en terreinbeheerders kunnen nu extra ANLb-subsidie aanvragen voor de ontwikkeling en het beheer van natuur op landbouwgrond.",
-    "gepubliceerdOp": "2026-11-05T12:00:28.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:19.036Z",
-    "score": 11,
-    "scoreToelichting": [
-      "belang (+4)",
-      "recency (+7, 0.6 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een groot financieel belang en betreft een concrete maatregel, maar de nabijheid tot Zaanstreek-Waterland is te algemeen doordat het om heel Provincie Noord-Holland gaat. Er wordt geen specifieke lokale impact voor Zaanstreek-Waterland genoemd. Het draagt wel bij aan inzicht in concrete gevolgen voor het dagelijks leven van agrariërs.",
-      "invalshoek": "Wat betekent de extra subsidie van 11,5 miljoen euro voor agrarisch natuurbeheer en de grutto concreet voor boeren in Zaanstreek-Waterland?",
+      "onderbouwing": "Het bericht speelt lokaal in Zaanstad (nabijheid) en betreft een concrete beleidsoptie voor circulair groenbeheer met mogelijke gevolgen voor inwoners (belang). Het is echter nog slechts een ingekomen brief van een bewoner aan de raad zonder toezegging of behandeling, waardoor de actualiteit en omvang beperkt zijn.",
+      "invalshoek": "Een inwoner roept de gemeente Zaanstad op om via een motie struiken en bomen te redden bij sloop, naar het voorbeeld van Amsterdam en Utrecht.",
       "teCheckenBronnen": [
-        "Provincie Noord-Holland (Natuurbeheerplan 2027)",
-        "Landelijke en lokale agrarische organisaties in Zaanstreek-Waterland"
+        "Gemeente Zaanstad (agendering ingekomen stukken)",
+        "Struikroven.nu"
       ]
     },
     "aiFout": null
@@ -225,23 +121,46 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Bevrijdingspop Haarlem kan in 2027 doorgaan dankzij steun provincie en gemeente",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Bevrijdingspop_Haarlem_kan_in_2027_doorgaan_dankzij_steun_provincie_en_gemeente",
-    "samenvatting": "Bevrijdingspop Haarlem gaat in 2027 door in een afgeslankte vorm. De provincie Noord-Holland en de gemeente Haarlem stellen allebei € 69.500 extra beschikbaar om het festival mogelijk te maken. In totaal komt de bijdrage van de provincie nu op €169.500. Daarnaast hebben gemeente en provincie uitgesproken Bevrijdingspop niet te laten vallen als zich onverhoopt tegenvallers voordoen. Er zijn afspraken gemaakt om ook in dat geval gezamenlijk naar een oplossing te zoeken. Voor Bevrijdingspop gaf dit voldoende zekerheid om de editie van 2027 verantwoord te organiseren.",
-    "gepubliceerdOp": "2026-11-05T10:48:06.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:19.036Z",
+    "titel": "9 overheidspartijen zetten volgende stap voor nieuwe doorfietsroutes",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/9_overheidspartijen_zetten_volgende_stap_voor_nieuwe_doorfietsroutes",
+    "samenvatting": "Op vrijdag 6 november ondertekenden de bestuurders van negen betrokken overheidspartijen een samenwerkingsovereenkomst in het gemeentehuis van Hillegom voor de aanleg van nieuwe doorfietsroutes tussen de noordelijke Duin- en Bollenstreek en Haarlemmermeer. In de overeenkomst staan afspraken over de verdere uitwerking van de routes en de samenwerking die hiervoor nodig is.",
+    "gepubliceerdOp": "2026-11-05T10:34:53.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:43.064Z",
+    "score": 11,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "recency (+6, 1.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist lokale nabijheid tot Zaanstreek-Waterland, aangezien het gaat om de Duin- en Bollenstreek en Haarlemmermeer. Daardoor raakt het de inwoners in ons werkgebied niet concreet en draagt het niet bij aan inzicht in de eigen omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Warmtekansen in de kassen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Warmtekansen_in_de_kassen",
+    "samenvatting": "Van 2 tot 8 november is het Klimaatweek. In deze landelijke actieweek staan duurzame keuzes en minder CO₂-uitstoot centraal. De provincie staat in deze week stil bij klimaatverandering en wat dit betekent voor Noord-Holland. Ze belicht 3 projecten die bijdragen aan een duurzaam Noord-Holland. In aflevering 3: verduurzaming in de glastuinbouw.",
+    "gepubliceerdOp": "2026-11-06T10:25:42.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:43.064Z",
     "score": 10,
     "scoreToelichting": [
-      "primeur/eerstehands bron (+3)",
+      "actualiteit (+3)",
       "recency (+7, 0.6 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht voldoet niet aan het criterium nabijheid, omdat het evenement en de besluitvorming plaatsvinden in Haarlem en niet in de regio Zaanstreek-Waterland. Ook de omvang en het belang hebben geen directe impact op inwoners van Zaanstreek-Waterland.",
+      "onderbouwing": "Het bericht behandelt een algemeen provinciaal project over glastuinbouw in het kader van de landelijke Klimaatweek, maar mist concrete nabijheid tot Zaanstreek-Waterland en directe gevolgen voor inwoners. Er is geen sprake van een specifieke lokale maatregel, bekende naam of unieke gebeurtenis.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Gemeente Haarlem",
-        "Organisatie Bevrijdingspop Haarlem"
+        "Provincie Noord-Holland",
+        "Lokale glastuinbouwbedrijven in Noord-Holland"
       ]
     },
     "aiFout": null
@@ -250,20 +169,45 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Alexander Broussard & Friends",
-    "url": "https://waarheen.deorkaan.nl/agenda/alexander-broussard-friends/",
+    "titel": "Speelgoedbeurs",
+    "url": "https://waarheen.deorkaan.nl/agenda/speelgoedbeurs-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:31.626Z",
+    "gepubliceerdOp": "2026-11-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:58.856Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een summiere agenda-uittreksel zonder inhoudelijke context, waardoor het scoort onvoldoende op nieuwswaarde, nabijheid en maatschappelijk belang. Er is geen sprake van concreet nieuws dat inwoners raakt of bijdraagt aan inzicht in de omgeving.",
+      "onderbouwing": "Het bericht bevat enkel de titel van een evenement zonder verdere details over locatie, datum of inhoud. Hierdoor ontbreekt feitelijke informatie om te beoordelen of het voldoet aan de criteria van nabijheid, belang en omvang.",
       "invalshoek": "",
       "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisatie van de speelgoedbeurs"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Indoor bierfestival bij Brouwerij Hoop",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaandijker-feest/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:58.857Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor actualiteit, omvang en belang niet te verifiëren zijn. Er is onvoldoende journalistieke informatie om te bepalen of dit bijdraagt aan de lezersbehoefte of nabijheid.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Brouwerij Hoop",
         "WaarheenAgenda"
       ]
     },
@@ -273,22 +217,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Timebox",
-    "url": "https://waarheen.deorkaan.nl/agenda/timebox/",
+    "titel": "Niet Schieten!",
+    "url": "https://waarheen.deorkaan.nl/agenda/niet-schieten/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:31.627Z",
+    "gepubliceerdOp": "2026-11-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:58.857Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel 'Timebox' zonder verdere inhoud, waardoor de criteria voor actualiteit, belang, omvang en nabijheid niet kunnen worden beoordeeld. Er is onvoldoende feitelijke informatie om te spreken van een nieuwswaardig onderwerp of om bij te dragen aan het begrip van de lezer.",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, nabijheid en belang niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om te beoordelen of dit bijdraagt aan een maatschappelijk probleem of het dagelijks leven.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator van Timebox"
+        "Organisator van de activiteit"
       ]
     },
     "aiFout": null
@@ -297,46 +241,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Janneke de Bijl",
-    "url": "https://waarheen.deorkaan.nl/agenda/janneke-de-bijl/",
+    "titel": "Saens Trio in de Kogerkerk",
+    "url": "https://waarheen.deorkaan.nl/agenda/saens-trio-in-de-kogerkerk/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:31.627Z",
+    "gepubliceerdOp": "2026-11-07T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:58.857Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over actualiteit, belang, omvang of nabijheid in Zaanstreek-Waterland. Hierdoor is er onvoldoende nieuwswaarde om te beoordelen of het bijdraagt aan de maatschappelijke criteria.",
+      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding over een concert van het Saens Trio in de Kogerkerk zonder inhoudelijke feiten of nieuwswaarde. Er is geen sprake van een maatschappelijk probleem, concreet belang voor inwoners of voldoende context voor een nieuwsartikel.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Theater De Theatrium / Podium"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Rundfunk",
-    "url": "https://waarheen.deorkaan.nl/agenda/rundfunk/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:31.627Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Rundfunk') en een lege samenvatting, waardoor er onvoldoende informatie is om de nieuwswaarde te beoordelen op basis van de criteria.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van Rundfunk"
+        "Organisatie Saens Trio",
+        "Kogerkerk"
       ]
     },
     "aiFout": null
@@ -345,22 +265,68 @@
     "bronId": "hhnk-nieuws",
     "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
     "categorie": "lokaal",
-    "titel": "Contract voor ruim 12.000 kunststof zonnepanelen",
-    "url": "https://www.hhnk.nl/contract-voor-ruim-12000-kunststof-zonnepanelen",
-    "samenvatting": "We hebben een overeenkomst met Sunergetic gesloten over de plaatsing van 12.234 kunststof zonnepanelen bij de rwzi Den Helder.",
-    "gepubliceerdOp": "2026-11-05T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-06T01:23:18.139Z",
+    "titel": "Doe mee aan het Waterportret van HHNK",
+    "url": "https://www.hhnk.nl/doe-mee-aan-het-waterportret-van-hhnk",
+    "samenvatting": "Voor de campagne 'Waterportret' zoeken we deelnemers die met foto's laten zien welke rol water speelt in hun dagelijks leven en leefomgeving.",
+    "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:42.302Z",
     "score": 7,
     "scoreToelichting": [
-      "recency (+7, 1.1 dag(en) oud)"
+      "recency (+7, 1.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht voldoet niet aan het criterium 'nabijheid', omdat het project plaatsvindt bij de rwzi in Den Helder en niet in Zaanstreek-Waterland. Wel is er sprake van een aanzienlijke omvang qua aantal zonnepanelen, maar de geografische locatie ligt buiten het werkgebied van de lokale journalist.",
+      "onderbouwing": "Het bericht mist nieuwswaarde omdat het een open oproep betreft zonder concrete impact, bekende lokale personen, of beleidswijzigingen. Er is geen sprake van een nieuwswaardige afwijking of een besluit dat inwoners direct raakt.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Hoogheemraadschap Hollands Noorderkwartier",
-        "Sunergetic"
+        "Hoogheemraadschap Hollands Noorderkwartier"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Gedeputeerde Staten stellen concept-Omgevingsvisie Noord-Holland vast",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Gedeputeerde_Staten_stellen_concept_Omgevingsvisie_Noord_Holland_vast",
+    "samenvatting": "Gedeputeerde Staten hebben de concept-Omgevingsvisie Noord-Holland vastgesteld.",
+    "gepubliceerdOp": "2026-11-06T10:28:53.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:43.064Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op Noord-Holland en raakt daarmee de nabijheid van Zaanstreek-Waterland, en het is zeer actueel. Het mist echter concrete details over de gevolgen voor inwoners en de specifieke impact op deze regio, waardoor het belang en de omvang nu nog te abstract zijn.",
+      "invalshoek": "Wat betekent de vastgestelde concept-Omgevingsvisie van de provincie concreet voor de fysieke leefomgeving in Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeenten in Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Provincie verwijdert zieke en dode bomen langs verschillende N-wegen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_verwijdert_zieke_en_dode_bomen_langs_verschillende_N_wegen",
+    "samenvatting": "Vanaf medio januari 2027 start de provincie Noord-Holland met het kappen van zieke en dode bomen langs provinciale wegen in Alkmaar en omgeving, West-Friesland en Zuid-Kennemerland. Het gaat om 137 bomen die dood, ziek of in slechte conditie zijn. Deze worden verwijderd wegens de verkeersveiligheid.",
+    "gepubliceerdOp": "2026-11-04T11:18:42.000Z",
+    "opgehaaldOp": "2026-11-07T00:38:43.064Z",
+    "score": 5,
+    "scoreToelichting": [
+      "recency (+5, 2.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist lokale nabijheid voor Zaanstreek-Waterland, aangezien de kapwerkzaamheden plaatsvinden in Alkmaar en omgeving, West-Friesland en Zuid-Kennemerland. Hierdoor worden inwoners uit Zaanstreek-Waterland hier niet concreet door geraakt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland"
       ]
     },
     "aiFout": null
