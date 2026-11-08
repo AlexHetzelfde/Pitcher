@@ -1,38 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-07T00:40:36.105Z",
-  "aantalBerichtenTotaal": 13,
-  "topPitches": [
-    {
-      "bronId": "ibabs-collegeberichten",
-      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
-      "categorie": "lokaal",
-      "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht",
-      "itemId": "04fb37aa-58f9-4edf-bc85-0a030f797047",
-      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/8b899045-41e2-48f7-b963-2762303ae520",
-      "samenvatting": "Kennisgeving — Hamming, J. — Ter kennisname — gemeente Zaanstad burgemeester drs. J. Hamming Kennisgeving Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 1500 GA Zaandam AAN Gemeenteraad DATUM 6 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Verlenging sluiting woning Zuiddijk 172 en cameratoezicht Ter informatie van de burgemeester aan de gemeenteraad Geachte leden van de gemeenteraad, Uw raad is eerder geïnformeerd over mijn besluit om, ter bescherming van de openbare orde en veiligheid, de woning aan de Zuiddijk 172 tijdelijk te sluiten en cameratoezicht in te stellen. Aanleiding hiervoor waren ernstige verstoringen van de openbare orde, waaronder het aantreffen van een zwaar explosief aan de voordeur van de woning en een daaropvolgende explosie die heeft geleid tot aanzienlijke schade en gevoelens van onrust en onveiligheid in de omgeving. Deze maatregelen zijn in oktober verlengd op basis van informatie van de politie waaruit bleek dat de dreiging ten aanzien van het pand nog niet was weggenomen. De huidige maatregelen lopen vandaag af. Op basis van de informatie die mij nu ter beschikking staat, heb ik vastgesteld dat nog steeds sprake is van een risico op nieuwe incidenten met mogelijke gevolgen voor de openbare orde en veiligheid in de directe omgeving. Om die reden heb ik besloten de sluiting van de woning en het cameratoezicht opnieuw te verlengen voor de duur van vier weken. Omwonenden worden over dit besluit geïnformeerd door middel van een bewonersbrief. Met deze verlenging wordt beoogd de rust in de omgeving te behouden, de veiligheid van omwonenden te beschermen en de kans op nieuwe verstoringen van de openbare orde te voorkomen. Met vriendelijke groet, drs. J. Hamming, burgemeester",
-      "gepubliceerdOp": "2026-11-06T00:00:00.000Z",
-      "opgehaaldOp": "2026-11-07T00:37:53.220Z",
-      "documentInhoudOpgehaald": true,
-      "score": 26,
-      "scoreToelichting": [
-        "actualiteit (+3)",
-        "afwijking (+3)",
-        "belang (+4)",
-        "voor het eerst (+2)",
-        "primeur/eerstehands bron (+3)",
-        "nabijheid (+4)",
-        "recency (+7, 1.0 dag(en) oud)"
-      ],
-      "aiBeoordeling": {
-        "oppakbaar": "ja",
-        "onderbouwing": "Het bericht heeft hoge nieuwswaarde vanwege nabijheid (Zuiddijk, Zaandam), belang (concreet gevolg voor de veiligheid van omwonenden door verlengd cameratoezicht) en omvang (ernstige verstoringen met explosieven). Het draagt direct bij aan inzicht in de eigen omgeving en de gevolgen voor het dagelijks leven van inwoners.",
-        "invalshoek": "Burgemeester Hamming verlengt de sluiting van de woning aan de Zuiddijk en het cameratoezicht met vier weken vanwege aanhoudende dreiging na eerdere explosies.",
-        "teCheckenBronnen": [
-          "Gemeente Zaanstad",
-          "Politie Eenheid Noord-Holland"
-        ]
-      },
-      "aiFout": null
-    }
-  ]
+  "gegenereerdOp": "2026-11-08T00:12:30.495Z",
+  "aantalBerichtenTotaal": 0,
+  "topPitches": []
 }
