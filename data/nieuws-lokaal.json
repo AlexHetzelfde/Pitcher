@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Vrijwillige Brandweer organiseert Sint Maarten",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-11-vrijwillige-brandweer-organiseert-sint-maarten/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.846Z",
+    "score": 10,
+    "scoreToelichting": [
+      "afwijking (+3)",
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een agenda-vermelding over een jaarlijks terugkerend evenement zonder maatschappelijk gewicht, beleidswijziging of grote impact. Het mist de criteria van afwijking, omvang en nieuws van morgen om journalistiek relevant te zijn.",
+      "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Tot Lering en Vermaak",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-tot-lering-en-vermaak/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-09T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.844Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist actualiteit, omvang en concrete gevolgen voor het dagelijks leven, aangezien het slechts een beknopte agenda-vermelding betreft voor een lezing zonder verdere inhoudelijke details. Het draagt niet bij aan een maatschappelijk probleem of inzicht in de omgeving. Daarom is het niet geschikt voor verdere journalistieke behandeling.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "A tot Z-debat over voedsel bij Stichting Babel",
+    "url": "https://waarheen.deorkaan.nl/agenda/a-tot-z-debat-over-voedsel-bij-stichting-babel/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-09T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.844Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een duidelijke nabijheid in Zaanstreek-Waterland en betreft een vooraankondiging van morgen, maar er ontbreken concrete details over de inhoud, sprekers en de omvang in de samenvatting. Hierdoor is het belang en de impact voor inwoners nu nog niet vast te stellen.",
+      "invalshoek": "Wat levert het 'A tot Z-debat' over voedsel bij Stichting Babel op voor inwoners van Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Stichting Babel",
+        "Organisatoren van het A tot Z-debat over voedsel"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "‘Papier’ op de Zaan",
+    "url": "https://waarheen.deorkaan.nl/agenda/papier-op-de-zaan/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-10T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.844Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere feiten over actualiteit, belang of inhoud, waardoor toetsing aan de criteria niet mogelijk is.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: Amsterdam en zijn vrijdenkers",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-10-lezing-amsterdam-en-zijn-vrijdenkers/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-10T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.845Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist actualiteit, een concrete lokale impact voor Zaanstreek-Waterland en afwijking van het alledaagse, aangezien het om een reguliere agenda-vermelding voor een lezing in Amsterdam gaat. De nabijheid ontbreekt omdat de activiteit niet in de regio plaatsvindt en inwoners worden er niet door geraakt in hun dagelijks leven.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Open repetitieavond Zaans Symfonie Orkest",
+    "url": "https://waarheen.deorkaan.nl/agenda/open-repetitieavond-zaans-symfonie-orkest/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-10T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.845Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist inhoudelijke context over het maatschappelijk belang of concrete gevolgen voor inwoners, aangezien het slechts een agenda-vermelding betreft zonder details over de impact, omvang of actualiteit anders dan een datum. Er is bovendien geen sprake van een nieuwswaardige afwijking of een besluit dat inwoners direct raakt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Zaans Symfonie Orkest"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Titanique",
+    "url": "https://waarheen.deorkaan.nl/agenda/titanique/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.845Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Titanique') zonder verdere context, datum, locatie of inhoud. Hierdoor kan niet worden vastgesteld of het lokaal relevant is of aan de criteria voldoet.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Titanique"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "De Belangelozen (try-out)",
+    "url": "https://waarheen.deorkaan.nl/agenda/de-belangelozen-try-out/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.846Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke feiten over een evenement, locatie of betrokken personen. Hierdoor ontbreken de criteria actualiteit, belang, omvang en nabijheid volledig.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Historische filmavond in Oost-Knollendam",
+    "url": "https://waarheen.deorkaan.nl/agenda/historische-filmavond-in-oost-knollendam/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.846Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist inhoudelijke informatie over de filmavond, zoals de inhoud van de film of de organisatoren, waardoor het belang en de impact niet te bepalen zijn. Het betreft slechts een agenda-vermelding zonder concrete feiten die bijdragen aan een maatschappelijk probleem of inzicht in de omgeving.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de filmavond in Oost-Knollendam"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Spektakel op de Zaan met RV Zaankanaries",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-11-spektakel-op-de-zaan-met-rv-zaankanaries/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-11T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.846Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere feitelijke inhoud over een actualiteit, afwijking, belang of omvang. Hierdoor kan niet worden beoordeeld of het bijdraagt aan de criteria voor nieuwswaarde of de drie maatschappelijke bijdragen.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "RV Zaankanaries",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Klaas van der Eerden",
+    "url": "https://waarheen.deorkaan.nl/agenda/klaas-van-der-eerden-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-12T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-09T00:33:50.846Z",
+    "score": 6,
+    "scoreToelichting": [
+      "recency (+6, evenement over 3.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen inhoudelijke informatie over een gebeurtenis, besluit of lokaal probleem. Hierdoor ontbreken de criteria actualiteit, belang en nabijheid om een redactionele afweging te maken.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  }
+]
