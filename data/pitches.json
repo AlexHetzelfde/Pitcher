@@ -1,5 +1,36 @@
 {
-  "gegenereerdOp": "2026-11-09T00:34:49.701Z",
-  "aantalBerichtenTotaal": 11,
-  "topPitches": []
+  "gegenereerdOp": "2026-11-10T03:14:48.349Z",
+  "aantalBerichtenTotaal": 18,
+  "topPitches": [
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Legetarieven kinderopvang 2027 aandacht voor gevolgen voor ouders en aanbod gastouderopvang",
+      "itemId": "6f6b3abd-538f-4e29-b4a5-403abbd1ee7a",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f8449605-650b-4a87-ab06-36799b78751a",
+      "samenvatting": "Stichting Nysa, Melis Stokelaan 27, 1948 DA Beverwijk Email info@stichtingnysa.nl KvK: 67074707 Aan: De leden van de gemeenteraad van Zaanstad, alle fracties Beverwijk, 5 november 2026 Betreft: Legestarieven kinderopvang 2027 – aandacht voor de gevolgen voor ouders en het aanbod van gastouderopvang Geachte leden van de gemeenteraad, Met belangstelling hebben wij kennisgenomen van de voorgestelde legestarieven voor 2027. Wij begrijpen dat de gemeente Zaanstad voor de uitvoering van haar wettelijke taken kosten maakt en zorgvuldig moet omgaan met publieke middelen. Tegelijkertijd willen wij u vanuit Stichting Nysa graag vragen om bij de beoordeling van de nieuwe tarieven nadrukkelijk stil te staan bij het maatschappelijke belang van kinderopvang en de mogelijke gevolgen voor ouders. Goede en toegankelijke kinderopvang is van grote waarde voor gezinnen én voor de samenleving. Kinderopvang biedt kinderen een veilige omgeving om zich te ontwikkelen en stelt ouders in staat om werk, opleiding en gezinsleven te combineren. Een voldoende en gevarieerd aanbod is daarbij essentieel. Uit de Was/Wordt-tabel bij de legesverordening 2027, hoofdstuk 3, artikel 3.8, blijkt dat de tarieven voor aanvragen tot registratie in het Landelijk Register Kinderopvang aanzienlijk worden verhoogd. Aanvraag Tarief 2026 Voorstel 2027 Stijging Start gastouderopvang of gastouderbureau € 285,25 € 1.216,25 326,4% Start kinderdagverblijf of buitenschoolse opvang € 570,60 € 2.667,35 367,5% Wij begrijpen dat de gemeente met deze aanpassing streeft naar een betere dekking van de kosten die samenhangen met de behandeling van registratieaanvragen. Tegelijkertijd gaat het om een ingrijpende verandering voor iedereen die nieuwe kinderopvang wil aanbieden. De verhoging raakt daarmee niet alleen ondernemers en gastouders. Zij kan ook directe en indirecte financiële gevolgen hebben voor ouders die op zoek zijn naar passende opvang voor hun kinderen. Ouders kiezen om uiteenlopende redenen voor gastouderopvang. Voor veel gezinnen is het geen uitwisselbaar alternatief voor een kinderdagverblijf, maar juist de opvangvorm die het beste aansluit bij hun persoonlijke omstandigheden. Gastouderopvang biedt kinderen een kleinschalige en vertrouwde omgeving, met een vast vertrouwd gezicht en een beperkt aantal andere kinderen. Voor jonge kinderen kan deze continuïteit belangrijk zijn. Ouders waarderen daarnaast het persoonlijke contact met de gastouder Stichting Nysa, Melis Stokelaan 27, 1948 DA Beverwijk Email info@stichtingnysa.nl KvK: 67074707 en de mogelijkheid om afspraken te maken die aansluiten bij het ritme en de behoeften van hun gezin. Bijzonder belangrijk is de flexibiliteit die gastouderopvang kan bieden. Denk aan ouders die werkzaam zijn in de zorg, horeca, logistiek, industrie of andere sectoren waarin diensten vroeg beginnen, laat eindigen of wisselen. Ook voor alleenstaande ouders, ouders met wisselende roosters en gezinnen die niet iedere week dezelfde opvangdagen nodig hebben, kan ga",
+      "gepubliceerdOp": "2026-11-09T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-10T03:10:41.540Z",
+      "documentInhoudOpgehaald": true,
+      "score": 20,
+      "scoreToelichting": [
+        "belang (+4)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.1 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft een hoge actualiteit (besluit over legestarieven 2027), een sterke nabijheid (gemeente Zaanstad) en een grote afwijking en omvang door de voorgestelde tariefstijgingen van ruim 300% voor kinderopvang. Dit draagt direct bij aan beter inzicht in de eigen omgeving en concrete gevolgen voor het dagelijks leven van inwoners en ondernemers.",
+        "invalshoek": "Stichting Nysa waarschuwt de Zaanse gemeenteraad dat de voorgestelde tariefstijgingen voor registratie in het Landelijk Register Kinderopvang tot wel 367 procent in 2027 de toegankelijkheid van gastouderopvang en kinderdagverblijven onder druk zetten.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad (Was/Wordt-tabel legesverordening 2027, hoofdstuk 3, artikel 3.8)",
+          "Stichting Nysa"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }
