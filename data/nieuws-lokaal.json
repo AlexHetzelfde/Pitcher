@@ -3,212 +3,23 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Brandweer Oostzaan viert 100-jarig jubileum",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-14-brandweer-oostzaan-viert-100-jarig-jubileum/",
+    "titel": "Nieuwe Huys Concerten: Koopman/Su",
+    "url": "https://waarheen.deorkaan.nl/agenda/nieuwe-huys-concerten-koopman-su/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.272Z",
-    "score": 15,
-    "scoreToelichting": [
-      "afwijking (+3)",
-      "nabijheid (+4)",
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een duidelijke lokale nabijheid in Zaanstreek-Waterland en een hoge omvang/belang door het 100-jarig jubileum, maar mist inhoudelijke actualiteit en details in de samenvatting om direct als hard nieuws te dienen. Het draagt wel bij aan inzicht in de eigen omgeving. Zonder extra informatie over het programma of de viering is het nu vooral een agenda-item.",
-      "invalshoek": "Brandweer Oostzaan viert een eeuw aan inzet voor de lokale gemeenschap met een jubileum.",
-      "teCheckenBronnen": [
-        "Brandweer Oostzaan",
-        "Gemeente Oostzaan"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Meertje van Vogelenzang feestelijk geopend na natuurherstel",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Meertje_van_Vogelenzang_feestelijk_geopend_na_natuurherstel",
-    "samenvatting": "Vrijdag 13 november is het Meertje van Vogelenzang in de binnenduinrand van Bakkum-Noord feestelijk geopend.",
-    "gepubliceerdOp": "2026-11-13T12:28:17.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:12.344Z",
-    "score": 9,
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "score": 10,
     "scoreToelichting": [
       "voor het eerst (+2)",
-      "recency (+7, 0.5 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist de criteria voor lokaal journalistiek gewicht in Zaanstreek-Waterland, aangezien Bakkum-Noord in de gemeente Castricum ligt en niet binnen de regio Zaanstreek-Waterland valt. Daarnaast is de opening na natuurherstel een louter positief evenement zonder direct concreet gevolg, maatschappelijk probleem of beleidsbesluit dat inwoners raakt. Er is geen sprake van een afwijking van het alledaagse of betrokkenheid van bekende lokale namen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Provincie Noord-Holland",
-        "Gemeente Castricum"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "William Janz - A Tribute to Julio Iglesias",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-14-william-janz-a-tribute-to-julio-iglesias/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.269Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht is een blote agenda-vermelding zonder toelichting over een optreden, waardoor de criteria voor actualiteit, belang en impact niet worden ingevuld. Het draagt niet bij aan een maatschappelijk probleem, heeft geen concrete gevolgen voor het dagelijks leven en biedt geen inzicht in de omgeving.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Zaan-Gezichten",
-    "url": "https://waarheen.deorkaan.nl/agenda/zaan-gezichten/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.269Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een kale titel ('Zaan-Gezichten') zonder inhoud, samenvatting of feiten. Hierdoor kan er niet worden getoetst op nieuwswaarde, nabijheid of concrete gevolgen voor inwoners.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "2e Vijfhoekparkloop 2026",
-    "url": "https://waarheen.deorkaan.nl/agenda/2e-vijfhoekparkloop-2026/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.270Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge nabijheid in Zaanstreek-Waterland en is een vooraankondiging (nieuws van morgen), maar de feitelijke informatie in het bronbericht is te summier om te spreken van een grote omvang of concreet maatschappelijk belang.",
-      "invalshoek": "Wat kunnen hardlopers verwachten van de tweede editie van de Vijfhoekparkloop in 2026?",
-      "teCheckenBronnen": [
-        "Organisatie Vijfhoekparkloop",
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Comedy Tunes",
-    "url": "https://waarheen.deorkaan.nl/agenda/comedy-tunes-3/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.270Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een evenement zonder verdere inhoudelijke details zoals locatie, datum of organisator, waardoor criteria als belang, omvang en nabijheid niet te verifiëren zijn. Er is geen sprake van een maatschappelijk probleem of concreet gevolg voor het dagelijks leven.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Ruben Hoeke band & gitaartalenten",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-14-ruben-hoeke-band-gitaartalenten/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.270Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist een concrete inhoudelijke omschrijving en betreft een standaard agenda-vermelding zonder unieke nieuwswaarde, maatschappelijk belang of aanzienlijke omvang. Er is geen sprake van een besluit, maatregel of unieke gebeurtenis die inwoners direct raakt.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "The Young Analogues",
-    "url": "https://waarheen.deorkaan.nl/agenda/the-young-analogues/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.271Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een kale titel van een evenement zonder verdere inhoud, waardoor de nieuwswaarde niet te beoordelen is op basis van de criteria. Er is geen informatie over actualiteit, belang, omvang of concrete gevolgen voor inwoners.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Marjolijn van Kooten",
-    "url": "https://waarheen.deorkaan.nl/agenda/marjolijn-van-kooten/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.271Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een evenement zonder verdere inhoudelijke details, waardoor het niet voldoet aan de criteria actualiteit, belang en omvang. Er is onvoldoende feitelijke informatie om te beoordelen of het bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht bevat enkel een titel van een concert zonder verdere inhoud, waardoor de nieuwswaarde op basis van actualiteit, belang en omvang niet is vast te stellen. Er kan niet worden beoordeeld of het bijdraagt aan de criteria voor de lezer.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Locatie van optreden"
+        "Organisatie Nieuwe Huys Concerten"
       ]
     },
     "aiFout": null
@@ -217,18 +28,90 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Three Kings",
-    "url": "https://waarheen.deorkaan.nl/agenda/three-kings/",
+    "titel": "Het Zwanenkoor",
+    "url": "https://waarheen.deorkaan.nl/agenda/het-zwanenkoor/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.271Z",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Three Kings') en een agenda-URL zonder verdere feiten over actualiteit, belang of inhoud. Hierdoor is er onvoldoende nieuwswaarde en ontbreekt elk inzicht in de impact op inwoners.",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Het Zwanenkoor') zonder verdere inhoud, context of feiten. Hierdoor kan niet worden beoordeeld of het voldoet aan de nieuwswaarde-criteria zoals actualiteit, belang of nabijheid.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van Het Zwanenkoor"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Harvest Festival",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-15-harvest-festival/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere feiten over een 'Harvest Festival', waardoor criteria als actualiteit, nabijheid en belang niet te verifiëren zijn. Er is onvoldoende informatie om te bepalen of dit bijdraagt aan het dagelijks leven van inwoners of inzicht in de omgeving. Zonder inhoudelijke details kan er geen journalistiek artikel van worden gemaakt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Harvest Festival"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Najaarsconcert Harmonie & Opstap orkest",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-15-najaarsconcert-harmonie-opstap-orkest/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist actualiteit, afwijking van het alledaagse en een concreet belang voor inwoners, aangezien het slechts een agenda-aankondiging betreft voor een muziekconcert zonder verdere maatschappelijke impact.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organiserende muziekvereniging"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Recital met Vincent Kusters en Reinhild Mees",
+    "url": "https://waarheen.deorkaan.nl/agenda/recital-met-vincent-kusters-en-reinhild-mees/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.0 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht mist een concrete nieuwswaarde, omdat het slechts een agenda-vermelding betreft zonder toelichting over actualiteit, omvang of maatschappelijk belang. Er is bovendien geen sprake van een ingrijpende verandering of een besluit dat inwoners concreet raakt.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -240,45 +123,45 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Hemlab: Proefjes met Snoepjes! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-proefjes-met-snoepjes-7-14-jaar-5/",
+    "titel": "Alle kinderen stinken (6+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/alle-kinderen-stinken-6/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-14T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:23.272Z",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, een duidelijke afwijking van het alledaagse en heeft een te gering maatschappelijk belang voor inwoners van Zaanstreek-Waterland. Het betreft een standaard agenda-uittreksel voor een kinderactiviteit zonder omvangrijke impact.",
+      "onderbouwing": "Het bericht bevat enkel een titel van een voorstelling voor kinderen vanaf zes jaar zonder verdere inhoudelijke details of context. Hierdoor ontbreken de criteria actualiteit, belang, omvang en nabijheid om van nieuwswaarde te spreken.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Hemlab"
+        "theateragenda Zaanstreek-Waterland",
+        "organisator van de voorstelling"
       ]
     },
     "aiFout": null
   },
   {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Provincie minder goed bereikbaar via e-mail",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_minder_goed_bereikbaar_via_e_mail",
-    "samenvatting": "De provincie Noord-Holland is minder goed bereikbaar via e-mail door een wereldwijde storing bij Microsoft. Heeft u een vraag of bericht voor de provincie, dan kunt u ons op werkdagen telefonisch bereiken via 0800 - 020 0600 (gratis).",
-    "gepubliceerdOp": "2026-11-13T09:02:11.000Z",
-    "opgehaaldOp": "2026-11-14T01:18:12.344Z",
-    "score": 7,
+    "titel": "Eva Hoeke in gesprek met...",
+    "url": "https://waarheen.deorkaan.nl/agenda/eva-hoeke-in-gesprek-met-5/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-15T00:46:50.660Z",
+    "score": 8,
     "scoreToelichting": [
-      "recency (+7, 0.7 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht gaat over een tijdelijke, wereldwijde Microsoft-storing bij de provincie Noord-Holland en mist daardoor lokale urgentie en afwijking voor Zaanstreek-Waterland specifiek. Hoewel er nabijheid is en inwoners direct geraakt worden, betreft het een algemeen landelijk/regionaal storingsbericht dat weinig toevoegt aan maatschappelijk inzicht of de eigen omgeving.",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoudelijke informatie over een gebeurtenis, besluit of lokaal nieuwsfeit. Hierdoor kan op basis van de criteria (zoals belang en omvang) geen nieuwswaarde worden vastgesteld.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "Provincie Noord-Holland",
-        "Microsoft storingsdienst"
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
