@@ -1,25 +1,47 @@
 [
   {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
+    "bronId": "zaandijk-leeft",
+    "bronNaam": "zaandijk-leeft",
     "categorie": "lokaal",
-    "titel": "Nieuwe Huys Concerten: Koopman/Su",
-    "url": "https://waarheen.deorkaan.nl/agenda/nieuwe-huys-concerten-koopman-su/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
-    "score": 10,
+    "titel": "Hij Komt, Hij Komt…",
+    "url": "https://zaandijkleeft.nl/hij-komt-hij-komt-3/",
+    "samenvatting": "Zaterdag 21 november komt Sinterklaas met zijn Pieten om 17 uur naar Zaandijk!",
+    "gepubliceerdOp": "2026-11-15T07:59:41.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:34.475Z",
+    "score": 11,
     "scoreToelichting": [
-      "voor het eerst (+2)",
-      "recency (+8, 0.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, 0.7 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een concert zonder verdere inhoud, waardoor de nieuwswaarde op basis van actualiteit, belang en omvang niet is vast te stellen. Er kan niet worden beoordeeld of het bijdraagt aan de criteria voor de lezer.",
+      "onderbouwing": "Het bericht mist nieuwswaarde omdat de aankomst van Sinterklaas een jaarlijks terugkerend, alledaags evenement is zonder afwijking, beleidsmatige impact of maatschappelijk probleem. Het scoort enkel op nabijheid (Zaandijk) en actualiteit, wat onvoldoende is voor journalistieke opvolging.",
       "invalshoek": "",
+      "teCheckenBronnen": []
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Sinterklaashuis Krommenie (1)",
+    "url": "https://waarheen.deorkaan.nl/agenda/sinterklaashuis-krommenie-concept/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
+    "score": 11,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft betrekking op nabijheid in Krommenie en actuele festiviteiten rond Sinterklaas. Echter, de samenvatting bevat te weinig feitelijke details en context over de omvang of het concrete belang om direct een volwaardig artikel te schrijven.",
+      "invalshoek": "Wat houdt het Sinterklaashuis in Krommenie dit jaar in voor lokale kinderen?",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisatie Nieuwe Huys Concerten"
+        "Organisatie Sinterklaashuis Krommenie",
+        "Lokale agenda WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -28,22 +50,23 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Het Zwanenkoor",
-    "url": "https://waarheen.deorkaan.nl/agenda/het-zwanenkoor/",
+    "titel": "Alzheimer Café Zaanstad",
+    "url": "https://waarheen.deorkaan.nl/agenda/alzheimer-cafe-zaanstad-8/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
+    "score": 11,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, evenement over 2.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Het Zwanenkoor') zonder verdere inhoud, context of feiten. Hierdoor kan niet worden beoordeeld of het voldoet aan de nieuwswaarde-criteria zoals actualiteit, belang of nabijheid.",
+      "onderbouwing": "Het bericht bevat slechts een titel zonder verdere inhoud of context over een agenda-item. Hierdoor ontbreken concrete feiten over actualiteit, belang of omvang om er een journalistiek verhaal van te maken.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator van Het Zwanenkoor"
+        "Organisator Alzheimer Café Zaanstad"
       ]
     },
     "aiFout": null
@@ -52,22 +75,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Harvest Festival",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-15-harvest-festival/",
+    "titel": "Voor de Jeugd Dag",
+    "url": "https://waarheen.deorkaan.nl/agenda/voor-de-jeugd-dag/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "gepubliceerdOp": "2026-11-16T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere feiten over een 'Harvest Festival', waardoor criteria als actualiteit, nabijheid en belang niet te verifiëren zijn. Er is onvoldoende informatie om te bepalen of dit bijdraagt aan het dagelijks leven van inwoners of inzicht in de omgeving. Zonder inhoudelijke details kan er geen journalistiek artikel van worden gemaakt.",
+      "onderbouwing": "Het bericht bevat enkel de titel 'Voor de Jeugd Dag' zonder verdere inhoud, waardoor de criteria zoals actualiteit, belang, omvang en nabijheid niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om een journalistiek oordeel te vellen.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda",
-        "Organisator Harvest Festival"
+        "Organisatie van de Voor de Jeugd Dag"
       ]
     },
     "aiFout": null
@@ -76,22 +99,22 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Najaarsconcert Harmonie & Opstap orkest",
-    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-15-najaarsconcert-harmonie-opstap-orkest/",
+    "titel": "Open repetitieavond Popkoor Vocal Invention",
+    "url": "https://waarheen.deorkaan.nl/agenda/open-repetitieavond-popkoor-vocal-invention-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
+    "gepubliceerdOp": "2026-11-16T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
     "score": 8,
     "scoreToelichting": [
       "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, afwijking van het alledaagse en een concreet belang voor inwoners, aangezien het slechts een agenda-aankondiging betreft voor een muziekconcert zonder verdere maatschappelijke impact.",
+      "onderbouwing": "Het bericht mist actualiteit, afwijking en een groot maatschappelijk belang omdat het slechts een agendapunt betreft voor een open repetitieavond van een koor. Er zijn geen concrete gevolgen voor het dagelijks leven of bekende lokale namen bij betrokken die een redactioneel artikel rechtvaardigen.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organiserende muziekvereniging"
+        "Website Popkoor Vocal Invention",
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -100,18 +123,66 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Recital met Vincent Kusters en Reinhild Mees",
-    "url": "https://waarheen.deorkaan.nl/agenda/recital-met-vincent-kusters-en-reinhild-mees/",
+    "titel": "Julika Marijn",
+    "url": "https://waarheen.deorkaan.nl/agenda/julika-marijn/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 1.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist een concrete nieuwswaarde, omdat het slechts een agenda-vermelding betreft zonder toelichting over actualiteit, omvang of maatschappelijk belang. Er is bovendien geen sprake van een ingrijpende verandering of een besluit dat inwoners concreet raakt.",
+      "onderbouwing": "Het bericht bevat enkel een titel ('Julika Marijn') en een lege samenvatting, waardoor er geen feiten zijn om te beoordelen op nieuwswaarde, nabijheid of maatschappelijk belang. Door het ontbreken van inhoud kan er geen enkele journalistieke afweging worden gemaakt.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator van de agenda-activiteit"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Anna's huis: informatieavond passend afscheid",
+    "url": "https://waarheen.deorkaan.nl/agenda/annas-huis-informatieavond-passend-afscheid/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een duidelijke nabijheid in Zaanstreek-Waterland en betreft een actuele vooraankondiging van morgen, maar de summiere inhoud biedt te weinig informatie over de omvang en het belang om direct als hard nieuws te duiden.",
+      "invalshoek": "Wat houdt een 'passend afscheid' in bij Anna's huis en welke informatie krijgen bezoekers tijdens deze avond?",
+      "teCheckenBronnen": [
+        "Anna's huis",
+        "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Kelapa Muda: Kinderen van de Molukken",
+    "url": "https://waarheen.deorkaan.nl/agenda/kelapa-muda-kinderen-van-de-molukken/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 2.0 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, belang en nabijheid niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om te bepalen of dit nieuwswaardig is voor Zaanstreek-Waterland.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
@@ -123,22 +194,21 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Alle kinderen stinken (6+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/alle-kinderen-stinken-6/",
+    "titel": "Dag van de Mantelzorg",
+    "url": "https://waarheen.deorkaan.nl/agenda/dag-van-de-mantelzorg/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.659Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 2.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel van een voorstelling voor kinderen vanaf zes jaar zonder verdere inhoudelijke details of context. Hierdoor ontbreken de criteria actualiteit, belang, omvang en nabijheid om van nieuwswaarde te spreken.",
+      "onderbouwing": "Het bericht bevat enkel een titel en ontbeert specifieke feiten over actualiteit, locatie binnen Zaanstreek-Waterland en concrete gevolgen. Hierdoor kan het niet worden getoetst aan de journalistieke criteria.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "theateragenda Zaanstreek-Waterland",
-        "organisator van de voorstelling"
+        "WaarheenAgenda"
       ]
     },
     "aiFout": null
@@ -147,18 +217,18 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Eva Hoeke in gesprek met...",
-    "url": "https://waarheen.deorkaan.nl/agenda/eva-hoeke-in-gesprek-met-5/",
+    "titel": "Pokertoernooi in de Pelikaan",
+    "url": "https://waarheen.deorkaan.nl/agenda/pokertoernooi-in-de-pelikaan-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-15T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-15T00:46:50.660Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
+    "score": 6,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+6, evenement over 3.0 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoudelijke informatie over een gebeurtenis, besluit of lokaal nieuwsfeit. Hierdoor kan op basis van de criteria (zoals belang en omvang) geen nieuwswaarde worden vastgesteld.",
+      "onderbouwing": "Het bericht bevat enkel een titel en bronverwijzing zonder feitelijke inhoud over actualiteit, belang of omvang. Door het ontbreken van context kan niet worden vastgesteld of dit bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
