@@ -1,72 +1,72 @@
 [
   {
-    "bronId": "zaandijk-leeft",
-    "bronNaam": "zaandijk-leeft",
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Hij Komt, Hij Komt…",
-    "url": "https://zaandijkleeft.nl/hij-komt-hij-komt-3/",
-    "samenvatting": "Zaterdag 21 november komt Sinterklaas met zijn Pieten om 17 uur naar Zaandijk!",
-    "gepubliceerdOp": "2026-11-15T07:59:41.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:34.475Z",
-    "score": 11,
+    "titel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nieuwe_archeologische_kroniek_bundelt_kennis_uit_de_bodem",
+    "samenvatting": "De nieuwe archeologische kroniek van Noord-Holland is nu in te zien. De kroniek is een bundeling van verhalen en foto’s van archeologische vondsten en onderzoeken die in 2025 in de provincie zijn gedaan. De provincie brengt de kroniek jaarlijks uit.",
+    "gepubliceerdOp": "2026-11-16T16:16:53.000Z",
+    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
+    "score": 9,
     "scoreToelichting": [
-      "nabijheid (+4)",
+      "voor het eerst (+2)",
+      "recency (+7, 0.5 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft nabijheid (Noord-Holland) en actualiteit (nu in te zien), maar het is een jaarlijkse publicatie zonder directe afwijking, groot belang of concrete impact op het dagelijks leven van inwoners in Zaanstreek-Waterland.",
+      "invalshoek": "Wat onthult de nieuwe archeologische provinciale kroniek over de bodemvondsten in Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Provincie Noord-Holland",
+        "Gemeentelijk archeoloog Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Noord-Holland legt spelregels voor meedenken vast",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_legt_spelregels_voor_meedenken_vast",
+    "samenvatting": "Provinciale Staten van Noord-Holland hebben de Participatieverordening Noord-Holland 2026 vastgesteld.",
+    "gepubliceerdOp": "2026-11-16T14:19:43.000Z",
+    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.5 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge actualiteit en nabijheid omdat het de provincie betreft, maar het blijft erg summier over de concrete gevolgen voor inwoners van Zaanstreek-Waterland. Er is sprake van een nieuw besluit (belang), maar de precieze impact op het dagelijks leven ontbreekt in deze aankondiging.",
+      "invalshoek": "Wat betekent de nieuwe Participatieverordening van de provincie concreet voor inspraak door inwoners in Zaanstreek-Waterland?",
+      "teCheckenBronnen": [
+        "Participatieverordening Noord-Holland 2026",
+        "Provinciale Staten Noord-Holland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Bewonersavond_over_N206_tussen_Vogelenzang_en_Aerdenhout",
+    "samenvatting": "Op dinsdag 24 november organiseert de provincie Noord-Holland een bewonersavond over de Vogelenzangseweg (N206). De bijeenkomst is van 19.00 tot 21.00 uur in Dorpshuis Vogelenzang.",
+    "gepubliceerdOp": "2026-11-16T10:43:36.000Z",
+    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
+    "score": 7,
+    "scoreToelichting": [
       "recency (+7, 0.7 dag(en) oud)"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist nieuwswaarde omdat de aankomst van Sinterklaas een jaarlijks terugkerend, alledaags evenement is zonder afwijking, beleidsmatige impact of maatschappelijk probleem. Het scoort enkel op nabijheid (Zaandijk) en actualiteit, wat onvoldoende is voor journalistieke opvolging.",
-      "invalshoek": "",
-      "teCheckenBronnen": []
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Sinterklaashuis Krommenie (1)",
-    "url": "https://waarheen.deorkaan.nl/agenda/sinterklaashuis-krommenie-concept/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
-    "score": 11,
-    "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft betrekking op nabijheid in Krommenie en actuele festiviteiten rond Sinterklaas. Echter, de samenvatting bevat te weinig feitelijke details en context over de omvang of het concrete belang om direct een volwaardig artikel te schrijven.",
-      "invalshoek": "Wat houdt het Sinterklaashuis in Krommenie dit jaar in voor lokale kinderen?",
-      "teCheckenBronnen": [
-        "Organisatie Sinterklaashuis Krommenie",
-        "Lokale agenda WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Alzheimer Café Zaanstad",
-    "url": "https://waarheen.deorkaan.nl/agenda/alzheimer-cafe-zaanstad-8/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
-    "score": 11,
-    "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat slechts een titel zonder verdere inhoud of context over een agenda-item. Hierdoor ontbreken concrete feiten over actualiteit, belang of omvang om er een journalistiek verhaal van te maken.",
+      "onderbouwing": "Het bericht mist de criteria voor nabijheid, aangezien Vogelenzang en Aerdenhout in de gemeente Bloemendaal liggen en niet in Zaanstreek-Waterland. Wel is er sprake van actualiteit en nieuws van morgen vanwege de aangekondigde bewonersavond, maar de geografische locatie past niet bij het werkgebied.",
       "invalshoek": "",
       "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator Alzheimer Café Zaanstad"
+        "Provincie Noord-Holland"
       ]
     },
     "aiFout": null
@@ -75,163 +75,69 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Voor de Jeugd Dag",
-    "url": "https://waarheen.deorkaan.nl/agenda/voor-de-jeugd-dag/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-16T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel 'Voor de Jeugd Dag' zonder verdere inhoud, waardoor de criteria zoals actualiteit, belang, omvang en nabijheid niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om een journalistiek oordeel te vellen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisatie van de Voor de Jeugd Dag"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Open repetitieavond Popkoor Vocal Invention",
-    "url": "https://waarheen.deorkaan.nl/agenda/open-repetitieavond-popkoor-vocal-invention-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-16T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, afwijking en een groot maatschappelijk belang omdat het slechts een agendapunt betreft voor een open repetitieavond van een koor. Er zijn geen concrete gevolgen voor het dagelijks leven of bekende lokale namen bij betrokken die een redactioneel artikel rechtvaardigen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Website Popkoor Vocal Invention",
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Julika Marijn",
-    "url": "https://waarheen.deorkaan.nl/agenda/julika-marijn/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel ('Julika Marijn') en een lege samenvatting, waardoor er geen feiten zijn om te beoordelen op nieuwswaarde, nabijheid of maatschappelijk belang. Door het ontbreken van inhoud kan er geen enkele journalistieke afweging worden gemaakt.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda",
-        "Organisator van de agenda-activiteit"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Anna's huis: informatieavond passend afscheid",
-    "url": "https://waarheen.deorkaan.nl/agenda/annas-huis-informatieavond-passend-afscheid/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een duidelijke nabijheid in Zaanstreek-Waterland en betreft een actuele vooraankondiging van morgen, maar de summiere inhoud biedt te weinig informatie over de omvang en het belang om direct als hard nieuws te duiden.",
-      "invalshoek": "Wat houdt een 'passend afscheid' in bij Anna's huis en welke informatie krijgen bezoekers tijdens deze avond?",
-      "teCheckenBronnen": [
-        "Anna's huis",
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Kelapa Muda: Kinderen van de Molukken",
-    "url": "https://waarheen.deorkaan.nl/agenda/kelapa-muda-kinderen-van-de-molukken/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.237Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en geen verdere inhoud, waardoor de criteria zoals actualiteit, belang en nabijheid niet te verifiëren zijn. Er is onvoldoende feitelijke informatie om te bepalen of dit nieuwswaardig is voor Zaanstreek-Waterland.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Dag van de Mantelzorg",
-    "url": "https://waarheen.deorkaan.nl/agenda/dag-van-de-mantelzorg/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-18T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 2.0 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en ontbeert specifieke feiten over actualiteit, locatie binnen Zaanstreek-Waterland en concrete gevolgen. Hierdoor kan het niet worden getoetst aan de journalistieke criteria.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Pokertoernooi in de Pelikaan",
-    "url": "https://waarheen.deorkaan.nl/agenda/pokertoernooi-in-de-pelikaan-2/",
+    "titel": "Alexander Broussard speelt Billy Joel",
+    "url": "https://waarheen.deorkaan.nl/agenda/alexander-broussard-speelt-billy-joel-4/",
     "samenvatting": "",
     "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-16T00:46:39.238Z",
-    "score": 6,
+    "opgehaaldOp": "2026-11-17T03:25:34.352Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+6, evenement over 3.0 dag(en))"
+      "recency (+7, evenement over 1.9 dag(en))"
     ],
     "aiBeoordeling": {
       "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel een titel en bronverwijzing zonder feitelijke inhoud over actualiteit, belang of omvang. Door het ontbreken van context kan niet worden vastgesteld of dit bijdraagt aan het dagelijks leven of inzicht in de omgeving.",
+      "onderbouwing": "Het bericht mist actualiteit, een concrete afwijking van het alledaagse en maatschappelijk belang, aangezien het enkel een culturele agenda-vermelding betreft zonder toelichting over impact, omvang of lokaal beleid. Er zijn geen concrete gevolgen voor het dagelijks leven of inzicht in maatschappelijke problemen, waardoor het niet voldoet aan de journalistieke criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Theateragenda Zaanstreek-Waterland",
+        "Organisator van het optreden"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Lezing: De levensloop van sterren",
+    "url": "https://waarheen.deorkaan.nl/agenda/lezing-de-levensloop-van-sterren/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-17T03:25:34.352Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de titel van een agenda-item over een lezing en mist verdere details over actualiteit, locatie of omvang. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria en draagt het niet bij aan de drie redactionele doelen.",
       "invalshoek": "",
       "teCheckenBronnen": [
         "WaarheenAgenda"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-12-09 Woensdag 9 december 2026 om 18:15 uur - Invordering dwangsom m.b.t. locatie Kopermolenstraat 44 te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366552",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-12-09T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-17T03:25:28.672Z",
+    "score": 4,
+    "scoreToelichting": [
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft hoge nabijheid (Zaandam) en actuele betekenis door een formele hoorzitting over een dwangsom. Het ontbreekt echter aan concrete details over de omvang van de dwangsom en de achterliggende overtreding, waardoor de impact op het dagelijks leven onduidelijk blijft.",
+      "invalshoek": "Gemeente Zaanstad houdt een hoorzitting over de invordering van een dwangsom aan de Kopermolenstraat in Zaandam.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Betrokken belanghebbende Kopermolenstraat 44"
       ]
     },
     "aiFout": null
