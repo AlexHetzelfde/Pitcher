@@ -1,5 +1,94 @@
 {
-  "gegenereerdOp": "2026-11-17T03:26:47.279Z",
-  "aantalBerichtenTotaal": 6,
-  "topPitches": []
+  "gegenereerdOp": "2026-11-18T02:46:27.084Z",
+  "aantalBerichtenTotaal": 9,
+  "topPitches": [
+    {
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+      "itemId": "c555d12f-8a71-4abd-8914-247947df558d",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+      "samenvatting": "Kennisgeving — Groenewoud, S. — Ter kennisname — gemeente Zaanstad wethouder S. Groenewoud Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 16 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Persbericht warmtenet Krommenie Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname Vooruitlopend op de besluitvorming door het college over de evaluatie van Aardgasvrij Krommenie informeer ik u hierbij over een persbericht dat vandaag wordt gepubliceerd. In het persbericht wordt toegelicht dat uit de evaluatie blijkt dat een grootschalig warmtenet voor Krommenie technisch kansrijk is, maar op dit moment financieel niet haalbaar. Daarom wordt deze optie voorlopig niet verder uitgewerkt. De betrokken partijen richten zich nu op andere oplossingen die beter aansluiten bij de huidige omstandigheden en het tempo van de warmtetransitie. Daarnaast worden inwoners uitgenodigd voor een bewonersbijeenkomst in het eerste kwartaal van 2027, waarin de uitkomsten van de evaluatie worden toegelicht. Na besluitvorming door het college ontvangt u hierover nadere informatie. Met vriendelijke groet, S. Groenewoud, wethouder",
+      "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-18T02:44:18.297Z",
+      "documentInhoudOpgehaald": true,
+      "score": 23,
+      "scoreToelichting": [
+        "actualiteit (+3)",
+        "belang (+4)",
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.1 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft grote nabijheid omdat het in Krommenie speelt en raakt het belang van inwoners doordat het warmtenet financieel niet haalbaar blijkt. Vanwege de omvang en de aankondiging van een bewonersbijeenkomst in 2027 levert dit direct inzicht op in de leefomgeving en concrete gevolgen voor het dagelijks leven.",
+        "invalshoek": "Grootschalig warmtenet voor Krommenie voorlopig van de baan vanwege financiële onhaalbaarheid, maar inwoners worden begin 2027 bijpraat over alternatieven.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad",
+          "Betrokken partijen bij het warmtenet Krommenie"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
+      "samenvatting": "De provincie werkt samen met de gemeentes Zaanstad en Oostzaan en de Vervoerregio Amsterdam om de doorstroom en de verkeersveiligheid op de Thorbeckeweg in Zaandam (N516) te verbeteren. De komende maanden wordt de aansluiting van de Thorbeckeweg met de Wibautstraat aangepakt. Daarom is het kruispunt Thorbeckeweg/Wibautstraat gesloten vanaf vrijdag 11 december 20:00 uur tot maandag 12 april 2027 05:00 uur.",
+      "gepubliceerdOp": "2026-11-17T15:43:55.000Z",
+      "opgehaaldOp": "2026-11-18T02:44:55.344Z",
+      "score": 18,
+      "scoreToelichting": [
+        "belang (+4)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 0.5 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht scoort hoog op nabijheid doordat het zich afspeelt in Zaandam en heeft directe gevolgen voor het dagelijks leven van inwoners vanwege de afsluiting van vier maanden. Dit raakt aan het criterium belang en de maatschappelijke criteria door concrete gevolgen voor het verkeer.",
+        "invalshoek": "Wat betekent de vier maanden durende afsluiting van het kruispunt Wibautstraat/Thorbeckeweg voor de bereikbaarheid en omleidingsroutes in Zaandam?",
+        "teCheckenBronnen": [
+          "Provincie Noord-Holland",
+          "Gemeente Zaanstad"
+        ]
+      },
+      "aiFout": null
+    },
+    {
+      "bronId": "ibabs-ingekomen-stukken",
+      "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+      "categorie": "lokaal",
+      "titel": "Verzoek om spreektijd en verspreiding stukken TAETS – Zaanstad Beraad 17 november, agendapunt 5",
+      "itemId": "bd14e025-fa07-440c-be30-1f2a3414aad5",
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/249a96a7-738c-4ec8-9b71-d4674ddb9e1c",
+      "samenvatting": "TAETSArt & Event ParkZaandam, 16 november 2026 Zaanstad Beraad 17 november – afspraken over de toekomst van TAETS op het Hembrugterrein Geachte burgemeester Hamming, Op dinsdag 17 november bespreekt het Zaanstad Beraad de toekomst van evenementen op de Hemkade en het Hembrugterrein. Die bespreking raakt rechtstreeks aan de toekomst van TAETS Art & Event Park. Omdat wij geen uitnodiging hebben ontvangen om onze positie toe te lichten, richten wij ons vooraf tot u. Wij vragen u bij de bespreking ook de betekenis van onze activiteiten voor Zaanstad te betrekken, evenals de afspraken die de gemeente, Hembrug Zaandam en TAETS hebben gemaakt over de voortzetting van onze bedrijfsvoering op het Hembrugterrein. Mijn inmiddels overleden vader Peter Tates heeft als een van de eerste ondernemers het Hembrugterrein nieuw leven ingeblazen. Inmiddels ontvangen wij er jaarlijks honderdduizenden bezoekers. Congressen, beurzen en zakelijke bijeenkomsten vormen de kern van ons werk. Daarnaast biedt TAETS ruimte aan kunst, cultuur en maatschappelijke initiatieven. Onze activiteiten zorgen voor veel werkgelegenheid op en rond het Hembrugterrein. Die betekenis voor Zaanstad verdient hopelijk een plaats in het debat, naast de aandacht voor de leefomgeving van huidige en toekomstige bewoners. Om de huidige ontwikkelingen mogelijk te maken, hebben wij destijds onze beroepen ingetrokken. Wij hebben dat gedaan op basis van de afspraken die wij op 23 april 2021 met de gemeente Zaanstad en Hembrug Zaandam hebben vastgelegd in het Akkoord op Hoofdlijnen. Voor onze medewerking was doorslaggevend dat TAETS haar bestaande bedrijfsvoering kon voortzetten, dat TAETS bereikbaar zou blijven voor bezoekers en leveranciers, dat het bestaande parkeerbeleid voor TAETS te allen tijde zou worden gecontinueerd en dat er op het terrein ruimte zou blijven voor evenementen. Ons is toegezegd dat er een locatieprofiel zou komen om de ruimte voor evenementen op het Hembrugterrein ook in de toekomst te waarborgen. Daarnaast heeft Hembrug Zaandam meermaals toegezegd een mobiliteitsplan te presenteren. In dat plan zou Hembrug Zaandam uitwerken hoe bij de inpassing van woningbouw en andere nieuwe functies het bestaande parkeerbeleid voor TAETS wordt gewaarborgd en hoe het terrein bereikbaar blijft voor de ondernemers die er al gevestigd zijn, hun bezoekers en hun leveranciers. De afspraak over de voortzetting van het parkeerbeleid was al ruim vóór het Akkoord op Hoofdlijnen met het Rijk gemaakt. Hembrug Zaandam kende die verplichting bij de aankoop van het terrein en heeft deze als koper moeten overnemen. Tot op heden hebben wij het toegezegde mobiliteitsplan niet ontvangen. TAETS is haar deel van de afspraken nagekomen. Wij hebben onze beroepen ingetrokken en onze bedrijfsvoering aangepast aan de afgesproken geluidscontour van 50 meter. Daardoor zijn sommige evenementen die voorheen bij ons dagelijks konden plaatsvinden, inmiddels niet meer mogelijk. Tegelijkertijd gaat de gebiedsontwikkeling door",
+      "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+      "opgehaaldOp": "2026-11-18T02:44:30.606Z",
+      "documentInhoudOpgehaald": true,
+      "score": 16,
+      "scoreToelichting": [
+        "voor het eerst (+2)",
+        "primeur/eerstehands bron (+3)",
+        "nabijheid (+4)",
+        "recency (+7, 1.1 dag(en) oud)"
+      ],
+      "aiBeoordeling": {
+        "oppakbaar": "ja",
+        "onderbouwing": "Het bericht heeft hoge actualiteit vanwege het naderende Zaanstad Beraad en een groot lokaal belang voor bewoners en ondernemers rond het Hembrugterrein. Door de directe nabijheid in Zaanstreek-Waterland en de concrete gevolgen voor de bedrijfsvoering van een bekende lokale speler voldoet het aan de journalistieke criteria.",
+        "invalshoek": "TAETS luidt de noodklok voorafgaand aan het Zaanstad Beraad omdat zij vrezen voor hun toekomst door uitgebleven afspraken over parkeren en bereikbaarheid op het Hembrugterrein.",
+        "teCheckenBronnen": [
+          "Gemeente Zaanstad (agenda Zaanstad Beraad 17 november)",
+          "Hembrug Zaandam",
+          "TAETS Art & Event Park"
+        ]
+      },
+      "aiFout": null
+    }
+  ]
 }

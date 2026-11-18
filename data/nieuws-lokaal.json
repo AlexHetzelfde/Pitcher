@@ -1,25 +1,31 @@
 [
   {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "bronId": "ibabs-collegeberichten",
+    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
     "categorie": "lokaal",
-    "titel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nieuwe_archeologische_kroniek_bundelt_kennis_uit_de_bodem",
-    "samenvatting": "De nieuwe archeologische kroniek van Noord-Holland is nu in te zien. De kroniek is een bundeling van verhalen en foto’s van archeologische vondsten en onderzoeken die in 2025 in de provincie zijn gedaan. De provincie brengt de kroniek jaarlijks uit.",
-    "gepubliceerdOp": "2026-11-16T16:16:53.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
-    "score": 9,
+    "titel": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+    "itemId": "c555d12f-8a71-4abd-8914-247947df558d",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+    "samenvatting": "Kennisgeving — Groenewoud, S. — Ter kennisname — gemeente Zaanstad wethouder S. Groenewoud Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 16 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Persbericht warmtenet Krommenie Ter informatie van college aan de gemeenteraad Hierbij ontvangt u • Ter kennisname Vooruitlopend op de besluitvorming door het college over de evaluatie van Aardgasvrij Krommenie informeer ik u hierbij over een persbericht dat vandaag wordt gepubliceerd. In het persbericht wordt toegelicht dat uit de evaluatie blijkt dat een grootschalig warmtenet voor Krommenie technisch kansrijk is, maar op dit moment financieel niet haalbaar. Daarom wordt deze optie voorlopig niet verder uitgewerkt. De betrokken partijen richten zich nu op andere oplossingen die beter aansluiten bij de huidige omstandigheden en het tempo van de warmtetransitie. Daarnaast worden inwoners uitgenodigd voor een bewonersbijeenkomst in het eerste kwartaal van 2027, waarin de uitkomsten van de evaluatie worden toegelicht. Na besluitvorming door het college ontvangt u hierover nadere informatie. Met vriendelijke groet, S. Groenewoud, wethouder",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:18.297Z",
+    "documentInhoudOpgehaald": true,
+    "score": 23,
     "scoreToelichting": [
+      "actualiteit (+3)",
+      "belang (+4)",
       "voor het eerst (+2)",
-      "recency (+7, 0.5 dag(en) oud)"
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft nabijheid (Noord-Holland) en actualiteit (nu in te zien), maar het is een jaarlijkse publicatie zonder directe afwijking, groot belang of concrete impact op het dagelijks leven van inwoners in Zaanstreek-Waterland.",
-      "invalshoek": "Wat onthult de nieuwe archeologische provinciale kroniek over de bodemvondsten in Zaanstreek-Waterland?",
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft grote nabijheid omdat het in Krommenie speelt en raakt het belang van inwoners doordat het warmtenet financieel niet haalbaar blijkt. Vanwege de omvang en de aankondiging van een bewonersbijeenkomst in 2027 levert dit direct inzicht op in de leefomgeving en concrete gevolgen voor het dagelijks leven.",
+      "invalshoek": "Grootschalig warmtenet voor Krommenie voorlopig van de baan vanwege financiële onhaalbaarheid, maar inwoners worden begin 2027 bijpraat over alternatieven.",
       "teCheckenBronnen": [
-        "Provincie Noord-Holland",
-        "Gemeentelijk archeoloog Zaanstreek-Waterland"
+        "Gemeente Zaanstad",
+        "Betrokken partijen bij het warmtenet Krommenie"
       ]
     },
     "aiFout": null
@@ -28,116 +34,206 @@
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Noord-Holland legt spelregels voor meedenken vast",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_legt_spelregels_voor_meedenken_vast",
-    "samenvatting": "Provinciale Staten van Noord-Holland hebben de Participatieverordening Noord-Holland 2026 vastgesteld.",
-    "gepubliceerdOp": "2026-11-16T14:19:43.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
-    "score": 7,
+    "titel": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
+    "samenvatting": "De provincie werkt samen met de gemeentes Zaanstad en Oostzaan en de Vervoerregio Amsterdam om de doorstroom en de verkeersveiligheid op de Thorbeckeweg in Zaandam (N516) te verbeteren. De komende maanden wordt de aansluiting van de Thorbeckeweg met de Wibautstraat aangepakt. Daarom is het kruispunt Thorbeckeweg/Wibautstraat gesloten vanaf vrijdag 11 december 20:00 uur tot maandag 12 april 2027 05:00 uur.",
+    "gepubliceerdOp": "2026-11-17T15:43:55.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:55.344Z",
+    "score": 18,
     "scoreToelichting": [
+      "belang (+4)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
       "recency (+7, 0.5 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft een hoge actualiteit en nabijheid omdat het de provincie betreft, maar het blijft erg summier over de concrete gevolgen voor inwoners van Zaanstreek-Waterland. Er is sprake van een nieuw besluit (belang), maar de precieze impact op het dagelijks leven ontbreekt in deze aankondiging.",
-      "invalshoek": "Wat betekent de nieuwe Participatieverordening van de provincie concreet voor inspraak door inwoners in Zaanstreek-Waterland?",
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht scoort hoog op nabijheid doordat het zich afspeelt in Zaandam en heeft directe gevolgen voor het dagelijks leven van inwoners vanwege de afsluiting van vier maanden. Dit raakt aan het criterium belang en de maatschappelijke criteria door concrete gevolgen voor het verkeer.",
+      "invalshoek": "Wat betekent de vier maanden durende afsluiting van het kruispunt Wibautstraat/Thorbeckeweg voor de bereikbaarheid en omleidingsroutes in Zaandam?",
       "teCheckenBronnen": [
-        "Participatieverordening Noord-Holland 2026",
+        "Provincie Noord-Holland",
+        "Gemeente Zaanstad"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Schriftelijke inspraak agenda-initiatief Evenementen  op de Hemkade en het Hembrugterrein",
+    "itemId": "a31aba87-5f6f-4582-a26d-b476d05b9c4a",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/d39bb1f7-1061-4d1c-8ee5-da7a05ef8d09",
+    "samenvatting": "Schriftelijke inspraak 'agenda-initiatief Evenementen op de Hemkade en het Hembrugterrein' - Achtergrond Hierbij de inspraak van mij, , wonende te in Zaandam. Met mijn vrouw en 2 kinderen. 15 en 13 jaar oud. Voor het agenda-initiatief Evenementen op de Hemkade en het Hembrugterrein is gevraagd om inspraak van bewoners. Met de belangenvereniging Bewoners Hemkade-Ghijsenlaan hebben wij eerder met de gemeente onze zorgpunten mbt verkeer gedeeld. 2 weken geleden. In dit document deel ik de zorgpunten die we toen hebben gedeeld, specifiek tijdens evenementen bij ons in de buurt. Dit doe ik op persoonlijke titel. Niet namens de belangenvereniging. Bureau Goudappel (verder genoemd “Goudappel”) doet in opdracht van de gemeente Zaanstad onderzoek naar het verkeer op het Zuiderhout en de omgeving van het Hembrugterrein. Tekst van de gemeente Zaanstad: Voor het toekomstperspectief van het Hembrugterrein en Zuiderhout heeft gemeente Zaanstad een opdracht gegeven aan verkeerskundig bureau Goudappel Coffeng om een inventarisatie te maken van de huidige bottlenecks in het gebied m.b.t verkeersafwikkeling. Voor deze inventarisatie vragen wij ook bij stakeholders in het gebied informatie op met als doeleinde een goed overzicht te krijgen van het gebied vanuit verschillende perspectieven. Zorgpunten tijdens Evenementen Hembrugterrein/Taets (en NSV) Zorgpunten 1. Taxi’s in de Pieter Ghijsenlaan en Hemkade ○ Tijdens evenementen worden taxi’s geleid via de Pieter Ghijsenlaan en Hemkade. Dit leidt tot gevaarlijke situaties voor fietsers komende van de Proviancialeweg naar en over de Hemkade. Fietsers moeten tegen de stroom van taxi’s inrijden tussen het Pontplein en Hemkade 25. Wat extra gevaarlijk is, gegeven dat i. De taxichauffeurs rijden vaak hard. ii. De hoek Pieter Ghijsenlaan en Hemkade is onoverzichtelijk. iii. De straatverlichting op dat stukje Hemkade regelmatig niet werkt. Het is dan erg donker. ○ Dit vinden wij ook een extra zorgpunt, gegeven een aantal (aanstaande) tieners in de buurt, die uitgaan. Zeker als zij op de fiets thuiskomen op het moment dat er uitloop is van een evenement vinden wij dit een zorgpunt. ○ Ook leidt de drukte met taxi’s in de Symon Spiersweg, Pieter Ghijsenlaan en Hemkade tot agressie. Tussen verkeersdeelnemers en ook richting bewoners. ○ Suggesties i. Taxi’s gaan via de rotonde Simon Spiersweg en Provincialeweg het Hembrugterrein op. Klanten worden op het terrein opgehaald en afgezet. ii. Er wordt een maximum gesteld aan het aantal taxi’s op het Hembrugterrein. Zoals bij Centraal Station in Amsterdam. iii. De Pieter Ghijsenlaan en Hemkade worden niet gebruikt als wachtplaats voor taxi’s. 2. Fietsers Provicialeweg vs publiek Taets te voet. ○ Voor fietsers is het moeilijk doorkomen tijdens evenementen op het Hembrugterrein. Zeker tijdens uitloop van evenementen. Publiek loopt via het fietspad terug. Bij gebrek aan een stoep. Een buurtbewoner is gevallen door een botsing met een onoplettende bezoeker. 3. Onbereikbaarheid met auto ti",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:30.606Z",
+    "documentInhoudOpgehaald": true,
+    "score": 16,
+    "scoreToelichting": [
+      "nieuws van morgen (+2)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "twijfel",
+      "onderbouwing": "Het bericht heeft een hoge nabijheid (Zaandam, Hembrugterrein) en raakt de bewoners concreet in hun dagelijks leven qua verkeersveiligheid tijdens evenementen. Het betreft echter een individuele inspraakreactie op een lopend agenda-initiatief, waardoor het nieuwswaardige gewicht afhangt van bredere besluitvorming in de gemeenteraad.",
+      "invalshoek": "Zaandamse bewoners luiden de noodklok over verkeersgevaar en taxidrukte rond evenementen op het Hembrugterrein.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Bureau Goudappel",
+        "Belangengroep Bewoners Hemkade-Ghijsenlaan"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Verzoek om spreektijd en verspreiding stukken TAETS – Zaanstad Beraad 17 november, agendapunt 5",
+    "itemId": "bd14e025-fa07-440c-be30-1f2a3414aad5",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/249a96a7-738c-4ec8-9b71-d4674ddb9e1c",
+    "samenvatting": "TAETSArt & Event ParkZaandam, 16 november 2026 Zaanstad Beraad 17 november – afspraken over de toekomst van TAETS op het Hembrugterrein Geachte burgemeester Hamming, Op dinsdag 17 november bespreekt het Zaanstad Beraad de toekomst van evenementen op de Hemkade en het Hembrugterrein. Die bespreking raakt rechtstreeks aan de toekomst van TAETS Art & Event Park. Omdat wij geen uitnodiging hebben ontvangen om onze positie toe te lichten, richten wij ons vooraf tot u. Wij vragen u bij de bespreking ook de betekenis van onze activiteiten voor Zaanstad te betrekken, evenals de afspraken die de gemeente, Hembrug Zaandam en TAETS hebben gemaakt over de voortzetting van onze bedrijfsvoering op het Hembrugterrein. Mijn inmiddels overleden vader Peter Tates heeft als een van de eerste ondernemers het Hembrugterrein nieuw leven ingeblazen. Inmiddels ontvangen wij er jaarlijks honderdduizenden bezoekers. Congressen, beurzen en zakelijke bijeenkomsten vormen de kern van ons werk. Daarnaast biedt TAETS ruimte aan kunst, cultuur en maatschappelijke initiatieven. Onze activiteiten zorgen voor veel werkgelegenheid op en rond het Hembrugterrein. Die betekenis voor Zaanstad verdient hopelijk een plaats in het debat, naast de aandacht voor de leefomgeving van huidige en toekomstige bewoners. Om de huidige ontwikkelingen mogelijk te maken, hebben wij destijds onze beroepen ingetrokken. Wij hebben dat gedaan op basis van de afspraken die wij op 23 april 2021 met de gemeente Zaanstad en Hembrug Zaandam hebben vastgelegd in het Akkoord op Hoofdlijnen. Voor onze medewerking was doorslaggevend dat TAETS haar bestaande bedrijfsvoering kon voortzetten, dat TAETS bereikbaar zou blijven voor bezoekers en leveranciers, dat het bestaande parkeerbeleid voor TAETS te allen tijde zou worden gecontinueerd en dat er op het terrein ruimte zou blijven voor evenementen. Ons is toegezegd dat er een locatieprofiel zou komen om de ruimte voor evenementen op het Hembrugterrein ook in de toekomst te waarborgen. Daarnaast heeft Hembrug Zaandam meermaals toegezegd een mobiliteitsplan te presenteren. In dat plan zou Hembrug Zaandam uitwerken hoe bij de inpassing van woningbouw en andere nieuwe functies het bestaande parkeerbeleid voor TAETS wordt gewaarborgd en hoe het terrein bereikbaar blijft voor de ondernemers die er al gevestigd zijn, hun bezoekers en hun leveranciers. De afspraak over de voortzetting van het parkeerbeleid was al ruim vóór het Akkoord op Hoofdlijnen met het Rijk gemaakt. Hembrug Zaandam kende die verplichting bij de aankoop van het terrein en heeft deze als koper moeten overnemen. Tot op heden hebben wij het toegezegde mobiliteitsplan niet ontvangen. TAETS is haar deel van de afspraken nagekomen. Wij hebben onze beroepen ingetrokken en onze bedrijfsvoering aangepast aan de afgesproken geluidscontour van 50 meter. Daardoor zijn sommige evenementen die voorheen bij ons dagelijks konden plaatsvinden, inmiddels niet meer mogelijk. Tegelijkertijd gaat de gebiedsontwikkeling door",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:30.606Z",
+    "documentInhoudOpgehaald": true,
+    "score": 16,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "ja",
+      "onderbouwing": "Het bericht heeft hoge actualiteit vanwege het naderende Zaanstad Beraad en een groot lokaal belang voor bewoners en ondernemers rond het Hembrugterrein. Door de directe nabijheid in Zaanstreek-Waterland en de concrete gevolgen voor de bedrijfsvoering van een bekende lokale speler voldoet het aan de journalistieke criteria.",
+      "invalshoek": "TAETS luidt de noodklok voorafgaand aan het Zaanstad Beraad omdat zij vrezen voor hun toekomst door uitgebleven afspraken over parkeren en bereikbaarheid op het Hembrugterrein.",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad (agenda Zaanstad Beraad 17 november)",
+        "Hembrug Zaandam",
+        "TAETS Art & Event Park"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Provincie zoekt woorden voor Noord-Hollandlied",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_zoekt_woorden_voor_Noord_Hollandlied",
+    "samenvatting": "De provincie Noord-Holland werkt aan een nieuw en eigentijds lied: Een lied voor en van alle Noord-Hollanders. Daarom roepen Provinciale Staten de inwoners van Noord-Holland op om daar samen aan te werken.",
+    "gepubliceerdOp": "2026-11-16T17:15:59.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:55.344Z",
+    "score": 8,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "recency (+6, 1.4 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht heeft betrekking op de gehele provincie Noord-Holland en mist specifieke nabijheid voor de Zaanstreek-Waterland. Er is geen sprake van directe gevolgen voor het dagelijks leven of een concreet maatschappelijk probleem.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
         "Provinciale Staten Noord-Holland"
       ]
     },
     "aiFout": null
   },
   {
+    "bronId": "ibabs-ingekomen-stukken",
+    "bronNaam": "Zaanstad — Ingekomen stukken (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Brief aan omwonenden Saendenborch",
+    "itemId": "c5daedda-a459-482c-b050-6f697c49d4e9",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/93fa08b9-02ff-4a71-9a81-625b73c0c95f",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-17T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:30.606Z",
+    "documentInhoudOpgehaald": false,
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 1.1 dag(en) oud)"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel de constatering dat er een brief is gestuurd aan omwonenden van Saendenborch, zonder inhoudelijke details over de aanleiding, het besluit of de gevolgen. Hierdoor ontbreken de criteria belang, omvang en nabijheid om te kunnen spreken van een volwaardig lokaal nieuwsbericht.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Gemeente Zaanstad",
+        "Omwonenden Saendenborch"
+      ]
+    },
+    "aiFout": null
+  },
+  {
     "bronId": "nh-actueel",
     "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Bewonersavond_over_N206_tussen_Vogelenzang_en_Aerdenhout",
-    "samenvatting": "Op dinsdag 24 november organiseert de provincie Noord-Holland een bewonersavond over de Vogelenzangseweg (N206). De bijeenkomst is van 19.00 tot 21.00 uur in Dorpshuis Vogelenzang.",
-    "gepubliceerdOp": "2026-11-16T10:43:36.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:20.350Z",
+    "titel": "Maak kennis met techniek op een PET Event",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Maak_kennis_met_techniek_op_een_PET_Event",
+    "samenvatting": "In 2026 en in 2027 worden er in meerdere regio’s in Noord-Holland PET Events georganiseerd voor leerlingen uit groep 7 en 8. Op PET Events (Promotie Evenementen Techniek), kunnen leerlingen kennismaken met alles wat techniek te bieden heeft. De events worden mede mogelijk gemaakt door de provincie Noord-Holland.",
+    "gepubliceerdOp": "2026-11-17T10:28:30.000Z",
+    "opgehaaldOp": "2026-11-18T02:44:55.344Z",
     "score": 7,
     "scoreToelichting": [
       "recency (+7, 0.7 dag(en) oud)"
     ],
     "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist de criteria voor nabijheid, aangezien Vogelenzang en Aerdenhout in de gemeente Bloemendaal liggen en niet in Zaanstreek-Waterland. Wel is er sprake van actualiteit en nieuws van morgen vanwege de aangekondigde bewonersavond, maar de geografische locatie past niet bij het werkgebied.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Provincie Noord-Holland"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Alexander Broussard speelt Billy Joel",
-    "url": "https://waarheen.deorkaan.nl/agenda/alexander-broussard-speelt-billy-joel-4/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:34.352Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht mist actualiteit, een concrete afwijking van het alledaagse en maatschappelijk belang, aangezien het enkel een culturele agenda-vermelding betreft zonder toelichting over impact, omvang of lokaal beleid. Er zijn geen concrete gevolgen voor het dagelijks leven of inzicht in maatschappelijke problemen, waardoor het niet voldoet aan de journalistieke criteria.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "Theateragenda Zaanstreek-Waterland",
-        "Organisator van het optreden"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Lezing: De levensloop van sterren",
-    "url": "https://waarheen.deorkaan.nl/agenda/lezing-de-levensloop-van-sterren/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:34.352Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": {
-      "oppakbaar": "nee",
-      "onderbouwing": "Het bericht bevat enkel de titel van een agenda-item over een lezing en mist verdere details over actualiteit, locatie of omvang. Hierdoor is er onvoldoende nieuwswaarde op basis van de criteria en draagt het niet bij aan de drie redactionele doelen.",
-      "invalshoek": "",
-      "teCheckenBronnen": [
-        "WaarheenAgenda"
-      ]
-    },
-    "aiFout": null
-  },
-  {
-    "bronId": "zaanstad-hoorzittingen",
-    "bronNaam": "zaanstad-hoorzittingen",
-    "categorie": "lokaal",
-    "titel": "2026-12-09 Woensdag 9 december 2026 om 18:15 uur - Invordering dwangsom m.b.t. locatie Kopermolenstraat 44 te Zaandam - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
-    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366552",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-12-09T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-17T03:25:28.672Z",
-    "score": 4,
-    "scoreToelichting": [
-      "nabijheid (+4)"
-    ],
-    "aiBeoordeling": {
       "oppakbaar": "twijfel",
-      "onderbouwing": "Het bericht heeft hoge nabijheid (Zaandam) en actuele betekenis door een formele hoorzitting over een dwangsom. Het ontbreekt echter aan concrete details over de omvang van de dwangsom en de achterliggende overtreding, waardoor de impact op het dagelijks leven onduidelijk blijft.",
-      "invalshoek": "Gemeente Zaanstad houdt een hoorzitting over de invordering van een dwangsom aan de Kopermolenstraat in Zaandam.",
+      "onderbouwing": "Het bericht heeft nabijheid omdat het in Noord-Holland speelt en is een nieuws van morgen-vooraankondiging voor 2026 en 2027. Het mist echter concrete details over specifieke locaties in Zaanstreek-Waterland, de omvang en directe gevolgen voor inwoners.",
+      "invalshoek": "Welke locaties in Zaanstreek-Waterland doen mee aan de geplande PET Events voor groep 7 en 8 in 2026 en 2027?",
       "teCheckenBronnen": [
-        "Gemeente Zaanstad",
-        "Betrokken belanghebbende Kopermolenstraat 44"
+        "Provincie Noord-Holland",
+        "Lokale scholen voor basisonderwijs in Zaanstreek-Waterland"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Zaanse Popquiz",
+    "url": "https://waarheen.deorkaan.nl/agenda/zaanse-popquiz/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:45:10.560Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een titel zonder verdere inhoud of context over de Zaanse Popquiz. Hierdoor ontbreken concrete feiten over actualiteit, belang, omvang en of het bijdraagt aan maatschappelijk begrip of dagelijks leven.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "WaarheenAgenda",
+        "Organisator Zaanse Popquiz"
+      ]
+    },
+    "aiFout": null
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Bowlen met de Zaanse Regenboog",
+    "url": "https://waarheen.deorkaan.nl/agenda/bowlen-met-de-zaanse-regenboog-3/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-19T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-18T02:45:10.560Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 0.9 dag(en))"
+    ],
+    "aiBeoordeling": {
+      "oppakbaar": "nee",
+      "onderbouwing": "Het bericht bevat enkel een aankondiging voor een evenement zonder verdere journalistieke details, impact of maatschappelijke urgentie. Hierdoor ontbreekt voldoende nieuwswaarde op basis van de criteria.",
+      "invalshoek": "",
+      "teCheckenBronnen": [
+        "Organisator Zaanse Regenboog"
       ]
     },
     "aiFout": null
