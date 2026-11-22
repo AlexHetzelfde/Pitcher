@@ -1,17 +1,17 @@
 [
   {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "bronId": "zaandijk-leeft",
+    "bronNaam": "zaandijk-leeft",
     "categorie": "lokaal",
-    "titel": "Eerste kilometer van langste heg van Nederland geplant",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_kilometer_van_langste_heg_van_Nederland_geplant",
-    "samenvatting": "Het project 'Waar een wil is, is een heg' is donderdag 19 november 2026 afgetrapt. Op landgoed Rorik werd de eerste kilometer heg geplant van wat uiteindelijk de langste heg van Nederland moet worden.",
-    "gepubliceerdOp": "2026-11-20T10:52:56.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:35.236Z",
-    "score": 9,
+    "titel": "Zaandijk is een kindvriendelijk dorp",
+    "url": "https://zaandijkleeft.nl/zaandijk-is-een-kindvriendelijk-dorp/",
+    "samenvatting": "Wie aan Zaandijk denkt, ziet misschien eerst de historische huizen langs de Lagedijk voor zich.",
+    "gepubliceerdOp": "2026-11-21T12:39:03.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:54.339Z",
+    "score": 11,
     "scoreToelichting": [
-      "voor het eerst (+2)",
-      "recency (+7, 0.6 dag(en) oud)"
+      "nabijheid (+4)",
+      "recency (+7, 0.5 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -21,13 +21,13 @@
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
     "titel": "Raamtheater Wormer",
-    "url": "https://waarheen.deorkaan.nl/agenda/raamtheater-wormer-2/",
+    "url": "https://waarheen.deorkaan.nl/agenda/raamtheater-wormer-3/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.957Z",
+    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -36,14 +36,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Aarde",
-    "url": "https://waarheen.deorkaan.nl/agenda/aarde/",
+    "titel": "Lady sings the blues - Billie Holiday",
+    "url": "https://waarheen.deorkaan.nl/agenda/lady-sings-the-blues-billie-holiday/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.958Z",
+    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -52,14 +52,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Roots aan de Zaan: Blowzabella",
-    "url": "https://waarheen.deorkaan.nl/agenda/roots-aan-de-zaan-blowzabella/",
+    "titel": "Pim & Pom (2+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/pim-pom-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.958Z",
+    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -68,14 +68,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Gravity & Other Myths",
-    "url": "https://waarheen.deorkaan.nl/agenda/gravity-other-myths-2/",
+    "titel": "Pim & Pom (2+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/pim-pom-2-2/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.958Z",
+    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:58.810Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -84,110 +84,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "The Drama",
-    "url": "https://waarheen.deorkaan.nl/agenda/the-drama/",
+    "titel": "Samar en de bange koning (8+)",
+    "url": "https://waarheen.deorkaan.nl/agenda/samar-en-de-bange-koning-8/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.959Z",
+    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-22T00:58:58.810Z",
     "score": 8,
     "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Hemlab: Helaas Speculaas! (7-14 jaar)",
-    "url": "https://waarheen.deorkaan.nl/agenda/hemlab-proefjes-met-snoepjes-7-14-jaar-6/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.959Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Bel Canto Operette",
-    "url": "https://waarheen.deorkaan.nl/agenda/bel-canto-operette-5/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.959Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Radoejsja",
-    "url": "https://waarheen.deorkaan.nl/agenda/radoejsja/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.960Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Pub Quiz Cresendo",
-    "url": "https://waarheen.deorkaan.nl/agenda/pub-quiz-cresendo/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-21T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:53.960Z",
-    "score": 8,
-    "scoreToelichting": [
-      "recency (+8, 0.1 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Keti Koti dialoogtafel: \"Wie zich kan inleven in de pijn van een ander, kan het verschil maken\"",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Keti_Koti_dialoogtafel_Wie_zich_kan_inleven_in_de_pijn_van_een_ander_kan_het_verschil_maken",
-    "samenvatting": "In de Noorderkerk in Hoorn gingen donderdagavond tientallen witte mensen en mensen van kleur met elkaar in gesprek om elkaar beter te leren kennen en te begrijpen. Deze Keti Koti dialoogtafel is medegeorganiseerd door de provincie Noord-Holland.",
-    "gepubliceerdOp": "2026-11-20T14:20:53.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:35.236Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 0.5 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "nh-actueel",
-    "bronNaam": "Provincie Noord-Holland — Actueel",
-    "categorie": "lokaal",
-    "titel": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
-    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kalk_en_steenmeel_voor_bodemverbetering_op_de_Gooise_heide",
-    "samenvatting": "Met kalk en steenmeel werkt het Goois Natuurreservaat aan de variatie aan planten en dieren (biodiversiteit) op de heide in het Gooi.",
-    "gepubliceerdOp": "2026-11-20T10:58:52.000Z",
-    "opgehaaldOp": "2026-11-21T01:59:35.236Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, 0.6 dag(en) oud)"
+      "recency (+8, 0.0 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
