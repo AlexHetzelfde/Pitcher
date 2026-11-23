@@ -3,15 +3,15 @@
     "bronId": "zaandijk-leeft",
     "bronNaam": "zaandijk-leeft",
     "categorie": "lokaal",
-    "titel": "Zaandijk is een kindvriendelijk dorp",
-    "url": "https://zaandijkleeft.nl/zaandijk-is-een-kindvriendelijk-dorp/",
-    "samenvatting": "Wie aan Zaandijk denkt, ziet misschien eerst de historische huizen langs de Lagedijk voor zich.",
-    "gepubliceerdOp": "2026-11-21T12:39:03.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:54.339Z",
-    "score": 11,
+    "titel": "Sinterklaas in Zaandijk",
+    "url": "https://zaandijkleeft.nl/sinterklaas-in-zaandijk/",
+    "samenvatting": "Op 21 november 2026 klokslag 17 uur begint Sinterklaas aan zijn feestelijke lichtjesintocht door Oud Zaandijk.",
+    "gepubliceerdOp": "2026-11-22T15:45:21.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:32.296Z",
+    "score": 12,
     "scoreToelichting": [
       "nabijheid (+4)",
-      "recency (+7, 0.5 dag(en) oud)"
+      "recency (+8, 0.4 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -20,14 +20,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Raamtheater Wormer",
-    "url": "https://waarheen.deorkaan.nl/agenda/raamtheater-wormer-3/",
+    "titel": "Opening Virtueel TIJDmuseum",
+    "url": "https://waarheen.deorkaan.nl/agenda/opening-virtueel-tijdmuseum/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.473Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 0.9 dag(en))"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -36,14 +36,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Lady sings the blues - Billie Holiday",
-    "url": "https://waarheen.deorkaan.nl/agenda/lady-sings-the-blues-billie-holiday/",
+    "titel": "Openhuis ISK",
+    "url": "https://waarheen.deorkaan.nl/agenda/openhuis-isk/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 0.9 dag(en))"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -52,14 +52,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Pim & Pom (2+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/pim-pom-2/",
+    "titel": "Pubquiz bij De Koperen Bel",
+    "url": "https://waarheen.deorkaan.nl/agenda/pubquiz-bij-de-koperen-bel-6/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:58.809Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 1.9 dag(en))"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -68,14 +68,14 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Pim & Pom (2+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/pim-pom-2-2/",
+    "titel": "Wouter Harbers & Gerben Schenk",
+    "url": "https://waarheen.deorkaan.nl/agenda/wouter-harbers-gerben-schenk/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:58.810Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 1.9 dag(en))"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
@@ -84,14 +84,110 @@
     "bronId": "WaarheenAgenda",
     "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Samar en de bange koning (8+)",
-    "url": "https://waarheen.deorkaan.nl/agenda/samar-en-de-bange-koning-8/",
+    "titel": "Najib Amhali & Roue Verveer",
+    "url": "https://waarheen.deorkaan.nl/agenda/najib-amhali-roue-verveer/",
     "samenvatting": "",
-    "gepubliceerdOp": "2026-11-22T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-22T00:58:58.810Z",
-    "score": 8,
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
+    "score": 7,
     "scoreToelichting": [
-      "recency (+8, 0.0 dag(en) oud)"
+      "recency (+7, evenement over 1.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Oude Zaanse films kijken",
+    "url": "https://waarheen.deorkaan.nl/agenda/oude-zaanse-films-kijken-3/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Louise Acabo",
+    "url": "https://waarheen.deorkaan.nl/agenda/louise-acabo/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Bingo in de Bovenkruier",
+    "url": "https://waarheen.deorkaan.nl/agenda/bingo-in-de-bovenkruier-9/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, evenement over 1.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Kasper van der Laan",
+    "url": "https://waarheen.deorkaan.nl/agenda/kasper-van-der-laan-3/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
+    "score": 6,
+    "scoreToelichting": [
+      "recency (+6, evenement over 2.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "I am Andrew",
+    "url": "https://waarheen.deorkaan.nl/agenda/i-am-andrew/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
+    "score": 6,
+    "scoreToelichting": [
+      "recency (+6, evenement over 2.9 dag(en))"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Koppiebar Pub Quiz",
+    "url": "https://waarheen.deorkaan.nl/agenda/koppiebar-pub-quiz-2/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
+    "score": 6,
+    "scoreToelichting": [
+      "recency (+6, evenement over 2.9 dag(en))"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
