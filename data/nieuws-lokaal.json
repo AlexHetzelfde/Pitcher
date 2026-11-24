@@ -1,193 +1,54 @@
 [
   {
+    "bronId": "ibabs-collegeberichten",
+    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "categorie": "lokaal",
+    "titel": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
+    "itemId": "7060608c-c4ba-410f-8a1e-b544ae1da737",
+    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c",
+    "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname — gemeente Zaanstad wethouder H. van der Laan Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 19 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording. Ter informatie van college aan de gemeenteraad Beste raadsleden, Het college van Gedeputeerde Staten van Noord- Holland heeft op 3 november jl. de concept Omgevingsvisie Noord-Holland samen met de Nota van Beantwoording en de Omgevingseffectrapportage vastgesteld. Hierbij ontvangt u via onderstaande link de vastgestelde documenten: Vernieuwen Omgevingsvisie Met vriendelijke groet, H. van der Laan",
+    "gepubliceerdOp": "2026-11-23T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-24T05:08:21.626Z",
+    "documentInhoudOpgehaald": true,
+    "score": 16,
+    "scoreToelichting": [
+      "voor het eerst (+2)",
+      "primeur/eerstehands bron (+3)",
+      "nabijheid (+4)",
+      "recency (+7, 1.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "zaanstad-hoorzittingen",
+    "bronNaam": "zaanstad-hoorzittingen",
+    "categorie": "lokaal",
+    "titel": "2026-12-08 Dinsdag 8 december 2026 om 19:30 uur - Sluiting woning i.v.m. overtreding Opiumwet Parkrijklaan 101 te Assendelft - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366611",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-12-08T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-24T05:09:13.325Z",
+    "score": 8,
+    "scoreToelichting": [
+      "belang (+4)",
+      "nabijheid (+4)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
     "bronId": "zaandijk-leeft",
     "bronNaam": "zaandijk-leeft",
     "categorie": "lokaal",
-    "titel": "Sinterklaas in Zaandijk",
-    "url": "https://zaandijkleeft.nl/sinterklaas-in-zaandijk/",
-    "samenvatting": "Op 21 november 2026 klokslag 17 uur begint Sinterklaas aan zijn feestelijke lichtjesintocht door Oud Zaandijk.",
-    "gepubliceerdOp": "2026-11-22T15:45:21.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:32.296Z",
-    "score": 12,
-    "scoreToelichting": [
-      "nabijheid (+4)",
-      "recency (+8, 0.4 dag(en) oud)"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Opening Virtueel TIJDmuseum",
-    "url": "https://waarheen.deorkaan.nl/agenda/opening-virtueel-tijdmuseum/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.473Z",
+    "titel": "Lichtjesfeest Rooswijk",
+    "url": "https://zaandijkleeft.nl/lichtjesfeest-rooswijk/",
+    "samenvatting": "Vorig jaar waren er bijna 250 kinderen, vaders, moeders, opa’s en oma’s en heel veel lichtjes aanwezig bij Het Lichtjesfeest in Rooswijk.",
+    "gepubliceerdOp": "2026-11-23T09:45:22.000Z",
+    "opgehaaldOp": "2026-11-24T05:09:14.093Z",
     "score": 7,
     "scoreToelichting": [
-      "recency (+7, evenement over 0.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Openhuis ISK",
-    "url": "https://waarheen.deorkaan.nl/agenda/openhuis-isk/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 0.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Pubquiz bij De Koperen Bel",
-    "url": "https://waarheen.deorkaan.nl/agenda/pubquiz-bij-de-koperen-bel-6/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Wouter Harbers & Gerben Schenk",
-    "url": "https://waarheen.deorkaan.nl/agenda/wouter-harbers-gerben-schenk/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Najib Amhali & Roue Verveer",
-    "url": "https://waarheen.deorkaan.nl/agenda/najib-amhali-roue-verveer/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Oude Zaanse films kijken",
-    "url": "https://waarheen.deorkaan.nl/agenda/oude-zaanse-films-kijken-3/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.474Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Louise Acabo",
-    "url": "https://waarheen.deorkaan.nl/agenda/louise-acabo/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Bingo in de Bovenkruier",
-    "url": "https://waarheen.deorkaan.nl/agenda/bingo-in-de-bovenkruier-9/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
-    "score": 7,
-    "scoreToelichting": [
-      "recency (+7, evenement over 1.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Kasper van der Laan",
-    "url": "https://waarheen.deorkaan.nl/agenda/kasper-van-der-laan-3/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
-    "score": 6,
-    "scoreToelichting": [
-      "recency (+6, evenement over 2.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "I am Andrew",
-    "url": "https://waarheen.deorkaan.nl/agenda/i-am-andrew/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
-    "score": 6,
-    "scoreToelichting": [
-      "recency (+6, evenement over 2.9 dag(en))"
-    ],
-    "aiBeoordeling": null,
-    "aiFout": "Gemini HTTP 401"
-  },
-  {
-    "bronId": "WaarheenAgenda",
-    "bronNaam": "WaarheenAgenda",
-    "categorie": "lokaal",
-    "titel": "Koppiebar Pub Quiz",
-    "url": "https://waarheen.deorkaan.nl/agenda/koppiebar-pub-quiz-2/",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-11-26T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-23T01:27:38.475Z",
-    "score": 6,
-    "scoreToelichting": [
-      "recency (+6, evenement over 2.9 dag(en))"
+      "recency (+7, 0.8 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
