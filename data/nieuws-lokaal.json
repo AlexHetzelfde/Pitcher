@@ -1,54 +1,180 @@
 [
   {
-    "bronId": "ibabs-collegeberichten",
-    "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
     "categorie": "lokaal",
-    "titel": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
-    "itemId": "7060608c-c4ba-410f-8a1e-b544ae1da737",
-    "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c",
-    "samenvatting": "Kennisgeving — Laan, van der H. — Ter kennisname — gemeente Zaanstad wethouder H. van der Laan Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 19 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERWERP Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording. Ter informatie van college aan de gemeenteraad Beste raadsleden, Het college van Gedeputeerde Staten van Noord- Holland heeft op 3 november jl. de concept Omgevingsvisie Noord-Holland samen met de Nota van Beantwoording en de Omgevingseffectrapportage vastgesteld. Hierbij ontvangt u via onderstaande link de vastgestelde documenten: Vernieuwen Omgevingsvisie Met vriendelijke groet, H. van der Laan",
-    "gepubliceerdOp": "2026-11-23T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-24T05:08:21.626Z",
-    "documentInhoudOpgehaald": true,
-    "score": 16,
+    "titel": "Weggeefmarkt in Zaandam Zuid",
+    "url": "https://waarheen.deorkaan.nl/agenda/weggeefmarkt-in-zaandam-zuid/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:56.503Z",
+    "score": 12,
+    "scoreToelichting": [
+      "nabijheid (+4)",
+      "recency (+8, 0.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_vraagt_aandacht_veiligheid_weginspecteurs_na_aanrijding_dienstwagen",
+    "samenvatting": "Dag en nacht zorgen weginspecteurs van de provincie Noord-Holland voor veilige en bereikbare provinciale wegen. Helaas krijgen zij regelmatig te maken met gevaarlijke situaties langs de weg, zoals weggebruikers die geen snelheid minderen, afzettingen negeren of agressie tonen. Weginspecteur Wesley: “Wij doen ons werk zodat hulpverleners veilig kunnen werken én iedereen op de weg weer veilig thuis kan komen.”",
+    "gepubliceerdOp": "2026-11-24T13:52:37.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:40.963Z",
+    "score": 10,
+    "scoreToelichting": [
+      "afwijking (+3)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Kantoren Noord-Holland energiezuiniger",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kantoren_Noord_Holland_energiezuiniger",
+    "samenvatting": "Door strengere wetgeving zijn veel kantoorpanden energiezuiniger gemaakt. Het aandeel kantooroppervlak met energielabel A of beter is verdrievoudigd. Dit staat in de Monitor Werklocaties Noord-Holland 2025-2026 die de provincie vandaag publiceert.",
+    "gepubliceerdOp": "2026-11-24T12:53:49.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:40.963Z",
+    "score": 10,
+    "scoreToelichting": [
+      "actualiteit (+3)",
+      "recency (+7, 0.6 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
+    "categorie": "lokaal",
+    "titel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Beperkingen_voor_scheepvaart_en_verkeersstops_voor_wegverkeer_tijdens_bouw_Stolperbrug",
+    "samenvatting": "De provincie Noord-Holland start vanaf 30 november 2026 met werkzaamheden in het Noordhollandsch Kanaal voor de bouw van de nieuwe Stolperbrug.",
+    "gepubliceerdOp": "2026-11-24T09:36:39.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:40.963Z",
+    "score": 9,
     "scoreToelichting": [
       "voor het eerst (+2)",
-      "primeur/eerstehands bron (+3)",
-      "nabijheid (+4)",
+      "recency (+7, 0.8 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Wintermarkt Zonnehoek",
+    "url": "https://waarheen.deorkaan.nl/agenda/wintermarkt-zonnehoek/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:56.503Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Over de laatste levensfase in De Bloesem",
+    "url": "https://waarheen.deorkaan.nl/agenda/over-de-laatste-levensfase-in-de-bloesem/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:56.503Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "WaarheenAgenda",
+    "bronNaam": "WaarheenAgenda",
+    "categorie": "lokaal",
+    "titel": "Op pad met ROSA!",
+    "url": "https://waarheen.deorkaan.nl/agenda/2026-11-25-op-pad-met-rosa/",
+    "samenvatting": "",
+    "gepubliceerdOp": "2026-11-25T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:56.503Z",
+    "score": 8,
+    "scoreToelichting": [
+      "recency (+8, 0.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "hhnk-nieuws",
+    "bronNaam": "Hoogheemraadschap Hollands Noorderkwartier — Nieuws",
+    "categorie": "lokaal",
+    "titel": "Eten we straks zoute augurken?",
+    "url": "https://www.hhnk.nl/eten-we-straks-zoute-augurken",
+    "samenvatting": "Een mogelijk watertekort in de toekomst vraagt om keuzes. Dat zegt WUR-professor Ruud Bartholomeus in de HHNK-podcast 'Water voor later'.",
+    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:40.145Z",
+    "score": 7,
+    "scoreToelichting": [
       "recency (+7, 1.2 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
   },
   {
-    "bronId": "zaanstad-hoorzittingen",
-    "bronNaam": "zaanstad-hoorzittingen",
+    "bronId": "nh-actueel",
+    "bronNaam": "Provincie Noord-Holland — Actueel",
     "categorie": "lokaal",
-    "titel": "2026-12-08 Dinsdag 8 december 2026 om 19:30 uur - Sluiting woning i.v.m. overtreding Opiumwet Parkrijklaan 101 te Assendelft - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
-    "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366611",
-    "samenvatting": "",
-    "gepubliceerdOp": "2026-12-08T00:00:00.000Z",
-    "opgehaaldOp": "2026-11-24T05:09:13.325Z",
-    "score": 8,
+    "titel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
+    "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Werkzaamheden_aan_viaduct_N244_bij_Middenbeemster_starten_in_augustus",
+    "samenvatting": "De provincie start in augustus 2027 met het versterken van het viaduct in de N244 bij Middenbeemster. De werkzaamheden stonden eerder gepland voor het voorjaar van 2027. De werkzaamheden worden verplaatst omdat meer voorbereidingstijd nodig is. Uit de onderzoeken blijkt dat het versterken van het viaduct ingewikkelder is dan verwacht.",
+    "gepubliceerdOp": "2026-11-24T13:12:03.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:40.963Z",
+    "score": 7,
     "scoreToelichting": [
-      "belang (+4)",
-      "nabijheid (+4)"
+      "recency (+7, 0.6 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
   },
   {
-    "bronId": "zaandijk-leeft",
-    "bronNaam": "zaandijk-leeft",
+    "bronId": "OmgevingsdienstNHN",
+    "bronNaam": "OmgevingsdienstNHN",
     "categorie": "lokaal",
-    "titel": "Lichtjesfeest Rooswijk",
-    "url": "https://zaandijkleeft.nl/lichtjesfeest-rooswijk/",
-    "samenvatting": "Vorig jaar waren er bijna 250 kinderen, vaders, moeders, opa’s en oma’s en heel veel lichtjes aanwezig bij Het Lichtjesfeest in Rooswijk.",
-    "gepubliceerdOp": "2026-11-23T09:45:22.000Z",
-    "opgehaaldOp": "2026-11-24T05:09:14.093Z",
+    "titel": "Noord-Hollandse omgevingsdiensten verkennen intensievere samenwerking",
+    "url": "https://www.odnhn.nl/nieuws/noord-hollandse-omgevingsdiensten-verkennen-intensievere-samenwerking/",
+    "samenvatting": "Momenteel vindt een voorverkenning plaats naar een eventuele fusie van Omgevingsdiensten Noordzeekanaalgebied (OD NZKG) en Omgevingsdienst IJmond (OD IJmond). Door de besturen van drie omgevingsdiensten in Noord-Holland is besloten dat Omgevingsdienst Noord-Holland Noord (OD NHN) ook gaat deelnemen aan dit onderzoek.   OD NHN ziet deelname als kans om meer inzicht…",
+    "gepubliceerdOp": "2026-11-24T00:00:00.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:53.087Z",
     "score": 7,
     "scoreToelichting": [
-      "recency (+7, 0.8 dag(en) oud)"
+      "recency (+7, 1.2 dag(en) oud)"
+    ],
+    "aiBeoordeling": null,
+    "aiFout": "Gemini HTTP 401"
+  },
+  {
+    "bronId": "omgevingsdienstnoordzeekanaal",
+    "bronNaam": "omgevingsdienstnoordzeekanaal",
+    "categorie": "lokaal",
+    "titel": "Update samenwerking Noord-Hollandse omgevingsdiensten",
+    "url": "https://odnzkg.nl/nieuws/update-samenwerking-noord-hollandse-omgevingsdiensten/",
+    "samenvatting": "In november 2025 publiceerden we de aanbevelingen van bestuurlijk verkenner Onno Hoes over de samenwerking tussen de vier Noord-Hollandse omgevingsdiensten. Sindsdien zijn er stappen gezet. Dit is de stand van zaken. The post Update samenwerking Noord-Hollandse omgevingsdiensten appeared first on Omgevingsdienst Noordzeekanaalgebied.",
+    "gepubliceerdOp": "2026-11-24T14:37:28.000Z",
+    "opgehaaldOp": "2026-11-25T03:57:54.326Z",
+    "score": 7,
+    "scoreToelichting": [
+      "recency (+7, 0.6 dag(en) oud)"
     ],
     "aiBeoordeling": null,
     "aiFout": "Gemini HTTP 401"
